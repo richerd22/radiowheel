@@ -1,0 +1,792 @@
+[
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "Brooklyn Underground FM",
+  "genre": "Trance",
+  "host": "",
+  "host_voice": "",
+  "notes": "No DJs in GTA 1 (per PC Gamer 2020, DJs arrived in GTA 2). All music original, in-house (DMA Design). E.g. Retrograde - \"Benzoate\" (C. Conner). Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "The Fix FM",
+  "genre": "Techno",
+  "host": "",
+  "host_voice": "",
+  "notes": "In-house. E.g. Rotorman - \"Ride\" (C. Conner); Technophiliak - \"Lagerstar\" (G. Middleton). Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "The Fergus Buckner Show FM",
+  "genre": "Country",
+  "host": "",
+  "host_voice": "",
+  "notes": "In-house. Sideways Hank O'Malley - \"The Ballad of Chapped Lip Calquhoun\" (C. Anderson/B. Baglow). Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "Head Radio FM",
+  "genre": "Pop/rock",
+  "host": "",
+  "host_voice": "",
+  "notes": "In-house. Reality Bubble - \"Days Like These\" (C. Conner). Only station named in-game. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "It's Unleashed FM",
+  "genre": "Alternative/hard rock",
+  "host": "",
+  "host_voice": "",
+  "notes": "In-house. Bleeding Stump - \"Just Do It\" (C. Anderson). Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "N-CT FM",
+  "genre": "Hip hop/rap",
+  "host": "",
+  "host_voice": "",
+  "notes": "In-house. Da Shootaz - \"Grand Theft Auto\" (Craig Conner). Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto",
+  "year": 1997,
+  "station": "Radio '76 FM",
+  "genre": "Funk/retro",
+  "host": "",
+  "host_voice": "",
+  "notes": "Wiki says in-game name is Funk FM. In-house. Ghetto Fingers - \"On The Move\" (Colin Anderson). Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_1"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Head Radio",
+  "genre": "Pop/rock",
+  "host": "Phanny Joe Styles; Johnny Riccaro",
+  "host_voice": "",
+  "notes": "Citywide station. Mostly in-house; Bula Matari - \"Taxi Drivers\" (1996) marked licensed. Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Rockstar Radio",
+  "genre": "Pop/rock",
+  "host": "Sammy Starock",
+  "host_voice": "",
+  "notes": "Downtown. Track 7 - \"I Wanna Phunk\" marked licensed. Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "KREZ",
+  "genre": "Hip hop/rap",
+  "host": "Richie T.",
+  "host_voice": "",
+  "notes": "Residential. Flytronix - \"Past Archives\" (1998) licensed. Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Lo-Fi FM",
+  "genre": "Oldies/funk/soul",
+  "host": "",
+  "host_voice": "",
+  "notes": "Industrial. DJ name differs: \"DJ Die/Dye\" (StrategyWiki) vs \"DJ Dai\" (gta.wiki). In-house, e.g. Stylus Exodus - \"Toucan Pie\" (C. Anderson).",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Futuro FM",
+  "genre": "Dance/jazz-pop/funk",
+  "host": "Dean Frantz",
+  "host_voice": "",
+  "notes": "Zaibatsu gang station. Davidson - \"All I Wanna Do\" (1999) licensed. Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Heavenly Radio",
+  "genre": "Christian/soft",
+  "host": "Venus Ordelia",
+  "host_voice": "",
+  "notes": "Krishnas gang station. In-house, e.g. Zoneboys - \"Amazing Grace\" (C. Conner). Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "KGBH",
+  "genre": "Classic rock/techno",
+  "host": "",
+  "host_voice": "",
+  "notes": "Russian mafia station, pirate. Hosts differ: \"Bombatumba\" (StrategyWiki) vs \"Bomba Tomba and Prodo\" (gta.wiki).",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_2"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Lithium FM",
+  "genre": "Mixed/oldies/dance",
+  "host": "Spaz Funbags",
+  "host_voice": "",
+  "notes": "Loonies gang station. In-house, e.g. Voice Box - \"Computer Lust\" (S. Ross). Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "King 130.7",
+  "genre": "Rock",
+  "host": "Marshall Nash",
+  "host_voice": "",
+  "notes": "Rednecks station; StrategyWiki calls it \"Rebel Radio/KING\". Mostly in-house (C. Conner).",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_2"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Osmosis Radio",
+  "genre": "Dance",
+  "host": "Mama Doc",
+  "host_voice": "",
+  "notes": "Scientists station; gta.wiki calls it \"Osmosis FM\". Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto 2",
+  "year": null,
+  "station": "Funami FM",
+  "genre": "Drum and bass/acid electronic",
+  "host": "Teriyaki-chan",
+  "host_voice": "",
+  "notes": "Yakuza station. In-house, e.g. Ido - \"Ball Blaster\" (S. Ross). Per StrategyWiki and gta.wiki.",
+  "source": "https://www.strategywiki.org/wiki/Grand_Theft_Auto_2/Radio_stations"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Boosh Sounds",
+  "genre": "Reggae",
+  "host": "",
+  "host_voice": "",
+  "notes": "The Upsetters - \"Return of Django\" (1969). Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Groovy Baby",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Italian film soundtrack recordings (Umiliani & Reverberi). Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Monster Sounds",
+  "genre": "Reggae",
+  "host": "",
+  "host_voice": "",
+  "notes": "Harry J Allstars - \"The Liquidator\" (1969); Symarip - \"Skinhead Moonstomp\". Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Blow Up Radio",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Riz Ortolani - \"Beat Fuga Shake\" (1967). Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Kaleidoscope",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "De Masi & Alessandroni film music (1967). Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Out On Beat",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "De Masi & Alessandroni; Riz Ortolani - \"Latin Quarter\". Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Primary Performance",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Riz Ortolani film music. Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Radio Endora",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Riz Ortolani - \"Tiffany Sequence\" cues (1967). Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Westminster Wireless",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Umiliani & Reverberi - \"Le Malizie Di Venere\" cues (1969). Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Day of Hell",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Original Rockstar-made tracks, e.g. \"Saturday Nite at Dirty McNasty's\". Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Classical FM",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Original Rockstar-made track \"GTA Pomp\". Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Groovy Beats",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Original Rockstar-made track \"Spy Theme\". Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto: London 1969",
+  "year": null,
+  "station": "Funktastic",
+  "genre": "",
+  "host": "",
+  "host_voice": "",
+  "notes": "Original Rockstar-made track \"Austin Allegro Drag Race\". Shared with London 1961; no DJs named on the wiki. Per Grand Theft Wiki.",
+  "source": "https://grandtheftwiki.com/Radio_Stations_in_GTA_London"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Head Radio",
+  "genre": "Pop/soft rock",
+  "host": "Michael Hunt",
+  "host_voice": "Russ Mottla",
+  "notes": "Music by fictional artists made for the game, e.g. Dil-Don't - \"Stripe Summer\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Double Clef FM",
+  "genre": "Classical/opera",
+  "host": "Morgan Merryweather",
+  "host_voice": "Gerry Cosgrove",
+  "notes": "Mozart, Verdi, Puccini. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "K-Jah",
+  "genre": "Dub",
+  "host": "Horace \"The Pacifist\" Walsh",
+  "host_voice": "Herman Stephens",
+  "notes": "Scientist - \"Dance of the Vampires\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Rise FM",
+  "genre": "Trance",
+  "host": "Andre \"The Accelerator\"",
+  "host_voice": "Andre",
+  "notes": "Tracks mixed for the game with Terry Donovan credits, e.g. Shiver + Terry Donovan - \"Deep Time\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Lips 106",
+  "genre": "Pop/retro",
+  "host": "Andee",
+  "host_voice": "Shelley Miller",
+  "notes": "Fictional artists made for the game, e.g. Fatamarse - \"Bump To The Music\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Game FM",
+  "genre": "Hip hop",
+  "host": "Stretch Armstrong and Lord Sear",
+  "host_voice": "Themselves",
+  "notes": "Royce Da 5'9\" - \"We're Live (Danger)\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "MSX FM",
+  "genre": "Drum and bass",
+  "host": "MC Codebreaker",
+  "host_voice": "Himself",
+  "notes": "Timecode collaborations, e.g. Omni Trio + Timecode - \"First Contact\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Flashback 95.6",
+  "genre": "1980s pop",
+  "host": "Toni",
+  "host_voice": "Maria Chambers",
+  "notes": "Giorgio Moroder's Scarface soundtrack material, e.g. Paul Engemann - \"Scarface (Push It to the Limit)\". Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto III",
+  "year": 2001,
+  "station": "Chatterbox FM",
+  "genre": "Talk radio",
+  "host": "Lazlow",
+  "host_voice": "Lazlow Jones (himself)",
+  "notes": "Callers and guests; wiki credits 34 guest voices. Lazlow produced, scripted and hosted it (per Wikipedia).",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "Wildstyle",
+  "genre": "Hip hop/electro",
+  "host": "Mr. Magic",
+  "host_voice": "",
+  "notes": "\"Wildstyle Pirate Radio\" per GameSpot. Grandmaster Flash and the Furious Five - \"The Message\". Box set Vol. 5.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "Flash FM",
+  "genre": "Pop",
+  "host": "Toni",
+  "host_voice": "Maria Chambers",
+  "notes": "Hall & Oates - \"Out of Touch\"; The Buggles - \"Video Killed the Radio Star\". Box set Vol. 4. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "K-Chat",
+  "genre": "Talk (celebrity interviews)",
+  "host": "Amy Sheckenhausen",
+  "host_voice": "Leyna Weber",
+  "notes": "Not released on CD. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "Fever 105",
+  "genre": "Soul/disco/R&B",
+  "host": "Oliver \"Ladykiller\" Biscuit",
+  "host_voice": "Julius Dyson",
+  "notes": "Kool & The Gang - \"Summer Madness\". Box set Vol. 6. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "V-Rock",
+  "genre": "Hard rock/heavy metal",
+  "host": "Lazlow",
+  "host_voice": "Lazlow Jones (himself)",
+  "notes": "Iron Maiden - \"2 Minutes To Midnight\"; Slayer - \"Raining Blood\". Box set Vol. 1.",
+  "source": "https://www.gamespot.com/articles/gta-vice-city-original-soundtrack-series-available/1100-2895964/"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "VCPR",
+  "genre": "Talk radio",
+  "host": "Jonathan Freeloader; Michelle Montanius",
+  "host_voice": "Patrick Olsen; Kelly Guest",
+  "notes": "Programme: Pressing Issues, host Maurice Chavez (Philip Anthony Rodriguez). Not released on CD. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "Radio Espantoso",
+  "genre": "Latin jazz",
+  "host": "Pepe",
+  "host_voice": "Tony Chiroldes",
+  "notes": "Tito Puente - \"Mambo Gozón\". Box set Vol. 7. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "Emotion 98.3",
+  "genre": "Power ballads",
+  "host": "Fernando Martinez",
+  "host_voice": "Frank Chavez",
+  "notes": "Toto - \"Africa\"; REO Speedwagon - \"Keep On Loving You\". Box set Vol. 3. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City",
+  "year": 2002,
+  "station": "Wave 103",
+  "genre": "New wave/synthpop",
+  "host": "Adam First",
+  "host_voice": "Jamie Canfield",
+  "notes": "Frankie Goes To Hollywood - \"Two Tribes\"; Nena - \"99 Luftballons\". Box set Vol. 2. Per Grand Theft Wiki.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_Vice_City"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "Playback FM",
+  "genre": "Classic East Coast hip hop",
+  "host": "Forth Right MC",
+  "host_voice": "Chuck D",
+  "notes": "Public Enemy - \"Rebel Without a Pause\"; 12 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "K-Rose",
+  "genre": "Country",
+  "host": "Mary-Beth Maybell",
+  "host_voice": "Riette Burdick",
+  "notes": "Willie Nelson - \"Crazy\"; 15 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "K-DST",
+  "genre": "Classic rock",
+  "host": "Tommy \"The Nightmare\" Smith",
+  "host_voice": "W. Axl Rose",
+  "notes": "Lynyrd Skynyrd - \"Free Bird\"; 17 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "Bounce FM",
+  "genre": "Funk",
+  "host": "The Funktipus",
+  "host_voice": "George Clinton",
+  "notes": "Zapp - \"I Can Make You Dance\"; 17 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "SF-UR",
+  "genre": "House",
+  "host": "Hans Oberlander",
+  "host_voice": "Lloyd Floyd",
+  "notes": "Mr. Fingers - \"Can You Feel It?\"; 16 tracks per GameSpot. Left off the 8-disc box set (per Wikipedia).",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "Radio Los Santos",
+  "genre": "West Coast hip hop",
+  "host": "Julio G",
+  "host_voice": "Julio G (himself)",
+  "notes": "Dr. Dre + Snoop Dogg - \"Nuthin' But A 'G' Thang\"; 16 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "Radio X",
+  "genre": "Alternative rock/grunge",
+  "host": "Sage",
+  "host_voice": "Jodie Shawback",
+  "notes": "Soundgarden - \"Rusty Cage\"; 15 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "CSR 103.9",
+  "genre": "New jack swing",
+  "host": "Phillip \"PM\" Michaels",
+  "host_voice": "Michael Bivins",
+  "notes": "Frequency 103.9 per Grand Theft Wiki and Wikipedia; GameSpot lists 103.2. Bell Biv DeVoe - \"Poison\"; 13 tracks per GameSpot.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_San_Andreas"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "K-Jah West",
+  "genre": "Reggae/dub",
+  "host": "Marshall Peters; Johnny Lawton",
+  "host_voice": "Sly Dunbar; Robbie Shakespeare",
+  "notes": "Toots & the Maytals - \"Pressure Drop\"; 16 tracks per GameSpot.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "Master Sounds 98.3",
+  "genre": "Rare groove",
+  "host": "Johnny \"The Love Giant\" Parkinson",
+  "host_voice": "Ricky Harris",
+  "notes": "James Brown - \"The Payback\"; War - \"Low Rider\"; 18 tracks counted from GameSpot list.",
+  "source": "https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "Grand Theft Auto: San Andreas",
+  "year": 2004,
+  "station": "WCTR",
+  "genre": "Talk radio",
+  "host": "Multiple (Lianne Forget, Richard Burns, Lazlow and others)",
+  "host_voice": "Sharon Washington; Wil Wheaton; Lazlow Jones and others",
+  "notes": "Shows incl. Entertaining America (Billy Dexter/Peter Marx, then Lazlow), Gardening with Maurice (Andy Dick), Area 53. Per Grand Theft Wiki; Wheaton confirmed his role on his blog, Oct 26 2004.",
+  "source": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_San_Andreas"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "Head Radio",
+  "genre": "Pop/soft rock/R&B",
+  "host": "Michael Hunt",
+  "host_voice": "Russ Mottla",
+  "notes": "In-game tracks with writer credits (e.g. Craig Conner), e.g. Cloud Nineteen - \"The One For Me\". Voice per Vandal 2005.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "Double Cleff FM",
+  "genre": "Classical/opera",
+  "host": "Sergio Boccino",
+  "host_voice": "Robert Blumenfeld",
+  "notes": "Verdi, Mozart, Leoncavallo. Voice per Vandal 2005.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "K-Jah",
+  "genre": "Dancehall/reggae",
+  "host": "Natalee Walsh Davis",
+  "host_voice": "Pascale Armand",
+  "notes": "Spelled Natalie on gta.wiki. Peter Bouncer, Richie Davis 1980s dancehall. Voice per Vandal 2005.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "Rise FM",
+  "genre": "House",
+  "host": "Boy Sanchez",
+  "host_voice": "Oliver Vuquer",
+  "notes": "Moloko - \"Sing it Back\"; Ultra Naté - \"Free\". Voice per Vandal 2005 (spelling as given).",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "Lips 106",
+  "genre": "Pop/Top 40",
+  "host": "Cliff Lane; Andee",
+  "host_voice": "Ed McMann (as given by Vandal); Shelley Miller",
+  "notes": "In-game tracks with writer credits, e.g. Sunshine Shine - \"Mine Until Monday\". Voices per Vandal 2005.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "Radio Del Mundo",
+  "genre": "World",
+  "host": "Panjit Gavaskar",
+  "host_voice": "Hajaz Akram",
+  "notes": "Vandal spells host Panja. Ofra Haza - \"Im Nin'Alu\"; Asha Bhosle - \"Dum Maro Dum\".",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "MSX 98",
+  "genre": "Drum and bass/jungle",
+  "host": "MC Codebreaker; DJ Timecode",
+  "host_voice": "Themselves",
+  "notes": "Omni Trio - \"Renegade Snares\"; Foul Play - \"Finest Illusion\". Per Vandal 2005 and gta.wiki.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "Flashback FM",
+  "genre": "Italo disco/disco",
+  "host": "Reni Wassulmaier",
+  "host_voice": "Barbara Rosenblatt",
+  "notes": "All Giorgio Moroder, e.g. \"I Wanna Rock You\" (1979). Voice per Vandal 2005.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "The Liberty Jam",
+  "genre": "East Coast hip hop",
+  "host": "DJ Clue",
+  "host_voice": "DJ Clue (himself)",
+  "notes": "Mobb Deep - \"Shook Ones (Pt. II)\"; Method Man - \"All I Need\".",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Liberty City Stories",
+  "year": 2005,
+  "station": "LCFR (Liberty City Free Radio)",
+  "genre": "Talk radio",
+  "host": "Multiple; Chatterbox hosted by Lazlow",
+  "host_voice": "Lazlow Jones (himself, Chatterbox)",
+  "notes": "Shows: Heartland Values with Nurse Bob, Electron Zone, Breathing World, Coq O Vin, Chatterbox. Per Vandal 2005 and gta.wiki.",
+  "source": "https://vandal.elespanol.com/noticia/18468/desvelada-la-banda-sonora-de-gta-liberty-city-stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "Flash FM",
+  "genre": "Pop/synthpop/rock",
+  "host": "Teri; Toni",
+  "host_voice": "",
+  "notes": "Laura Branigan - \"Gloria\"; Philip Bailey & Phil Collins - \"Easy Lover\". Per gta.wiki and GTABase.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "V-Rock",
+  "genre": "Hard rock/heavy metal",
+  "host": "Cousin Ed; Lazlow",
+  "host_voice": "Lazlow Jones (himself)",
+  "notes": "Wikipedia spells him Couzin Ed and says Lazlow plays his intern. Dio - \"Holy Diver\".",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "Paradise FM",
+  "genre": "Post-disco/jazz-funk",
+  "host": "",
+  "host_voice": "",
+  "notes": "No DJ. Change - \"The Glow of Love\". Per gta.wiki and GTABase.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "VCPR",
+  "genre": "Talk radio",
+  "host": "Maurice Chavez; Larry Joe and Bobbie Ray; Dwayne Thorn",
+  "host_voice": "",
+  "notes": "Shows: Pressing Issues, Bait and Switch, New World Order. Per gta.wiki and GTABase.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "VCFL",
+  "genre": "Soul/funk/quiet storm",
+  "host": "Tina Jane",
+  "host_voice": "",
+  "notes": "Marvin Gaye - \"Sexual Healing\". Per gta.wiki and GTABase.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "Wave 103",
+  "genre": "New wave/synthpop",
+  "host": "Trish Camden; Adam First",
+  "host_voice": "",
+  "notes": "New Order - \"Blue Monday\"; Depeche Mode - \"Everything Counts\". Per gta.wiki and GTABase.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "Fresh FM",
+  "genre": "Old-school hip hop/electro",
+  "host": "Luke",
+  "host_voice": "",
+  "notes": "Run-D.M.C. - \"It's Like That\".",
+  "source": "https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "Radio Espantoso",
+  "genre": "Latin jazz/salsa",
+  "host": "Hector Hernandez",
+  "host_voice": "",
+  "notes": "Tito Puente - \"Oye Como Va\"; Héctor Lavoe - \"Mi Gente\". Per gta.wiki and GTABase.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ },
+ {
+  "game": "Grand Theft Auto: Vice City Stories",
+  "year": 2006,
+  "station": "Emotion 98.3",
+  "genre": "Power ballads/soft rock",
+  "host": "Lionel Makepeace",
+  "host_voice": "",
+  "notes": "Phil Collins - \"In the Air Tonight\" (Collins also appears in the game as himself, performing it).",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City_Stories"
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "q": "At DMA Design, who proposed giving the first GTA one radio station per genre so a musician's demos could all survive?",
+  "options": [
+   "Craig Conner",
+   "Colin Anderson",
+   "Sam Houser",
+   "Allan Walker"
+  ],
+  "answer": 1,
+  "why": "Colin Anderson of DMA Design's sound department pitched genre stations so Craig Conner's demos in many genres would not have to be cut.",
+  "section": "origins"
+ },
+ {
+  "q": "Who voiced K-DST's Tommy \"The Nightmare\" Smith in GTA San Andreas?",
+  "options": [
+   "Axl Rose",
+   "George Clinton",
+   "Chuck D",
+   "Michael Bivins"
+  ],
+  "answer": 0,
+  "why": "Per GameSpot, Axl Rose played Tommy Smith on K-DST. George Clinton was Bounce FM's The Funktipus and Chuck D was Playback FM's Forth Right MC.",
+  "section": "early-radio"
+ },
+ {
+  "q": "Which fashion designer hosted K109 The Studio, GTA IV's disco station?",
+  "options": [
+   "Tom Ford",
+   "Jean Paul Gaultier",
+   "Karl Lagerfeld",
+   "Giorgio Armani"
+  ],
+  "answer": 2,
+  "why": "Karl Lagerfeld hosted K109 The Studio, a credit Crack Magazine confirms. Iggy Pop had Liberty Rock Radio.",
+  "section": "modern-radio"
+ },
+ {
+  "q": "How many licensed songs did GTA V have at launch in September 2013, per soundtrack supervisor Ivan Pavlovich?",
+  "options": [
+   "165",
+   "360",
+   "441",
+   "240"
+  ],
+  "answer": 3,
+  "why": "Pavlovich gave 240 songs across 15 music stations. The 165 figure is what the 2014 next-gen edition added in this guide's table.",
+  "section": "modern-radio"
+ },
+ {
+  "q": "Who voiced Richard Burns, the WCTR News reporter in GTA San Andreas?",
+  "options": [
+   "Andy Dick",
+   "Wil Wheaton",
+   "Kyle MacLachlan",
+   "Jason Sudeikis"
+  ],
+  "answer": 1,
+  "why": "Wil Wheaton confirmed the role on his own blog in 2004. Lazlow offered it after interviewing him for Technofile.",
+  "section": "talk-radio"
+ },
+ {
+  "q": "Which comedian voices Dr. Ray De Angelo Harris on GTA V's Chakra Attack?",
+  "options": [
+   "Danny McBride",
+   "Bill Hader",
+   "Will Forte",
+   "J.B. Smoove"
+  ],
+  "answer": 3,
+  "why": "J.B. Smoove voiced the WCTR mindfulness host and came to Rockstar through DJ Pooh, he told PC Gamer in 2018.",
+  "section": "talk-radio"
+ },
+ {
+  "q": "How did some real fans end up as callers on WKTT's Richard Bastion Show in GTA IV?",
+  "options": [
+   "They left messages on a phone line from the WKTTRadio.com teaser site",
+   "They won a Rockstar Newswire contest",
+   "They were recorded at a Comic-Con panel",
+   "They called into Lazlow's Technofile show"
+  ],
+  "answer": 0,
+  "why": "In July 2007 Rockstar's WKTTRadio.com teaser listed a New York number for fans' complaints, and some of the calls made it onto the show.",
+  "section": "talk-radio"
+ },
+ {
+  "q": "Who does Guinness list as the first real celebrity to appear as themselves in a GTA game?",
+  "options": [
+   "Axl Rose",
+   "Iggy Pop",
+   "Phil Collins",
+   "Ricky Gervais"
+  ],
+  "answer": 2,
+  "why": "Phil Collins appears in Vice City Stories (2006), where Victor Vance protects him so his concert can go ahead. He is not a radio host.",
+  "section": "lore"
+ },
+ {
+  "q": "Which Los Angeles band composed and recorded the Max Payne 3 soundtrack?",
+  "options": [
+   "Justice",
+   "HEALTH",
+   "Soulwax",
+   "Tangerine Dream"
+  ],
+  "answer": 1,
+  "why": "HEALTH scored Max Payne 3 in 2012 and later appeared on GTA Online's 2023 original score album.",
+  "section": "scores"
+ },
+ {
+  "q": "Bill Elm and Woody Jackson recorded the Red Dead Redemption score at 130 BPM in one key. Which?",
+  "options": [
+   "D minor",
+   "E minor",
+   "A minor",
+   "G major"
+  ],
+  "answer": 2,
+  "why": "Per Wikipedia, all of the 14-plus hours were recorded at 130 BPM in A minor, with Morricone's Dollars Trilogy as the touchstone.",
+  "section": "scores"
+ },
+ {
+  "q": "Which of these DJs was NOT one of the four After Hours nightclub residents in 2018?",
+  "options": [
+   "Solomun",
+   "Dixon",
+   "Tale Of Us",
+   "Moodymann"
+  ],
+  "answer": 3,
+  "why": "The four residents were Solomun, Tale Of Us, Dixon and The Black Madonna. Moodymann was a resident at The Music Locker, added with Cayo Perico in 2020.",
+  "section": "online"
+ },
+ {
+  "q": "Six new Dr. Dre tracks premiered inside which GTA Online update?",
+  "options": [
+   "The Contract",
+   "After Hours",
+   "The Cayo Perico Heist",
+   "Los Santos Tuners"
+  ],
+  "answer": 0,
+  "why": "The Contract (December 15, 2021) built missions around six Dre tracks, which reached streaming services in early February 2022, about seven weeks later.",
+  "section": "online"
+ },
+ {
+  "q": "CircoLoco, Rockstar's partner in CircoLoco Records, is the Monday party at which Ibiza club?",
+  "options": [
+   "Amnesia",
+   "Pacha",
+   "DC10",
+   "Space"
+  ],
+  "answer": 2,
+  "why": "CircoLoco began at DC10 in 1999 as a free Monday-morning after-party.",
+  "section": "circoloco"
+ },
+ {
+  "q": "Jamback's \"Positive\" on CircoLoco Records set the record for the longest run at No. 1 on Beatport. How many days?",
+  "options": [
+   "62",
+   "64",
+   "42",
+   "90"
+  ],
+  "answer": 1,
+  "why": "Beatport reported 64 days at No. 1, passing FISHER's 62 days for \"Losing It\" in 2018.",
+  "section": "circoloco"
+ },
+ {
+  "q": "How many songs were removed from the PC version of GTA San Andreas in November 2014?",
+  "options": [
+   "17",
+   "10",
+   "43",
+   "51"
+  ],
+  "answer": 0,
+  "why": "A Steam update cut 17 songs so the PC version matched mobile. Rockstar gave no statement; PC Gamer read it as expired licenses.",
+  "section": "licensing"
+ },
+ {
+  "q": "Which song did a GTA V Enhanced hotfix remove from Non-Stop-Pop FM around September 15, 2026?",
+  "options": [
+   "Michael Jackson, \"Billie Jean\"",
+   "Kate Bush, \"Wow\"",
+   "Kano, \"Can't Hold Back (Your Lovin')\"",
+   "Moloko, \"The Time Is Now\""
+  ],
+  "answer": 3,
+  "why": "A GTA V Enhanced hotfix removed Moloko's \"The Time Is Now\", and it was expected to reach consoles. Rockstar made no statement; an expired license is the unconfirmed press explanation.",
+  "section": "licensing"
+ },
+ {
+  "q": "Which song plays in GTA VI's first trailer from December 2023?",
+  "options": [
+   "The Pointer Sisters, \"Hot Together\"",
+   "Tom Petty, \"Love Is a Long Road\"",
+   "Justice, \"Flower in a Hurricane\"",
+   "Depeche Mode, \"People Are People\""
+  ],
+  "answer": 1,
+  "why": "Trailer 1 used Tom Petty's \"Love Is a Long Road\" from Full Moon Fever. \"Hot Together\" scored Trailer 2 in May 2025.",
+  "section": "gta-6"
+ },
+ {
+  "q": "Who hosts The Chamber 106.6, the metal station Rockstar named for GTA VI on October 8, 2026?",
+  "options": [
+   "Kerry King and Tom Araya",
+   "James Hetfield and Lars Ulrich",
+   "Dave Mustaine and David Ellefson",
+   "Scott Ian and Charlie Benante"
+  ],
+  "answer": 0,
+  "why": "The station is hosted by DJ Kerry and DJ Tom, played by Slayer's Kerry King and Tom Araya.",
+  "section": "gta-6"
+ }
+]

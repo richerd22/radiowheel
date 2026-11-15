@@ -1,0 +1,85 @@
+{
+ "title": "The Radio Wheel: every GTA radio station, song, host and talk show, and how Rockstar does music",
+ "description": "An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and what is known about GTA VI.",
+ "paths": [
+  {
+   "who": "Here for the songs",
+   "title": "Find the track",
+   "blurb": "Every station's full tracklist, every pulled song, and a search across all of them.",
+   "slugs": [
+    "early-radio",
+    "modern-radio",
+    "licensing"
+   ]
+  },
+  {
+   "who": "Here for the bits",
+   "title": "Chatterbox to Chakra Attack",
+   "blurb": "The talk shows, the fake ads, the fake bands and the hosts who voiced them.",
+   "slugs": [
+    "talk-radio",
+    "lore"
+   ]
+  },
+  {
+   "who": "Here for the club",
+   "title": "Rockstar after dark",
+   "blurb": "Nightclub residencies, the Music Locker, Dr. Dre and CircoLoco Records.",
+   "slugs": [
+    "online",
+    "circoloco"
+   ]
+  },
+  {
+   "who": "Here for GTA VI",
+   "title": "What is actually confirmed",
+   "blurb": "Official, reported, leaked and rumoured, kept apart, with dates.",
+   "slugs": [
+    "gta-6",
+    "licensing"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What radio stations are in GTA V?",
+   "a": "At launch on September 17, 2013, GTA V had 15 music stations, including Los Santos Rock Radio, Non-Stop-Pop FM, Radio Los Santos, West Coast Classics, Space 103.2, Channel X, Radio Mirror Park, Soulwax FM, FlyLo FM, East Los FM and Worldwide FM, plus two talk stations, West Coast Talk Radio and Blaine County Radio. Later updates added Self Radio, The Lab, blonded Los Santos 97.8 FM, Los Santos Underground Radio, iFruit Radio, Kult FM, Still Slipping Los Santos, The Music Locker, the Media Player and MOTOMAMI Los Santos (December 2021)."
+  },
+  {
+   "q": "Why were songs removed from GTA IV and San Andreas?",
+   "a": "Licensed songs are usually rented for a fixed term, and when the licenses run out Rockstar patches them out of the versions it still sells. GTA IV lost songs on April 26, 2018 \"due to music licensing restrictions\", with Vladivostok FM hit hardest; counts run from 43 (a tally of Game Informer's list, which gives no total) to over 50 (Destructoid, counting the episodes and an unused track). San Andreas lost 17 songs from the PC version in November 2014 to match the mobile version; Rockstar gave no statement."
+  },
+  {
+   "q": "Who is Lazlow?",
+   "a": "Lazlow Jones is a real radio host who co-wrote GTA's radio with Dan Houser from GTA III (2001) and played a version of himself on it, from Chatterbox FM to Integrity 2.0 in GTA IV and Chattersphere in GTA V. He left Rockstar in 2020 after nine GTA games (sources give April or August) and co-founded Absurd Ventures with Houser."
+  },
+  {
+   "q": "What is the best talk radio show in GTA?",
+   "a": "Each game has its own: Chatterbox FM in GTA III, K-Chat and VCPR in Vice City, WCTR's schedule of shows in San Andreas, LCFR in Liberty City Stories, WKTT, PLR and Integrity 2.0 in GTA IV, and WCTR and Blaine County Radio in GTA V. Among critics, PC Gamer writers in 2020 named Chatterbox FM and GTA V's Chakra Attack as their favorites."
+  },
+  {
+   "q": "Who does the music for GTA?",
+   "a": "A small in-house team picks, hosts and masters the stations, with Sam Houser as the documented final word on taste. Craig Conner was music director from GTA 1 through GTA V, per IBTimes UK, and Ivan Pavlovich, who joined Rockstar in 2004, holds the title Director of Music. Scores come partly from outside: GTA V's was by Tangerine Dream, Woody Jackson, The Alchemist and Oh No, and Justice are composing GTA VI's."
+  },
+  {
+   "q": "What is CircoLoco Records and how is it linked to Rockstar?",
+   "a": "CircoLoco Records is a record label run as a partnership between Rockstar Games and CircoLoco, the Monday party at DC10 in Ibiza, announced on May 24, 2021; no ownership split has been reported. Its first compilation, Monday Dreamin', was split into four EPs that became hidden Media Sticks in GTA Online's Los Santos Tuners update, unlocking a Seth Troxler mix."
+  },
+  {
+   "q": "What music is in GTA VI?",
+   "a": "Officially, GTA VI: The Album, 34 original tracks made by Rockstar and Atlantic Records, was announced on September 17, 2026 for release on November 19, 2026, the game's launch day; seven tracks are named so far, including Travis Scott's \"RHYNO\", Keith Richards' \"Bright Lights, Big City\" and Justice's \"Flower in a Hurricane\" with Tame Impala, SZA and King Gizzard & The Lizard Wizard. Justice are also composing the original score, named on October 15, 2026."
+  },
+  {
+   "q": "Does GTA VI have radio stations?",
+   "a": "Yes. On October 8, 2026 Rockstar named six stations: Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM and Dirty South Classics, with hosts including Bad Bunny, Morgan Wallen, Lana Del Rey, Burna Boy, Slayer's Kerry King and Tom Araya, Robyn, Trick Daddy and Trina. It also confirmed talk radio and on-demand podcasts for Jason and Lucia, a series first."
+  },
+  {
+   "q": "Who voices the DJs in GTA?",
+   "a": "From San Andreas on, many hosts are real musicians and celebrities: Axl Rose, George Clinton and Chuck D in San Andreas, Karl Lagerfeld and Iggy Pop in GTA IV, Kenny Loggins, Bootsy Collins and Flying Lotus in GTA V, and Bad Bunny, Lana Del Rey and Robyn in GTA VI. Talk radio adds actors and comedians such as Wil Wheaton and J.B. Smoove, and Lazlow plays himself."
+  },
+  {
+   "q": "How many songs are in GTA V?",
+   "a": "GTA V launched with 240 licensed songs across 15 music stations, per Rockstar's Ivan Pavlovich. The 2014 edition for newer consoles promised \"over 100 additional new songs\" (165 tracks in this guide's table, including 22 restored cuts), and GTA Online kept adding more, with over 250 in the Cayo Perico Heist alone."
+  }
+ ]
+}

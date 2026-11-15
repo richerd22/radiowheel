@@ -1,0 +1,184 @@
+# The Radio Wheel: every GTA radio station, song, host and talk show, and how Rockstar does music
+
+> An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and what is known about GTA VI.
+
+Independent cited guide, 42,462 words, 338 sources, updated 2026-11-15. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
+GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.
+
+## Sections
+- [Who makes the music at Rockstar](https://radiowheel.cold.fyi/origins/): This section covers who builds Rockstar's music and where the habit came from. It started in a record company: Sam Houser began in BMG's London post room in 1990, BMG's games arm published the first Grand Theft Auto, and GTA's radio was pitched in Scotland by Colin Anderson of DMA Design's sound department so one musician's demos across many genres could all survive. Since then a small in-house team has picked, hosted, written and mastered the stations, with Sam Houser as the documented final word on taste; Dan Houser left in March 2020, and Lazlow later that year on a date the sources dispute.
+- [The radio, game by game: 1997 to 2006](https://radiowheel.cold.fyi/early-radio/): This section walks through GTA radio game by game, from the first GTA in 1997 to Vice City Stories in 2006. In the first two games almost everything on air was written in-house under fake band names; GTA III (2001) mixed those acts with licensed music and talk radio, Vice City (2002) went all in on licensed 1980s tracks, and San Andreas (2004) grew to 10 music stations with celebrity DJs. The two "Stories" games of 2005 and 2006 went back to Liberty City and Vice City with fresh playlists on the same formulas.
+- [The radio, game by game: GTA IV and GTA V](https://radiowheel.cold.fyi/modern-radio/): This section covers the radio in GTA IV, Chinatown Wars and GTA V, including what GTA Online later added to the dial. GTA IV (2008) gave Liberty City 19 stations and handed most of the microphones to real musicians, from Iggy Pop to Karl Lagerfeld, and its two episodes added three stations of their own. GTA V (2013) launched with 15 music stations and 240 licensed songs, grew by about 165 tracks on the 2014 consoles, and GTA Online has kept adding whole stations since, through MOTOMAMI Los Santos in December 2021.
+- [Talk radio: Chatterbox to Chakra Attack](https://radiowheel.cold.fyi/talk-radio/): Talk radio exists in Grand Theft Auto because, by Dan Houser's own account, it was the cheapest way to fill hours of driving in GTA III (2001). Written mostly by Houser and Lazlow Jones, it became the series' sharpest satire: one call-in station in Liberty City, two in Vice City, a whole network of shows on San Andreas's WCTR, three political stations in GTA IV and a left/right split by county in GTA V. Lazlow, who played a steadily sadder version of himself, left Rockstar in 2020 after nine GTA games; sources disagree on the month.
+- [The lore: fake ads, fake bands and the bits people quote](https://radiowheel.cold.fyi/lore/): GTA radio has always been about more than songs. Between the tracks sit fake ads for parody brands, bands that exist only in the game, real stars voicing invented DJs, and news bulletins about what you just did in a mission. Most of it was written by Dan Houser and Lazlow Jones from GTA III (2001) until Lazlow left Rockstar in 2020, and much of the detail lives on fan wikis, so this section marks which facts the press confirmed and which come from the wikis alone.
+- [The scores: music written for the games](https://radiowheel.cold.fyi/scores/): For its first decade, Grand Theft Auto's original music was mostly in-house songs credited to fictional bands, played on the radio rather than under the action. GTA V (2013) brought a full original score, which Rockstar called its first fully collaborative score, built by Tangerine Dream, Woody Jackson, The Alchemist and Oh No as layered stems that react to play. This section also covers the scores for Red Dead Redemption, Red Dead Redemption 2, Max Payne 3 and GTA Online, and Justice's score for GTA VI.
+- [GTA Online: the club, the label and the residency](https://radiowheel.cold.fyi/online/): From late 2017, GTA Online stopped being a game that licensed music and started acting like a venue, a radio network and a record label. The After Hours update (July 2018) let players own nightclubs where four real DJs held motion-captured residencies, and Cayo Perico (December 2020) added a second club, The Music Locker, plus three new stations. In 2021 came CircoLoco Records, the Media Player and six new Dr. Dre tracks that premiered inside the game weeks before streaming.
+- [CircoLoco Records: Rockstar's label with a Monday party](https://radiowheel.cold.fyi/circoloco/): CircoLoco Records is a record label run as a partnership between CircoLoco, the Monday party at DC10 in Ibiza, and Rockstar Games, announced on May 24, 2021. It opened with *Monday Dreamin'*, a 20-track compilation whose four EPs became hidden collectibles in GTA Online in July 2021, and since 2024 it has turned into a chart label for house and tech house. A "CircoLoco Records Radio" station for GTA VI exists only in a leak; Rockstar did not name one in its October 2026 station reveal.
+- [Why songs disappear: licenses, expiry and removals](https://radiowheel.cold.fyi/licensing/): A song on a GTA radio station is rented, not owned. Each licensed track needs permission for both the composition and the recording, usually for a fixed term, and when those permissions run out Rockstar patches the song out of the versions it still sells. That has happened to Vice City, San Andreas, GTA IV and, in September 2026, GTA V - a game Take-Two says has sold nearly 235 million units (official, November 2026). GTA VI arrives on November 19, 2026, with a commissioned 34-track album beside its radio, but nothing public says how its music deals are built.
+- [GTA VI: what is known about the music](https://radiowheel.cold.fyi/gta-6/): As of November 15, 2026, Grand Theft Auto VI is set to launch on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. Rockstar and Atlantic Records have announced a 34-track original album out the same day, Justice are composing the score, and six radio stations have been officially named with hosts including Bad Bunny, Lana Del Rey, Robyn and two members of Slayer. Everything else in circulation - a full album tracklist, a longer station list, pre-order totals - is either a leak or an estimate, and this page labels each one.
+- [Test yourself, and where to dig next](https://radiowheel.cold.fyi/next/): A quiz on everything above, the words of the trade, a timeline from 1997 to now, the best outside sources, and the questions this guide could not yet answer with a source.
+
+## Data
+- Every song: https://radiowheel.cold.fyi/tracks.json and https://radiowheel.cold.fyi/tracks.csv (2019 rows: game, station, artist, title, year, added, removed, note, source)
+- Every station: https://radiowheel.cold.fyi/stations.json (141 stations, each with a page at https://radiowheel.cold.fyi/stations/<slug>/)
+- Removed songs: https://radiowheel.cold.fyi/removed.json (87 songs)
+- Talk shows: https://radiowheel.cold.fyi/talk.json · hosts: https://radiowheel.cold.fyi/hosts.json · lore: https://radiowheel.cold.fyi/lore.json
+- CircoLoco Records catalog: https://radiowheel.cold.fyi/circoloco.json · GTA Online music updates: https://radiowheel.cold.fyi/online.json · GTA VI tracker: https://radiowheel.cold.fyi/gta6.json
+- https://radiowheel.cold.fyi/sections.json, https://radiowheel.cold.fyi/sources.json, https://radiowheel.cold.fyi/timeline.json, https://radiowheel.cold.fyi/glossary.json
+- Everything on one page: https://radiowheel.cold.fyi/all/
+
+## Stations
+- GTA: [Brooklyn Underground FM](https://radiowheel.cold.fyi/stations/gta1-brooklyn-underground-fm/) - 3 songs
+- GTA: [Head Radio](https://radiowheel.cold.fyi/stations/gta1-head-radio/) - 3 songs
+- GTA: [It's Unleashed FM](https://radiowheel.cold.fyi/stations/gta1-its-unleashed-fm/) - 3 songs
+- GTA: [N-CT FM](https://radiowheel.cold.fyi/stations/gta1-n-ct-fm/) - 3 songs
+- GTA: [Radio '76 FM](https://radiowheel.cold.fyi/stations/gta1-radio-76-fm/) - 3 songs
+- GTA: [The Fergus Buckner Show FM](https://radiowheel.cold.fyi/stations/gta1-the-fergus-buckner-show-fm/) - 1 songs
+- GTA: [The Fix FM](https://radiowheel.cold.fyi/stations/gta1-the-fix-fm/) - 3 songs
+- London: [Austin Allegro Chase](https://radiowheel.cold.fyi/stations/london-austin-allegro-chase/) - 1 songs
+- London: [Blow Upradio](https://radiowheel.cold.fyi/stations/london-blow-upradio/) - 1 songs
+- London: [Bush Sounds](https://radiowheel.cold.fyi/stations/london-bush-sounds/) - 2 songs
+- London: [GTA Pomp](https://radiowheel.cold.fyi/stations/london-gta-pomp/) - 1 songs
+- London: [GTA Spy Theme](https://radiowheel.cold.fyi/stations/london-gta-spy-theme/) - 1 songs
+- London: [Heavy Heavy Monster Sound](https://radiowheel.cold.fyi/stations/london-heavy-heavy-monster-sound/) - 2 songs
+- London: [Kaleidoscope](https://radiowheel.cold.fyi/stations/london-kaleidoscope/) - 2 songs
+- London: [Radio 7](https://radiowheel.cold.fyi/stations/london-radio-7/) - 2 songs
+- London: [Radio Andorra](https://radiowheel.cold.fyi/stations/london-radio-andorra/) - 2 songs
+- London: [Radio Penelope](https://radiowheel.cold.fyi/stations/london-radio-penelope/) - 2 songs
+- London: [Sound of Soho](https://radiowheel.cold.fyi/stations/london-sound-of-soho/) - 2 songs
+- London: [Westminster Wireless](https://radiowheel.cold.fyi/stations/london-westminster-wireless/) - 3 songs
+- GTA 2: [Funami FM](https://radiowheel.cold.fyi/stations/gta2-funami-fm/) - 4 songs
+- GTA 2: [Futuro FM](https://radiowheel.cold.fyi/stations/gta2-futuro-fm/) - 4 songs
+- GTA 2: [Head Radio](https://radiowheel.cold.fyi/stations/gta2-head-radio/) - 8 songs
+- GTA 2: [Heavenly Radio](https://radiowheel.cold.fyi/stations/gta2-heavenly-radio/) - 3 songs
+- GTA 2: [KGBH](https://radiowheel.cold.fyi/stations/gta2-kgbh/) - 3 songs
+- GTA 2: [King 130.7](https://radiowheel.cold.fyi/stations/gta2-king-130-7/) - 4 songs
+- GTA 2: [KREZ](https://radiowheel.cold.fyi/stations/gta2-krez/) - 4 songs
+- GTA 2: [Lithium FM](https://radiowheel.cold.fyi/stations/gta2-lithium-fm/) - 4 songs
+- GTA 2: [Lo-Fi FM](https://radiowheel.cold.fyi/stations/gta2-lo-fi-fm/) - 4 songs
+- GTA 2: [Osmosis FM](https://radiowheel.cold.fyi/stations/gta2-osmosis-fm/) - 4 songs
+- GTA 2: [Rockstar Radio](https://radiowheel.cold.fyi/stations/gta2-rockstar-radio/) - 3 songs
+- GTA III: [Chatterbox FM](https://radiowheel.cold.fyi/stations/gta3-chatterbox-fm/) - 0 songs
+- GTA III: [Double Clef FM](https://radiowheel.cold.fyi/stations/gta3-double-clef-fm/) - 6 songs
+- GTA III: [Flashback 95.6](https://radiowheel.cold.fyi/stations/gta3-flashback-95-6/) - 5 songs
+- GTA III: [Game Radio](https://radiowheel.cold.fyi/stations/gta3-game-radio/) - 10 songs
+- GTA III: [Head Radio](https://radiowheel.cold.fyi/stations/gta3-head-radio/) - 7 songs
+- GTA III: [K-Jah](https://radiowheel.cold.fyi/stations/gta3-k-jah/) - 5 songs
+- GTA III: [Lips 106](https://radiowheel.cold.fyi/stations/gta3-lips-106/) - 6 songs
+- GTA III: [MSX FM](https://radiowheel.cold.fyi/stations/gta3-msx-fm/) - 11 songs
+- GTA III: [Rise FM](https://radiowheel.cold.fyi/stations/gta3-rise-fm/) - 5 songs
+- Vice City: [Emotion 98.3](https://radiowheel.cold.fyi/stations/vc-emotion-98-3/) - 12 songs
+- Vice City: [Fever 105](https://radiowheel.cold.fyi/stations/vc-fever-105/) - 13 songs
+- Vice City: [Flash FM](https://radiowheel.cold.fyi/stations/vc-flash-fm/) - 16 songs
+- Vice City: [K-Chat](https://radiowheel.cold.fyi/stations/vc-k-chat/) - 0 songs
+- Vice City: [Radio Espantoso](https://radiowheel.cold.fyi/stations/vc-radio-espantoso/) - 14 songs
+- Vice City: [V-Rock](https://radiowheel.cold.fyi/stations/vc-v-rock/) - 17 songs
+- Vice City: [VCPR](https://radiowheel.cold.fyi/stations/vc-vcpr/) - 0 songs
+- Vice City: [Wave 103](https://radiowheel.cold.fyi/stations/vc-wave-103/) - 16 songs
+- Vice City: [Wildstyle](https://radiowheel.cold.fyi/stations/vc-wildstyle/) - 15 songs
+- San Andreas: [Bounce FM](https://radiowheel.cold.fyi/stations/sa-bounce-fm/) - 17 songs
+- San Andreas: [CSR 103.9](https://radiowheel.cold.fyi/stations/sa-csr-103-9/) - 13 songs
+- San Andreas: [K-DST](https://radiowheel.cold.fyi/stations/sa-k-dst/) - 17 songs
+- San Andreas: [K-Jah West](https://radiowheel.cold.fyi/stations/sa-k-jah-west/) - 16 songs
+- San Andreas: [K-Rose](https://radiowheel.cold.fyi/stations/sa-k-rose/) - 15 songs
+- San Andreas: [Master Sounds 98.3](https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/) - 18 songs
+- San Andreas: [Playback FM](https://radiowheel.cold.fyi/stations/sa-playback-fm/) - 12 songs
+- San Andreas: [Radio Los Santos](https://radiowheel.cold.fyi/stations/sa-radio-los-santos/) - 16 songs
+- San Andreas: [Radio X](https://radiowheel.cold.fyi/stations/sa-radio-x/) - 15 songs
+- San Andreas: [SF-UR](https://radiowheel.cold.fyi/stations/sa-sf-ur/) - 16 songs
+- San Andreas: [WCTR](https://radiowheel.cold.fyi/stations/sa-wctr/) - 0 songs
+- LCS: [Double Clef FM](https://radiowheel.cold.fyi/stations/lcs-double-clef-fm/) - 0 songs
+- LCS: [Double Cleff FM](https://radiowheel.cold.fyi/stations/lcs-double-cleff-fm/) - 6 songs
+- LCS: [Flashback FM](https://radiowheel.cold.fyi/stations/lcs-flashback-fm/) - 6 songs
+- LCS: [Head Radio](https://radiowheel.cold.fyi/stations/lcs-head-radio/) - 7 songs
+- LCS: [K-Jah](https://radiowheel.cold.fyi/stations/lcs-k-jah/) - 8 songs
+- LCS: [Liberty City Free Radio](https://radiowheel.cold.fyi/stations/lcs-liberty-city-free-radio/) - 0 songs
+- LCS: [Lips 106](https://radiowheel.cold.fyi/stations/lcs-lips-106/) - 7 songs
+- LCS: [MSX 98](https://radiowheel.cold.fyi/stations/lcs-msx-98/) - 11 songs
+- LCS: [Radio Del Mundo](https://radiowheel.cold.fyi/stations/lcs-radio-del-mundo/) - 12 songs
+- LCS: [Rise FM](https://radiowheel.cold.fyi/stations/lcs-rise-fm/) - 14 songs
+- LCS: [The Liberty Jam](https://radiowheel.cold.fyi/stations/lcs-the-liberty-jam/) - 12 songs
+- VCS: [Emotion 98.3](https://radiowheel.cold.fyi/stations/vcs-emotion-98-3/) - 17 songs
+- VCS: [Flash FM](https://radiowheel.cold.fyi/stations/vcs-flash-fm/) - 18 songs
+- VCS: [Fresh FM](https://radiowheel.cold.fyi/stations/vcs-fresh-fm/) - 10 songs
+- VCS: [Paradise FM](https://radiowheel.cold.fyi/stations/vcs-paradise-fm/) - 13 songs
+- VCS: [Radio Espantoso](https://radiowheel.cold.fyi/stations/vcs-radio-espantoso/) - 8 songs
+- VCS: [V-Rock](https://radiowheel.cold.fyi/stations/vcs-v-rock/) - 13 songs
+- VCS: [VCFL](https://radiowheel.cold.fyi/stations/vcs-vcfl/) - 11 songs
+- VCS: [VCPR](https://radiowheel.cold.fyi/stations/vcs-vcpr/) - 0 songs
+- VCS: [Wave 103](https://radiowheel.cold.fyi/stations/vcs-wave-103/) - 15 songs
+- GTA IV: [Electro-Choc](https://radiowheel.cold.fyi/stations/gta4-electro-choc/) - 27 songs
+- GTA IV: [Fusion FM](https://radiowheel.cold.fyi/stations/gta4-fusion-fm/) - 10 songs
+- GTA IV: [Independence FM](https://radiowheel.cold.fyi/stations/gta4-independence-fm/) - 1 songs
+- GTA IV: [Integrity 2.0](https://radiowheel.cold.fyi/stations/gta4-integrity-2-0/) - 0 songs
+- GTA IV: [International Funk 99](https://radiowheel.cold.fyi/stations/gta4-international-funk-99/) - 12 songs
+- GTA IV: [Jazz Nation Radio 108.5](https://radiowheel.cold.fyi/stations/gta4-jazz-nation-radio-108-5/) - 10 songs
+- GTA IV: [K109 The Studio](https://radiowheel.cold.fyi/stations/gta4-k109-the-studio/) - 26 songs
+- GTA IV: [Liberty City Hardcore](https://radiowheel.cold.fyi/stations/gta4-liberty-city-hardcore/) - 21 songs
+- GTA IV: [Liberty Rock Radio](https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/) - 40 songs
+- GTA IV: [Massive B Soundsystem 96.9](https://radiowheel.cold.fyi/stations/gta4-massive-b-soundsystem-96-9/) - 14 songs
+- GTA IV: [Public Liberty Radio](https://radiowheel.cold.fyi/stations/gta4-public-liberty-radio/) - 0 songs
+- GTA IV: [Radio Broker](https://radiowheel.cold.fyi/stations/gta4-radio-broker/) - 31 songs
+- GTA IV: [RamJam FM](https://radiowheel.cold.fyi/stations/gta4-ramjam-fm/) - 12 songs
+- GTA IV: [San Juan Sounds](https://radiowheel.cold.fyi/stations/gta4-san-juan-sounds/) - 16 songs
+- GTA IV: [Self-Actualization FM](https://radiowheel.cold.fyi/stations/gta4-self-actualization-fm/) - 8 songs
+- GTA IV: [The Beat 102.7](https://radiowheel.cold.fyi/stations/gta4-the-beat-102-7/) - 33 songs
+- GTA IV: [The Classics 104.1](https://radiowheel.cold.fyi/stations/gta4-the-classics-104-1/) - 11 songs
+- GTA IV: [The Journey](https://radiowheel.cold.fyi/stations/gta4-the-journey/) - 9 songs
+- GTA IV: [The Vibe 98.8](https://radiowheel.cold.fyi/stations/gta4-the-vibe-98-8/) - 19 songs
+- GTA IV: [Tuff Gong Radio](https://radiowheel.cold.fyi/stations/gta4-tuff-gong-radio/) - 9 songs
+- GTA IV: [Vice City FM](https://radiowheel.cold.fyi/stations/gta4-vice-city-fm/) - 28 songs
+- GTA IV: [Vladivostok FM](https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/) - 39 songs
+- GTA IV: [WKTT Talk Radio](https://radiowheel.cold.fyi/stations/gta4-wktt-talk-radio/) - 0 songs
+- Chinatown Wars: [Alchemist](https://radiowheel.cold.fyi/stations/ctw-alchemist/) - 10 songs
+- Chinatown Wars: [Anvil](https://radiowheel.cold.fyi/stations/ctw-anvil/) - 7 songs
+- Chinatown Wars: [Deadmau5](https://radiowheel.cold.fyi/stations/ctw-deadmau5/) - 10 songs
+- Chinatown Wars: [DFA](https://radiowheel.cold.fyi/stations/ctw-dfa/) - 9 songs
+- Chinatown Wars: [DJ Khalil](https://radiowheel.cold.fyi/stations/ctw-dj-khalil/) - 11 songs
+- Chinatown Wars: [Independence FM](https://radiowheel.cold.fyi/stations/ctw-independence-fm/) - 1 songs
+- Chinatown Wars: [Prairie Cartel](https://radiowheel.cold.fyi/stations/ctw-prairie-cartel/) - 10 songs
+- Chinatown Wars: [Sinowav FM](https://radiowheel.cold.fyi/stations/ctw-sinowav-fm/) - 8 songs
+- Chinatown Wars: [Ticklah](https://radiowheel.cold.fyi/stations/ctw-ticklah/) - 8 songs
+- Chinatown Wars: [Tortoise](https://radiowheel.cold.fyi/stations/ctw-tortoise/) - 10 songs
+- Chinatown Wars: [Truth & Soul](https://radiowheel.cold.fyi/stations/ctw-truth-and-soul/) - 10 songs
+- Chinatown Wars: [Turntables on the Hudson](https://radiowheel.cold.fyi/stations/ctw-turntables-on-the-hudson/) - 10 songs
+- GTA V: [Blaine County Radio](https://radiowheel.cold.fyi/stations/gta5-blaine-county-radio/) - 0 songs
+- GTA V: [blonded Los Santos 97.8 FM](https://radiowheel.cold.fyi/stations/gta5-blonded-los-santos-97-8-fm/) - 28 songs
+- GTA V: [Blue Ark](https://radiowheel.cold.fyi/stations/gta5-blue-ark/) - 21 songs
+- GTA V: [Channel X](https://radiowheel.cold.fyi/stations/gta5-channel-x/) - 18 songs
+- GTA V: [East Los FM](https://radiowheel.cold.fyi/stations/gta5-east-los-fm/) - 15 songs
+- GTA V: [FlyLo FM](https://radiowheel.cold.fyi/stations/gta5-flylo-fm/) - 59 songs
+- GTA V: [iFruit Radio](https://radiowheel.cold.fyi/stations/gta5-ifruit-radio/) - 28 songs
+- GTA V: [Kult FM 99.1](https://radiowheel.cold.fyi/stations/gta5-kult-fm-99-1/) - 34 songs
+- GTA V: [Los Santos Rock Radio](https://radiowheel.cold.fyi/stations/gta5-los-santos-rock-radio/) - 38 songs
+- GTA V: [Los Santos Underground Radio](https://radiowheel.cold.fyi/stations/gta5-los-santos-underground-radio/) - 65 songs
+- GTA V: [Media Player](https://radiowheel.cold.fyi/stations/gta5-media-player/) - 91 songs
+- GTA V: [MOTOMAMI Los Santos](https://radiowheel.cold.fyi/stations/gta5-motomami-los-santos/) - 33 songs
+- GTA V: [Music Locker Radio](https://radiowheel.cold.fyi/stations/gta5-music-locker-radio/) - 108 songs
+- GTA V: [Non-Stop-Pop FM](https://radiowheel.cold.fyi/stations/gta5-non-stop-pop-fm/) - 42 songs
+- GTA V: [Radio Los Santos](https://radiowheel.cold.fyi/stations/gta5-radio-los-santos/) - 64 songs
+- GTA V: [Radio Mirror Park](https://radiowheel.cold.fyi/stations/gta5-radio-mirror-park/) - 40 songs
+- GTA V: [Rebel Radio](https://radiowheel.cold.fyi/stations/gta5-rebel-radio/) - 17 songs
+- GTA V: [Self-Radio](https://radiowheel.cold.fyi/stations/gta5-self-radio/) - 1 songs
+- GTA V: [Soulwax FM](https://radiowheel.cold.fyi/stations/gta5-soulwax-fm/) - 18 songs
+- GTA V: [Space 103.2](https://radiowheel.cold.fyi/stations/gta5-space-103-2/) - 22 songs
+- GTA V: [Still Slipping Los Santos](https://radiowheel.cold.fyi/stations/gta5-still-slipping-los-santos/) - 33 songs
+- GTA V: [The Lab](https://radiowheel.cold.fyi/stations/gta5-the-lab/) - 14 songs
+- GTA V: [The Lowdown 91.1](https://radiowheel.cold.fyi/stations/gta5-the-lowdown-91-1/) - 20 songs
+- GTA V: [Vinewood Boulevard Radio](https://radiowheel.cold.fyi/stations/gta5-vinewood-boulevard-radio/) - 20 songs
+- GTA V: [West Coast Classics](https://radiowheel.cold.fyi/stations/gta5-west-coast-classics/) - 45 songs
+- GTA V: [West Coast Talk Radio](https://radiowheel.cold.fyi/stations/gta5-west-coast-talk-radio/) - 0 songs
+- GTA V: [Worldwide FM](https://radiowheel.cold.fyi/stations/gta5-worldwide-fm/) - 79 songs
+
+## Sister guides
+- https://groove.cold.fyi/ - The Groove: how a vinyl record is made
+- https://polo.cold.fyi/ - Polo: how Coachella works
+- https://wristband.cold.fyi/ - The Wristband: how music festivals work
+- https://lastcall.cold.fyi/ - Last Call: how nightlife works
+- https://showfile.cold.fyi/ - The Show File: how a dance music show is made
+- https://tickets.cold.fyi/ - The Ticket: how a concert ticket gets from artist to fan
+- https://airwaves.cold.fyi/ - The Airwaves: every radio signal over a city
+- https://noise.cold.fyi/ - The Noise: every sound in a city
+- https://streetcode.cold.fyi/ - Street Code: every mark on the street
+- https://works.cold.fyi/ - How a City Works: the systems under every street
+- https://penamnesty.cold.fyi/ - The Pens Went Away: pharma swag
