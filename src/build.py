@@ -31,6 +31,23 @@ E = lambda s: html.escape(str(s if s is not None else ""), quote=True)
 slugify = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower().replace("&", " and ").replace("'", "")).strip("-")
 
 
+URL_RE = re.compile(r"https?://[^\s<>\"')\]]+")
+
+
+def src_url(v):
+    """Data rows hold either a bare URL or a whole citation string; return the first URL in it."""
+    m = URL_RE.search(str(v or ""))
+    return m.group(0).rstrip(".,;") if m else ""
+
+
+def src_title(v):
+    t = re.split(r"\s+-\s+(?:last modified|accessed|undated|\d{4}-\d{2}|https?://)", str(v or ""))[0]
+    t = re.sub(r"\s*\((?:per [^()]*(?:\([^()]*\))?[^()]*)\)", "", t).strip(" -")
+    return t if t and not t.startswith("http") else ""
+
+
+
+
 def J(p, default=None):
     p = os.path.join(R, p)
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else default
@@ -177,15 +194,18 @@ for r in hosts:
     if g and g != "gta6" and r.get("station"):
         station(g, r["station"])["hosts"].append(r)
 
-SL = []
+SL, SRC_TITLES = [], {}
 for (g, k), st in stations.items():
     st["slug"] = f"{g}-{slugify(st['name'])}"
     st["is_talk"] = bool(st["talk"]) or all(t["artist"].lower() == "talk radio" for t in st["tracks"]) and bool(st["tracks"])
     st["songs"] = [t for t in st["tracks"] if t["artist"].lower() != "talk radio"]
     st["n_removed"] = sum(1 for t in st["songs"] if t["removed"])
     st["n_added"] = sum(1 for t in st["songs"] if t["added"])
-    st["sources"] = sorted({t["source"] for t in st["tracks"] if t["source"]} | ({st["meta"]["source"]} if st["meta"].get("source") else set())
-                           | {x.get("source") for x in st["talk"] + st["hosts"] if x.get("source")})
+    raw = [t["source"] for t in st["tracks"]] + [st["meta"].get("source")] + [x.get("source") for x in st["talk"] + st["hosts"]]
+    st["sources"] = sorted({src_url(v) for v in raw if src_url(v)})
+    for v in raw:
+        if src_url(v) and src_title(v):
+            SRC_TITLES.setdefault(src_url(v), src_title(v))
     SL.append(st)
 SL.sort(key=lambda s: (GORDER[s["game"]], s["name"].lower()))
 BY_GAME = {g[0]: [s for s in SL if s["game"] == g[0]] for g in GAMES}
@@ -299,6 +319,7 @@ def js_json(o):
 
 
 def srcu(u):
+    u = src_url(u)
     return f' <a class="s" href="{E(u)}" rel="noopener" target="_blank">source</a>' if u else ""
 
 
@@ -333,7 +354,7 @@ def m_songs(arg=""):
              '<div class="tbl"><table class="songs"><thead><tr><th>Artist</th><th>Song</th><th>Station</th><th>Game</th></tr></thead><tbody id="sf-list"></tbody></table></div>'
              '<p class="more" id="sf-more" hidden><button type="button" id="sf-btn">Show more</button></p>'
              '<noscript><p>The song finder needs JavaScript. Every station page lists its songs, and <a href="/tracks.json">tracks.json</a> has them all.</p></noscript>')
-    return mod("Song finder", f"{N_SONGS:,} songs on {sum(1 for s in SL if s['songs'])} stations", "Every song we could source on every Grand Theft Auto radio station, with the ones later pulled marked and dated.", inner, "songs")
+    return mod("Song finder", f"{N_SONGS:,} songs on {sum(1 for s in SL if s['songs'])} stations", "", inner, "songs")
 
 
 def m_removed(arg=""):
@@ -343,7 +364,7 @@ def m_removed(arg=""):
     gch = chips("Game", [(g[0], g[2]) for g in GAMES if any(t["game"] == g[0] for t in rows)], "g")
     ev = "".join(f'<li><span class="d">{E(r.get("date", ""))}</span><b>{E(r.get("game", ""))}</b> {E(r.get("what_removed", ""))}'
                  + (f' <span class="tag">{E(r["count"])}</span>' if r.get("count") else "") + f'{srcu(r.get("source"))}</li>' for r in sorted(removals, key=lambda r: str(r.get("date", ""))))
-    return mod("Pulled from the dial", f"{len(rows)} songs that left the games", "Each row is a song a source says was later removed, with when. Where sources disagree, the station page notes it.",
+    return mod("Pulled from the dial", f"{len(rows)} songs that left the games", "",
                (f'<ol class="tl ev">{ev}</ol>' if ev else "") + gch + f'<div class="tbl"><table class="songs" id="rm-tbl"><thead><tr><th>Artist</th><th>Song</th><th>Station</th><th>Game</th><th>Removed</th></tr></thead><tbody id="rm-list">{body}</tbody></table></div>', "removed")
 
 
@@ -387,7 +408,7 @@ def m_circoloco(arg=""):
         return ""
     rows = sorted(circoloco, key=lambda r: (str(r.get("date", "")), str(r.get("cat", ""))))
     body = "".join(f'<tr data-s="{E((str(r.get("artist", "")) + " " + str(r.get("title", "")) + " " + str(r.get("cat", ""))).lower())}"><td class="k">{E(r.get("cat", ""))}</td><td>{E(r.get("date", ""))}</td><td>{E(r.get("artist", ""))}</td><td>{E(r.get("title", ""))}</td><td class="k">{E(r.get("format", ""))}{srcu(r.get("source"))}</td></tr>' for r in rows)
-    return mod("Catalog", f"{len(rows)} CircoLoco Records releases", "Release data from the label's own listings, Discogs and Beatport, each row with its source.", f'<div class="tools"><label class="sr" for="cl-q">Search the catalog</label><input id="cl-q" type="search" placeholder="Jamback, Seth Troxler, CLR..." autocomplete="off"></div><div class="tbl"><table class="songs"><thead><tr><th>Cat</th><th>Date</th><th>Artist</th><th>Title</th><th>Format</th></tr></thead><tbody id="cl-list">{body}</tbody></table></div>', "catalog")
+    return mod("Catalog", f"{len(rows)} CircoLoco Records releases", "", f'<div class="tools"><label class="sr" for="cl-q">Search the catalog</label><input id="cl-q" type="search" placeholder="Jamback, Seth Troxler, CLR..." autocomplete="off"></div><div class="tbl"><table class="songs"><thead><tr><th>Cat</th><th>Date</th><th>Artist</th><th>Title</th><th>Format</th></tr></thead><tbody id="cl-list">{body}</tbody></table></div>', "catalog")
 
 
 STATUS_ORDER = {"official": 0, "reported": 1, "leak": 2, "rumour": 3, "rumor": 3}
@@ -400,7 +421,7 @@ def m_gta6(arg=""):
     sts = sorted({str(r.get("status", "")).lower() for r in rows}, key=lambda s: STATUS_ORDER.get(s, 9))
     items = "".join(f'<li data-k="{E(str(r.get("status", "")).lower())}"><span class="d">{E(r.get("date", ""))}</span><span class="st st-{E(str(r.get("status", "")).lower())}">{E(r.get("status", ""))}</span>'
                     f'<b>{E(r.get("item", ""))}</b> {E(r.get("detail", ""))}{srcu(r.get("source"))}</li>' for r in rows)
-    return mod("GTA VI music tracker", f"{len(rows)} items, each marked official, reported, leak or rumour", "Official means announced by Rockstar, Take-Two or the label. Leaks and rumours are listed so you can tell them apart, not because they are true.",
+    return mod("GTA VI music tracker", f"{len(rows)} items, each marked official, reported, leak or rumour", "Official means Rockstar, Take-Two or the label said it. Everything else is labelled for what it is.",
                chips("Status", [(s, s) for s in sts], "k") + f'<ol class="tl six" id="six-list">{items}</ol>', "tracker")
 
 
@@ -415,7 +436,7 @@ def m_people(arg=""):
     if not people:
         return ""
     body = "".join(f'<tr><td><b>{E(r.get("name", ""))}</b></td><td>{E(r.get("role", ""))}</td><td class="k">{E(r.get("years", ""))}</td><td>{E(", ".join(r["games"]) if isinstance(r.get("games"), list) else r.get("games", ""))}{srcu(r.get("source"))}</td></tr>' for r in people)
-    return mod("Credits", f"{len(people)} people behind the radio", "Roles and years as the sources give them.", f'<div class="tbl"><table class="songs"><thead><tr><th>Name</th><th>Role</th><th>Years</th><th>Games</th></tr></thead><tbody>{body}</tbody></table></div>', "people")
+    return mod("Credits", f"{len(people)} people behind the radio", "", f'<div class="tbl"><table class="songs"><thead><tr><th>Name</th><th>Role</th><th>Years</th><th>Games</th></tr></thead><tbody>{body}</tbody></table></div>', "people")
 
 
 def m_timeline(arg=""):
@@ -437,18 +458,18 @@ def m_glossary(arg=""):
 
 def m_resources(arg=""):
     items = "".join(f'<li><a href="{E(r["url"])}" rel="noopener" target="_blank">{E(r["title"])}</a> - {E(r.get("why", ""))}</li>' for r in resources)
-    return mod("Further", "Where to go next", "The best outside sources behind this guide. None of them are ours.", f'<ul class="res">{items}</ul>', "resources")
+    return mod("Further", "Where to go next", "", f'<ul class="res">{items}</ul>', "resources")
 
 
 def m_quiz(arg=""):
     if not quiz:
         return ""
-    return mod("Test yourself", f"{len(quiz)} questions", "Each answer explains itself and links to the section that covers it.", f'<div id="quiz"></div><script type="application/json" id="quiz-data">{js_json(quiz)}</script>', "quiz")
+    return mod("Test yourself", f"{len(quiz)} questions", "", f'<div id="quiz"></div><script type="application/json" id="quiz-data">{js_json(quiz)}</script>', "quiz")
 
 
 def m_gaps(arg=""):
     items = "".join(f"<li>{E(g)}</li>" for g in gaps) or "<li>None listed.</li>"
-    return mod("Still digging", f"{len(gaps)} things we could not source well enough", "Send a source and it goes in, with credit if you want it.", f"<ul>{items}</ul>", "gaps")
+    return mod("Still unconfirmed", f"{len(gaps)} open questions", "Know the answer? hello@thirdpolararch.com", f"<ul>{items}</ul>", "gaps")
 
 
 MODULES = {"stations": m_stations, "songs": m_songs, "removed": m_removed, "talk": m_talk, "hosts": m_hosts, "lore": m_lore, "circoloco": m_circoloco,
@@ -494,15 +515,27 @@ if missing:
     print("WARN", msg)
 if gap_left and STRICT:
     sys.exit("GAP markers left: " + "; ".join(f"{a}: {b}" for a, b in gap_left))
+def nice_url(u):
+    m = re.match(r"https?://(?:www\.)?([^/]+)/(?:w/|wiki/)?(.*)", u)
+    if not m:
+        return u
+    host, path = m.group(1), re.sub(r"[_-]+", " ", m.group(2).strip("/").split("/")[-1].split("?")[0])
+    site = {"gta.wiki": "GTA Wiki", "gta.fandom.com": "GTA Wiki (Fandom)", "gtabase.com": "GTABase", "en.wikipedia.org": "Wikipedia", "grandtheftwiki.com": "Grand Theft Wiki"}.get(host, host)
+    return f"{site}: {path}" if path else site
+
+
 # station sources join the numbered list so every page can cite them
 for st in SL:
     st["refs"] = []
     for u in st["sources"]:
         if u not in order:
             order[u] = (len(order) + 1, f"station:{st['slug']}")
-            src.setdefault(f"station:{st['slug']}:{len(order)}", (u, u))
+            src.setdefault(f"station:{st['slug']}:{len(order)}", (SRC_TITLES.get(u) or nice_url(u), u))
         st["refs"].append(order[u][0])
-URL_TITLE = {u: t for k, (t, u) in src.items()}
+URL_TITLE = {}
+for k, (t, u) in src.items():
+    if u not in URL_TITLE or URL_TITLE[u] == u:
+        URL_TITLE[u] = t
 nsrc = {n: (k, (URL_TITLE.get(u, u), u)) for u, (n, k) in order.items()}
 WORDS = sum(s["words"] for s in sections) + len(re.sub(r"<[^>]+>", " ", lede_html).split())
 
@@ -696,7 +729,7 @@ def station_page(st):
             + (f'<h2>Hosts</h2>{hosts_html}' if hosts_html else "") + talk_html
             + (f'<h2>Tracklist</h2><div class="tbl"><table class="songs tl-s"><thead><tr><th>#</th><th>Artist</th><th>Song</th><th>Year</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>' if rows else "")
             + sib_html + oth_html
-            + f'<p class="fix">Tracklists come from the sources below, mostly the GTA Wiki and Rockstar-supplied lists; release years are as those sources give them. <a href="mailto:hello@thirdpolararch.com?subject=radiowheel.cold.fyi%20-%20{E(st["slug"])}">Spot a wrong or missing song?</a></p>'
+            + f'<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=radiowheel.cold.fyi%20-%20{E(st["slug"])}">Wrong or missing song? Tell us.</a></p>'
             + refs_list(st["refs"]) + "</main></div>")
     write(f"stations/{st['slug']}/index.html", head(f"{st['name']} ({g[2]}): every song, host and show | {NAME}", desc, f"/stations/{st['slug']}/", ld) + body + foot())
 
@@ -757,14 +790,14 @@ def main():
     hub()
     all_page()
     simple("/stations/", "Every Grand Theft Auto radio station", f"All {len(SL)} radio stations across every Grand Theft Auto game, 1997 to GTA VI, with genres, hosts and full tracklists.",
-           f'<p class="lede">{len(SL)} stations, {N_SONGS:,} songs, from the first Grand Theft Auto in 1997 to the stations named for GTA VI. Each one has its own page with the full tracklist, the host and the sources.</p>' + m_stations(),
+           f'<p class="lede">{len(SL)} stations and {N_SONGS:,} songs, from the first Grand Theft Auto in 1997 to GTA V and GTA Online. Tap one for the full tracklist and the host.</p>' + m_stations(),
            [dataset("Grand Theft Auto radio stations", "Every radio station in every Grand Theft Auto game with genre and host.", "/stations/", [("stations.json", "application/json")]), crumbs([(NAME, "/"), ("Stations", "/stations/")])], "stations", True)
     simple("/songs/", "Every song on GTA radio", f"Search {N_SONGS:,} songs across every Grand Theft Auto radio station, with removed songs marked and dated.",
-           m_songs() + '<p>Downloads for your own digging: <a href="/tracks.json">tracks.json</a> · <a href="/tracks.csv">tracks.csv</a>.</p>',
+           m_songs() + '<p>Take it with you: <a href="/tracks.json">tracks.json</a> · <a href="/tracks.csv">tracks.csv</a>.</p>',
            [dataset("Grand Theft Auto radio tracklists", "Every song on every Grand Theft Auto radio station, with additions and removals dated.", "/songs/", [("tracks.json", "application/json"), ("tracks.csv", "text/csv")]),
             crumbs([(NAME, "/"), ("Songs", "/songs/")])], "songs", True)
     simple("/removed/", "Every song pulled from Grand Theft Auto", f"{N_REMOVED} songs removed from GTA games after release, with when and why, as reported.",
-           '<p class="lede">Music licences run out. When they do, songs leave the games, sometimes from copies people already own. Here is every removal our sources document. The why is in <a href="/licensing/">Why songs disappear</a>.</p>' + m_removed(),
+           '<p class="lede">Music licenses run out, and when they do, songs leave the games - sometimes from copies people already own. Here is every song that went, and when. The why is in <a href="/licensing/">Why songs disappear</a>.</p>' + m_removed(),
            [dataset("Songs removed from Grand Theft Auto games", "Songs pulled from GTA games after release, dated, with sources.", "/removed/", [("removed.json", "application/json")]), crumbs([(NAME, "/"), ("Removed songs", "/removed/")])], "removed", True)
     simple("/glossary/", "Glossary: the words behind game music", f"{len(glossary)} terms in plain words.", m_glossary(), [crumbs([(NAME, "/"), ("Glossary", "/glossary/")])])
     simple("/sources/", "Every source", "Every source behind the guide, numbered.", refs_list(sorted(nsrc), f"{len(nsrc)} sources"))
@@ -774,7 +807,7 @@ def main():
     # data for agents and diggers
     tracks_out = [{"game": GK[t["game"]][1], "game_key": t["game"], "station": t["station"], "artist": t["artist"], "title": t["title"], "year": t["year"],
                    "added": t["added"], "removed": t["removed"], "note": t["note"], "source": t["source"], "station_url": f"{SITE}/stations/{t['station_slug']}/"} for t in SONGS]
-    write("tracks.json", json.dumps({"note": f"Every song on every Grand Theft Auto radio station that our sources document, {N_SONGS} rows, updated {STAMP.isoformat()}. Independent; not affiliated with Rockstar Games.", "tracks": tracks_out}, ensure_ascii=False))
+    write("tracks.json", json.dumps({"note": f"Every song on every Grand Theft Auto radio station, {N_SONGS} rows, updated {STAMP.isoformat()}. Independent; not affiliated with Rockstar Games.", "tracks": tracks_out}, ensure_ascii=False))
     buf = io.StringIO()
     w = csv.DictWriter(buf, fieldnames=list(tracks_out[0].keys()) if tracks_out else ["game"])
     w.writeheader()

@@ -1,22 +1,22 @@
 ## The radio, game by game: GTA IV and GTA V
 
-**The short version:** This section covers the radio in GTA IV, Chinatown Wars and GTA V, including what GTA Online later added to the dial. GTA IV (2008) gave Liberty City 19 stations and handed most of the microphones to real musicians, from Iggy Pop to Karl Lagerfeld, and its two episodes added three stations of their own. GTA V (2013) launched with 15 music stations and 240 licensed songs, grew by about 165 tracks on the 2014 consoles, and GTA Online has kept adding whole stations since, through MOTOMAMI Los Santos in December 2021.[^mod-rollingstone-2013][^mod-wiki-gta4][^mod-gtawiki-nonstoppop][^mod-gtawiki-online]
+**The short version:** GTA IV (2008) gave Liberty City 19 stations and handed most of the microphones to real musicians, from Iggy Pop to Karl Lagerfeld, and its two episodes added three stations of their own. GTA V (2013) launched with 15 music stations and 240 licensed songs, grew by about 165 tracks on the 2014 consoles, and GTA Online kept bolting on whole stations through MOTOMAMI Los Santos in December 2021.[^mod-rollingstone-2013][^mod-wiki-gta4][^mod-gtawiki-nonstoppop][^mod-gtawiki-online]
 
 ### How many radio stations does GTA IV have?
 
-GTA IV has 19 radio stations: 16 play music and three are talk, with "over 360 tracks" across them, per the Wikipedia article on the soundtrack (read through a mirror).[^mod-wiki-gta4] The PC version adds a 20th, **Independence FM**, a custom station that plays the player's own audio files; the GTA wiki names its host as Gary Sheen.[^mod-gtwiki-gta4][^mod-gtawiki-gta4]
+GTA IV has 19 radio stations: 16 play music and three are talk, with "over 360 tracks" across them.[^mod-wiki-gta4] The PC version adds a 20th, **Independence FM**, a custom station that plays the player's own audio files, hosted by Gary Sheen.[^mod-gtwiki-gta4][^mod-gtawiki-gta4]
 
-The music side covers a lot of ground for one city. Liberty Rock Radio 97.8 handles classic rock, Vladivostok FM does Eastern European pop and dance, K109 The Studio plays disco, Electro-Choc runs electro house, Liberty City Hardcore does punk and metal, and The Journey is ambient, with a text-to-speech "computer" for a host, per the fan wiki.[^mod-gtwiki-gta4] Hip-hop splits across The Beat 102.7 (current) and The Classics 104.1 (older), and reggae across Tuff Gong Radio and Massive B Soundsystem 96.9.[^mod-gtwiki-gta4]
+The music side covers a lot of ground for one city. Liberty Rock Radio 97.8 handles classic rock, Vladivostok FM does Eastern European pop and dance, K109 The Studio plays disco, Electro-Choc runs electro house, Liberty City Hardcore does punk and metal, and The Journey is ambient, hosted by a text-to-speech "computer".[^mod-gtwiki-gta4] Hip-hop splits across The Beat 102.7 (current) and The Classics 104.1 (older), and reggae across Tuff Gong Radio and Massive B Soundsystem 96.9.[^mod-gtwiki-gta4]
 
 The three talk stations are WKTT Radio (conservative), Public Liberty Radio (liberal) and Integrity 2.0, Lazlow's street-interview show.[^mod-gtwiki-gta4][^fc-gtawiki-integrity] The shows are covered at [talk radio](/talk-radio/).
 
-Rockstar's official album, *The Music of Grand Theft Auto IV*, came out April 29, 2008, and it was one of five GTA IV-era soundtrack albums, including a Vladivostok FM album and Statik Selektah's *The Lost and Damned* EP (per the Wikipedia mirror).[^mod-wiki-gta4]
+Rockstar's official album, *The Music of Grand Theft Auto IV*, came out April 29, 2008. It was one of five GTA IV-era soundtrack albums, along with a Vladivostok FM album and Statik Selektah's *The Lost and Damned* EP.[^mod-wiki-gta4]
 
-Our own tracklist, built from the GTA wiki, holds 219 music rows for the base game's 16 music stations, with Vladivostok FM (24) and Liberty Rock Radio (22) the largest.[^mod-gtawiki-gta4] That is lower than Wikipedia's 360, which counts the episodes too: adding their rows takes our table to 375.
+The fan wiki's station pages list 219 songs on the base game's 16 music stations, with Vladivostok FM (24) and Liberty Rock Radio (22) the biggest.[^mod-gtawiki-gta4] The 360 figure counts the episodes too; add their songs and the wiki's total comes to 375.
 
 ### Who are the DJs on GTA IV radio?
 
-GTA IV is where the celebrity host became the house style. Per the Wikipedia mirror and Grand Theft Wiki, the launch lineup was:[^mod-wiki-gta4][^mod-gtwiki-gta4]
+GTA IV is where the celebrity host became the house style. The launch lineup:[^mod-wiki-gta4][^mod-gtwiki-gta4]
 
 | Station | Format | Host at launch |
 |---|---|---|
@@ -36,17 +36,15 @@ GTA IV is where the celebrity host became the house style. Per the Wikipedia mir
 | Liberty City Hardcore | Hardcore and metal | Jimmy Gestapo |
 | Electro-Choc | Electro house | François K |
 
-A caution for the record: this list rests on Wikipedia (via a mirror) and a fan wiki. Femi Kuti on IF99 in particular is confirmed only by those two.[^mod-wiki-gta4][^mod-gtwiki-gta4]
-
-One 2008 press source backs two of the names. NPR's segment "Steal a Car, Tune In to NPR" plays in-game clips of François K on Electro-Choc and of Femi Kuti introducing himself as "playing all about the Afrobeat and funk," though it does not name IF99.[^gf-a-npr-2008] No 2008 source opened for this guide confirms the rest of the lineup.
+Most of that lineup comes from Wikipedia and a fan wiki rather than 2008 press.[^mod-wiki-gta4][^mod-gtwiki-gta4] NPR's segment "Steal a Car, Tune In to NPR" backs two of the names, playing in-game clips of François K on Electro-Choc and of Femi Kuti introducing himself as "playing all about the Afrobeat and funk," though it never says IF99.[^gf-a-npr-2008] For the other 13, no 2008 press confirmation is known.
 
 ### What did The Lost and Damned and The Ballad of Gay Tony change on the radio?
 
-The two episodes did not build new radio dials so much as re-program the old one. For *The Lost and Damned* (2009), Engadget reported new shows from Funkmaster Flex and Statik Selektah on The Beat 102.7 and Max Cavalera on Liberty City Hardcore, plus new tracks for Iggy Pop and Juliette Lewis's stations, with the new songs playing before the old ones.[^mod-engadget-2009]
+The two episodes re-programmed the old dial more than they built new ones. *The Lost and Damned* (2009) brought new shows from Funkmaster Flex and Statik Selektah on The Beat 102.7 and Max Cavalera on Liberty City Hardcore, plus new tracks for Iggy Pop's and Juliette Lewis's stations, with the new songs playing before the old ones.[^mod-engadget-2009]
 
-*The Ballad of Gay Tony* updated Vladivostok FM (now hosted by DJ Paul), K109, Electro-Choc (Crookers), San Juan Sounds (Henry Santos Jeter) and Integrity 2.0, per Grand Theft Wiki and the Wikipedia mirror.[^mod-gtwiki-gta4][^mod-wiki-gta4] In the episodes, Lazlow returns on Integrity 2.0 with a sidekick, Jorge, per the GTA wiki.[^fc-gtawiki-integrity]
+*The Ballad of Gay Tony* updated Vladivostok FM (now hosted by DJ Paul), K109, Electro-Choc (Crookers), San Juan Sounds (Henry Santos Jeter) and Integrity 2.0.[^mod-gtwiki-gta4][^mod-wiki-gta4] Lazlow comes back on Integrity 2.0 with a sidekick, Jorge.[^fc-gtawiki-integrity]
 
-In our tracklist the Lost and Damned rows land on four stations (Liberty Rock 18, The Beat 15, Radio Broker 12, LCHC 11) and the Gay Tony rows on four (K109 16, Vladivostok 15, Electro-Choc 13, San Juan Sounds 8).[^mod-gtawiki-gta4]
+The Lost and Damned's new songs land on four stations (Liberty Rock 18, The Beat 15, Radio Broker 12, LCHC 11), and Gay Tony's on four more (K109 16, Vladivostok 15, Electro-Choc 13, San Juan Sounds 8).[^mod-gtawiki-gta4]
 
 ### What stations are exclusive to Episodes from Liberty City?
 
@@ -56,35 +54,33 @@ In our tracklist the Lost and Damned rows land on four stations (Liberty Rock 18
 - **RamJam FM**, reggae, dub and dancehall, hosted by David Rodigan. It replaces Tuff Gong and Massive B.
 - **Self-Actualization FM**, ambient and chillout, hosted by Audrey. It replaces The Journey, Jazz Nation and Fusion FM.
 
-Our rows match the 48 exactly: 28 on Vice City FM, 12 on RamJam FM and eight on Self-Actualization FM.[^mod-gtawiki-gta4]
+The fan wiki's song lists match the 48 exactly: 28 on Vice City FM, 12 on RamJam FM and eight on Self-Actualization FM.[^mod-gtawiki-gta4]
 
 ### Why did songs disappear from GTA IV?
 
-Licenses ran out. From April 26, 2018, licensed songs were removed from GTA IV and both episodes because the terms had expired, many of them from Vladivostok FM.[^mod-cinemablend-2018] Vice put the 2018 cut at 50 songs (reported) and said the version returning to Steam the next month (March 2020) would have "almost 100 missing tracks" and lack the three Episodes stations.[^mod-vice-2020] Our table marks 49 tracks removed in 2018, and the GTA wiki lists the Episodes stations as back in the PC Complete Edition from June 3, 2020.[^mod-gtawiki-gta4] The competing counts, and why game licenses expire, are at [licensing](/licensing/).
+Licenses ran out. From April 26, 2018, licensed songs were removed from GTA IV and both episodes because the terms had expired, many of them from Vladivostok FM.[^mod-cinemablend-2018] Vice put the 2018 cut at 50 songs and said the version returning to Steam in March 2020 would have "almost 100 missing tracks" and lack the three Episodes stations.[^mod-vice-2020] The fan wiki marks 49 tracks removed in 2018 and has the Episodes stations back in the PC Complete Edition from June 3, 2020.[^mod-gtawiki-gta4] The competing counts, and why game licenses expire, are at [licensing](/licensing/).
 
 [[MODULE:stations:gta4]]
 
 ### What was the radio in GTA Chinatown Wars?
 
-Chinatown Wars (2009) ran on a Nintendo DS, and its radio was built differently. WorthPlaying's 2009 report named five producers for the soundtrack - Deadmau5, Truth & Soul, Ticklah, Prairie Cartel and Alchemist - and named stations including Electro-Choc, IF99, Tuff Gong, The Beat and Radio Broker, all GTA IV station names, without pairing producers to stations.[^mod-worthplaying-2009]
+Chinatown Wars (2009) ran on a Nintendo DS, and its radio was built differently. The March 11, 2009 announcement named five producers - Deadmau5, Truth & Soul, Ticklah, Prairie Cartel and Alchemist - and stations "including" Electro-Choc, IF99, Tuff Gong, The Beat and Radio Broker, all GTA IV names, with no total and no pairing of producer to station.[^mod-worthplaying-2009][^gf-a-purenintendo-2009] Pure Nintendo called the music a "mixture of original and licensed instrumentals."[^gf-a-purenintendo-2009] The fan wiki goes further: each station is named after a real label or artist, with about 10 tracks apiece.[^mod-gtawiki-ctw] The DS station count was never officially stated. The PSP version (2009) added six more: DJ Khalil, Tortoise, Turntables on the Hudson, DFA, Anvil and Sinowav FM, a station of traditional Chinese music. The later iOS and Android versions brought back Independence FM, playing an iTunes playlist named "GTA".[^mod-gtawiki-ctw]
 
-Pure Nintendo's report of the same announcement, dated March 11, 2009, names the same five stations and producers, introduces the stations with "including" rather than a total, and calls the music a "mixture of original and licensed instrumentals."[^gf-a-purenintendo-2009] The GTA wiki goes further: each station is named after a real label or artist, with about 10 tracks apiece.[^mod-gtawiki-ctw] Neither press report pairs producers with stations, so the DS count stays unsettled. The PSP version (2009) added six more, per the wiki: DJ Khalil, Tortoise, Turntables on the Hudson, DFA, Anvil and Sinowav FM, a station of traditional Chinese music. The later iOS and Android versions brought back Independence FM, playing an iTunes playlist named "GTA".[^mod-gtawiki-ctw]
-
-Instrumentals carry much of it. The wiki describes the Alchemist station (tracks credited to Gangrene) as hip-hop instrumentals and lists all of DJ Khalil's tracks as instrumental versions of rap songs, Ticklah's station is dub, and Prairie Cartel's 10 cuts are the band's own.[^mod-gtawiki-ctw]
+Instrumentals carry much of it. The Alchemist station (tracks credited to Gangrene) is hip-hop instrumentals, all of DJ Khalil's tracks are instrumental versions of rap songs, Ticklah's station is dub, and Prairie Cartel's 10 cuts are the band's own.[^mod-gtawiki-ctw]
 
 [[MODULE:stations:ctw]]
 
 ### How many songs are on the GTA V radio?
 
-At launch on September 17, 2013, GTA V had 15 music stations, two talk stations and 240 licensed songs, according to Rockstar soundtrack supervisor Ivan Pavlovich, who called it "the largest soundtrack that we've done."[^mod-rollingstone-2013][^mod-psl-2013] The Wikipedia article contradicts itself, giving 15, 16 and 18 music stations in different sections and both "more than 441" and 241 tracks; Pavlovich's 240 is the launch figure to use.[^mod-wiki-gta5]
+At launch on September 17, 2013, GTA V had 15 music stations, two talk stations and 240 licensed songs. Ivan Pavlovich, then Rockstar's soundtrack supervisor, called it "the largest soundtrack that we've done."[^mod-rollingstone-2013][^mod-psl-2013] Wikipedia's article contradicts itself, giving 15, 16 and 18 music stations in different sections and both "more than 441" and 241 tracks. Pavlovich's 240 is the launch number.[^mod-wiki-gta5]
 
-Our tracklist, drawn from the GTA wiki's station pages, lands on the same number: after taking out the 2014 additions, the PC-era additions and the two talk stations, 240 rows remain.[^mod-gtawiki-nonstoppop] Non-Stop-Pop FM is now the largest station in the table, with 42 rows, and Radio Mirror Park next with 40.[^mod-gtawiki-nonstoppop][^mod-gtawiki-mirrorpark]
+The fan wiki's station pages land on the same figure: take out the 2014 additions, the PC-era additions and the two talk stations, and 240 songs remain.[^mod-gtawiki-nonstoppop] Non-Stop-Pop FM is now the biggest station at 42 songs, with Radio Mirror Park next at 40.[^mod-gtawiki-nonstoppop][^mod-gtawiki-mirrorpark]
 
-*The Music of Grand Theft Auto V* came out digitally September 24, 2013, as 59 tracks over three volumes, with a CD and vinyl release on Mass Appeal Records on December 9, 2014; it peaked at 11 on Billboard's Top Soundtracks chart, per the Wikipedia mirror.[^mod-wiki-gta5]
+*The Music of Grand Theft Auto V* came out digitally September 24, 2013, as 59 tracks over three volumes, with a CD and vinyl release on Mass Appeal Records on December 9, 2014. It peaked at 11 on Billboard's Top Soundtracks chart.[^mod-wiki-gta5]
 
 ### Who are the DJs on GTA V radio stations?
 
-GTA V kept the IV approach and widened it. The PlayStation LifeStyle list from launch week gives these hosts, except for Worldwide FM and The Blue Ark, which it lists without one:[^mod-psl-2013]
+GTA V kept the IV approach and widened it. Launch-week hosts, with Worldwide FM and The Blue Ark listed hostless at the time:[^mod-psl-2013]
 
 | Station | Format | Host |
 |---|---|---|
@@ -102,19 +98,19 @@ GTA V kept the IV approach and widened it. The PlayStation LifeStyle list from l
 | FlyLo FM | Electronic and hip-hop | Flying Lotus |
 | East Los FM | Mexican and Latin | DJ Camilo and Don Cheto |
 | Worldwide FM | House, jazz, global | Gilles Peterson |
-| The Blue Ark | Reggae and dub | Lee "Scratch" Perry (GTA wiki only) |
+| The Blue Ark | Reggae and dub | Lee "Scratch" Perry (fan wiki only) |
 
-Some entries need caveats. For East Los FM, Rolling Stone names Camilo Lara of Mexican Institute of Sound instead, so the sources disagree.[^mod-rollingstone-2013] Rolling Stone credits Vinewood Boulevard Radio to Wavves, the band Williams and Pope play in, and says FlyLo FM uses many unreleased tracks Flying Lotus gathered from friends.[^mod-rollingstone-2013] Gilles Peterson on Worldwide FM is confirmed in 2020 coverage, and The Blue Ark's host rests on the GTA wiki alone.[^mod-lobf-2020][^mod-gtawiki-online]
+A few need footnotes of their own. Rolling Stone puts Camilo Lara of Mexican Institute of Sound on East Los FM, not DJ Camilo. It credits Vinewood Boulevard Radio to Wavves, the band Williams and Pope play in, and says FlyLo FM leans on unreleased tracks Flying Lotus gathered from friends.[^mod-rollingstone-2013] Gilles Peterson on Worldwide FM is confirmed in 2020 coverage; Lee "Scratch" Perry on The Blue Ark rests on the fan wiki alone.[^mod-lobf-2020][^mod-gtawiki-online]
 
-Rolling Stone counts two talk stations, and PlayStation LifeStyle lists one of them, Blaine County Radio.[^mod-rollingstone-2013][^mod-psl-2013]
+Of the two talk stations Rolling Stone counts, the launch-week list names one, Blaine County Radio.[^mod-rollingstone-2013][^mod-psl-2013]
 
 ### What did the 2014 next-gen version add to GTA V radio?
 
-The 2014 release for newer consoles is the biggest expansion of the GTA V dial that did not add a station. Per the GTA wiki's station pages, 165 tracks in our table were added in that edition, spread across 13 stations: Non-Stop-Pop FM got 26, Worldwide FM 19, Radio Mirror Park 18, Radio Los Santos 16, and Los Santos Rock Radio and FlyLo FM 15 each.[^mod-gtawiki-nonstoppop][^mod-gtawiki-mirrorpark][^mod-gtawiki-worldwide]
+The 2014 release for newer consoles is the biggest expansion of the GTA V dial that did not add a station. The fan wiki marks 165 tracks as new in that edition, spread across 13 stations: Non-Stop-Pop FM got 26, Worldwide FM 19, Radio Mirror Park 18, Radio Los Santos 16, and Los Santos Rock Radio and FlyLo FM 15 each.[^mod-gtawiki-nonstoppop][^mod-gtawiki-mirrorpark][^mod-gtawiki-worldwide]
 
-Not all of it was new. 22 of those songs are marked in our data as cut from the 2013 PS3 and Xbox 360 release and restored in the new edition; on Non-Stop-Pop FM alone the GTA wiki lists seven, among them Moloko's "The Time Is Now".[^mod-gtawiki-nonstoppop] A few credits differ between the wiki and a 2014 Game Informer list, which our data notes but which we did not open.
+Not all of it was new. Twenty-two of those songs were cut from the 2013 PS3 and Xbox 360 release and restored in the new edition; Non-Stop-Pop FM alone got seven back, among them Moloko's "The Time Is Now".[^mod-gtawiki-nonstoppop] A 2014 Game Informer list credits a few songs differently from the wiki.
 
-Take-Two's September 12, 2014 announcement set the new edition for PlayStation 4 and Xbox One on November 18, 2014, with PC to follow on January 27, 2015, and promised "over 100 additional new songs and new DJ mixes" across 17 stations.[^gf-a-taketwo-2014] Game Informer's October 17, 2014 report repeated the figure of more than 100 new songs and said FlyLo FM gained over 30 minutes of new music, including a Flying Lotus and Krayzie Bone collaboration and a new Doom track.[^gf-a-gi-2014] The 165 in our table sits above that floor and includes the 22 restored cuts.
+Take-Two's September 12, 2014 announcement set the new edition for PlayStation 4 and Xbox One on November 18, 2014, with PC to follow on January 27, 2015, and promised "over 100 additional new songs and new DJ mixes" across 17 stations.[^gf-a-taketwo-2014] Game Informer repeated the figure on October 17, 2014, and said FlyLo FM gained over 30 minutes of new music, including a Flying Lotus and Krayzie Bone collaboration and a new Doom track.[^gf-a-gi-2014] The wiki's 165, restored cuts included, clears that floor comfortably.
 
 [[MODULE:stations:gta5]]
 
@@ -122,7 +118,7 @@ Take-Two's September 12, 2014 announcement set the new edition for PlayStation 4
 
 The post-launch stations arrived with PC and with Online updates, and most play in Story Mode as well. Here is the dial in date order; the club era behind it is told at [GTA Online](/online/).
 
-| Station | Arrived | Host or source | Rows in our data |
+| Station | Arrived | Host or source | Tracks (fan wiki) |
 |---|---|---|---|
 | Self Radio | April 2015, PC | Player's own files | - |
 | The Lab | 2015 (see below) | The Alchemist and Oh No | 13 |
@@ -135,21 +131,21 @@ The post-launch stations arrived with PC and with Online updates, and most play 
 | Media Player | Los Santos Tuners, July 20, 2021 | Collected Media Sticks | 92 |
 | MOTOMAMI Los Santos | The Contract, December 15, 2021 | Rosalía and Arca | 33 |
 
-Sources for the table: Wikipedia mirror, PC Gamer, Resident Advisor, The Line of Best Fit, GamesRadar, Inverse and the GTA wiki; row counts come from the GTA wiki.[^mod-wiki-gta5][^mod-pcgamer-2017][^mod-ra-2018][^mod-pcgamer-2019][^mod-lobf-2020][^mod-gamesradar-2020][^mod-inverse-2021][^mod-gtawiki-mediaplayer][^mod-gtawiki-online]
+Dates and hosts come from press coverage; track counts from the fan wiki.[^mod-wiki-gta5][^mod-pcgamer-2017][^mod-ra-2018][^mod-pcgamer-2019][^mod-lobf-2020][^mod-gamesradar-2020][^mod-inverse-2021][^mod-gtawiki-mediaplayer][^mod-gtawiki-online]
 
-**The Lab** carries The Alchemist and Oh No's album *Welcome to Los Santos*, and its date depends on who you ask: Wikipedia ties it to the April 2015 PC launch, PC Gamer says it "debuted in July 2015", and the GTA wiki says it was PC-only at first and reached other editions on July 8, 2015 in Ill-Gotten Gains Part 2.[^mod-wiki-gta5][^mod-pcgamer-2017][^mod-gtawiki-online]
+**The Lab** carries The Alchemist and Oh No's album *Welcome to Los Santos*, and nobody agrees when it arrived. Wikipedia ties it to the April 2015 PC launch, PC Gamer says it "debuted in July 2015", and the fan wiki has it PC-only at first, reaching other editions on July 8, 2015, in Ill-Gotten Gains Part 2.[^mod-wiki-gta5][^mod-pcgamer-2017][^mod-gtawiki-online]
 
 **blonded Los Santos** was the first new station in over two years.[^mod-pcgamer-2017] **Los Santos Underground Radio** plays the mixes of four resident DJs: Solomun, Tale Of Us, Dixon and The Black Madonna.[^mod-ra-2018] **iFruit Radio** launched with 27 tracks by PC Gamer's count; the wiki lists 28.[^mod-pcgamer-2019][^mod-gtawiki-online]
 
 ### What did the Cayo Perico Heist and The Contract do to the radio?
 
-The Cayo Perico Heist (December 15, 2020) was billed as "the biggest musical update to the game to date", with over 250 new tracks (official, as reported in 2020).[^mod-lobf-2020] Besides the three new stations, Worldwide FM and FlyLo FM got new music, including MF DOOM on both.[^mod-lobf-2020] On Kult FM, per Epic Games Store editorial, producer Zachary, voiced by David Cross, fills in for Casablancas.[^mod-epic-2025]
+Rockstar billed the Cayo Perico Heist (December 15, 2020) as "the biggest musical update to the game to date", with over 250 new tracks.[^mod-lobf-2020] Besides the three new stations, Worldwide FM and FlyLo FM got new music, MF DOOM on both.[^mod-lobf-2020] On Kult FM, producer Zachary, voiced by David Cross, fills in for Casablancas.[^mod-epic-2025]
 
-The Contract (December 15, 2021) brought MOTOMAMI Los Santos, with Rosalía and Arca switching between Spanish and English.[^mod-inverse-2021] It also reworked Big Boy's Radio Los Santos with classic Dr. Dre cuts and exclusive new music, released through the [CircoLoco Records](/circoloco/) label.[^mod-shacknews-2021] Per the GTA wiki, a Dre Day takeover on West Coast Classics merged into its regular playlist from I-Wagen Week.[^mod-gtawiki-online]
+The Contract (December 15, 2021) brought MOTOMAMI Los Santos, with Rosalía and Arca switching between Spanish and English.[^mod-inverse-2021] It also reworked Big Boy's Radio Los Santos with classic Dr. Dre cuts and exclusive new music, released through the [CircoLoco Records](/circoloco/) label.[^mod-shacknews-2021] A Dre Day takeover on West Coast Classics later merged into its regular playlist from I-Wagen Week.[^mod-gtawiki-online]
 
 ### Has GTA Online added a radio station since 2021?
 
-Not a whole one, as of November 2026, in anything we read. MOTOMAMI Los Santos (December 2021) is the latest full station we can verify.[^mod-gtawiki-online] Since then the changes are smaller: a DāM-FunK playlist for the Media Player in The Chop Shop (15 tracks on the wiki's Media Player page, 16 on its Online radio page, which counts the mix title as a row), six songs added to Radio Los Santos in I-Wagen Week, and removals.[^mod-gtawiki-mediaplayer][^mod-gtawiki-online] GTABoom reported on September 16, 2026, that Moloko's "The Time Is Now" had been pulled from Non-Stop-Pop FM in GTA V Enhanced and that the change was expected to reach consoles as well; Rockstar had not given a reason.[^mod-gtaboom-2026] The GTA wiki's count of 954 songs across the Online radio is the wiki's own figure, and we have not checked it.[^mod-gtawiki-online]
+Not a whole one, as of November 2026. MOTOMAMI Los Santos (December 2021) is the latest full station on record.[^mod-gtawiki-online] Since then the changes have been smaller: a DāM-FunK playlist for the Media Player in The Chop Shop (15 tracks on the wiki's Media Player page, 16 on its Online radio page, which counts the mix title as a track), six songs added to Radio Los Santos in I-Wagen Week, and removals.[^mod-gtawiki-mediaplayer][^mod-gtawiki-online] On September 16, 2026, GTABoom reported that Moloko's "The Time Is Now" - one of the songs restored in 2014 - had been pulled from Non-Stop-Pop FM in GTA V Enhanced, with consoles expected to follow; Rockstar gave no reason.[^mod-gtaboom-2026] The fan wiki tallies 954 songs across the Online radio; that count is its own, unconfirmed elsewhere.[^mod-gtawiki-online]
 
 [^mod-wiki-gta4]: Wikipedia (IPFS mirror) - "Grand Theft Auto IV soundtrack" - https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Fusion_FM.html
 [^mod-gtwiki-gta4]: Grand Theft Wiki - "Radio Stations in GTA IV" - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV
