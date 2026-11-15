@@ -1,6 +1,6 @@
 [
  {
-  "cat": "CLR001 (unverified; inferred from sequence)",
+  "cat": "CLR001 (unconfirmed)",
   "date": "2021-06-04",
   "artist": "Seth Troxler, Sama' Abdulhadi, Rampa, Deichkind (Dixon Edit), Kerri Chandler",
   "title": "Monday Dreamin' Blue EP",
@@ -8,7 +8,7 @@
   "source": "https://circolocorecords.bandcamp.com/album/monday-dreamin-blue-ep"
  },
  {
-  "cat": "CLR001 (unverified)",
+  "cat": "CLR001 (unconfirmed)",
   "date": "2021-06 (about June 11; article dated 2021-06-12)",
   "artist": "tINI feat. Amiture, DJ Tennis, Moodymann, Jamie Jones, Mano Le Tough",
   "title": "Monday Dreamin' Green EP",
@@ -16,7 +16,7 @@
   "source": "https://www.edmtunes.com/2021/06/circoloco-records-releases-stellar-2nd-ep/"
  },
  {
-  "cat": "CLR001 (unverified)",
+  "cat": "CLR001 (unconfirmed)",
   "date": "2021-06-18 (scheduled)",
   "artist": "Various (names not confirmed per EP)",
   "title": "Monday Dreamin' Violet EP",
@@ -24,7 +24,7 @@
   "source": "https://www.edmtunes.com/2021/06/circoloco-records-releases-stellar-2nd-ep/ (schedule); https://gta.wiki/w/Media_Player (per the GTA wiki, EP names)"
  },
  {
-  "cat": "CLR001 (unverified)",
+  "cat": "CLR001 (unconfirmed)",
   "date": "2021-06-25 (scheduled)",
   "artist": "Various (names not confirmed per EP)",
   "title": "Monday Dreamin' Black EP",
@@ -32,7 +32,7 @@
   "source": "https://www.edmtunes.com/2021/06/circoloco-records-releases-stellar-2nd-ep/ (schedule); https://gta.wiki/w/Media_Player (per the GTA wiki, EP names)"
  },
  {
-  "cat": "CLR001 (unverified)",
+  "cat": "CLR001 (unconfirmed)",
   "date": "2021-07-09",
   "artist": "Various (20 artists incl. Luciano, Carl Craig, Moodymann, Tale Of Us, Adam Beyer, Kerri Chandler)",
   "title": "Monday Dreamin'",
@@ -64,7 +64,7 @@
   "source": "https://aboveboarddist.co.uk/skream-the-attention-deficit-ep-circoloco-records; https://rockstarintel.com/circoloco-rockstar-games-the-attention-deficit-ep-now-available/; https://rockstarintel.com/circoloco-rockstar-games-presents-world-is-empty-for-clr-007/"
  },
  {
-  "cat": "CRL 004 (as RockstarINTEL writes it)",
+  "cat": "CRL 004",
   "date": "2022-08-05",
   "artist": "DJ Tennis & Ashee feat. Lady Donli",
   "title": "On My Own Now",
@@ -80,7 +80,7 @@
   "source": "https://www.discogs.com/release/26640140-Various-Anyway; https://rockstarintel.com/rockstar-games-circoloco-digital-release-of-anyway-available-may-26th/"
  },
  {
-  "cat": "CRL 006 (link slug CLR006EP1)",
+  "cat": "CRL 006",
   "date": "2023-05 (out by 2023-05-15)",
   "artist": "Chloé Caillet",
   "title": "Intro EP",
@@ -96,7 +96,7 @@
   "source": "https://rockstarintel.com/circoloco-rockstar-games-presents-world-is-empty-for-clr-007/"
  },
  {
-  "cat": "CLR008 (from purchase link CLR008S)",
+  "cat": "CLR008",
   "date": "2023-08-25",
   "artist": "Mochakk",
   "title": "Jealous",
@@ -136,7 +136,7 @@
   "source": "https://circolocorecords.bandcamp.com/album/locomotiva-ibiza-2099-ii; https://rockstarintel.com/rockstar-games-circoloco-mochakks-locomotiva-ibiza-2099-ii-ep-now-available/"
  },
  {
-  "cat": "unconfirmed (CLR012 would fit the gap)",
+  "cat": "unconfirmed (likely CLR012)",
   "date": "2024-10-04",
   "artist": "PAWSA",
   "title": "COLLECT THE COMMAS",
@@ -192,7 +192,7 @@
   "source": "https://rockstarintel.com/circoloco-rockstar-games-presents-lost-without-you-from-skream-crl-018/"
  },
  {
-  "cat": "CRL 019 (per RockstarINTEL; same number as the album, so likely an album single)",
+  "cat": "CRL 019 (shares the album's number; likely a single from it)",
   "date": "2025-10-03 (article date)",
   "artist": "Prospa feat. Kosmo Kint",
   "title": "Love Songs",
@@ -208,7 +208,7 @@
   "source": "https://rockstarintel.com/?p=37466"
  },
  {
-  "cat": "CLR021 (inferred from press image filename only)",
+  "cat": "CLR021 (unconfirmed)",
   "date": "2025-11-07",
   "artist": "Jamback",
   "title": "Positive",

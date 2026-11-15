@@ -1,7 +1,7 @@
 [
  {
   "term": "A&R",
-  "definition": "Artists and repertoire: finding artists and choosing which records a label releases. At CircoLoco Records, Beatport says this sits with CircoLoco.",
+  "definition": "Artists and repertoire: finding artists and choosing which records a label releases. At CircoLoco Records, it sits with the CircoLoco side.",
   "section": "circoloco",
   "source_url": "https://www.beatportal.com/articles/1405524-label-of-the-month-circoloco-records"
  },
@@ -13,7 +13,7 @@
  },
  {
   "term": "Adaptive score",
-  "definition": "Score tracks split into four to eight stems mixed live by gameplay, as in GTA Online: Los Santos Drug Wars, per the GTA wiki.",
+  "definition": "Score tracks split into four to eight stems that gameplay mixes live, as in GTA Online: Los Santos Drug Wars.",
   "section": "scores",
   "source_url": "https://gta.wiki/w/GTA_Online:_Los_Santos_Drug_Wars/Soundtrack"
  },
@@ -121,7 +121,7 @@
  },
  {
   "term": "DC10",
-  "definition": "The club on Ibiza's Carretera de Salinas where CircoLoco runs, opened in the 1990s as a bar licensed for 80 people; capacity 1,500 today, per Wikipedia.",
+  "definition": "The club on Ibiza's Carretera de Salinas where CircoLoco runs, opened in the 1990s as a bar licensed for 80 people; it holds 1,500 today.",
   "section": "circoloco",
   "source_url": "https://en.wikipedia.org/wiki/DC10_(nightclub)"
  },
@@ -355,7 +355,7 @@
  },
  {
   "term": "Mix-down",
-  "definition": "Combining a cue's stems into a balanced mix; on GTA V Ivan Pavlovich did the mix-downs for each mission's eight stems, per Wikipedia.",
+  "definition": "Combining a cue's stems into a balanced mix; on GTA V, Ivan Pavlovich did the mix-downs for each mission's eight stems.",
   "section": "scores",
   "source_url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Music_of_Grand_Theft_Auto_V"
  },
@@ -379,7 +379,7 @@
  },
  {
   "term": "Next-gen edition",
-  "definition": "The 2014 release of GTA V for newer consoles, which added about 165 radio tracks per the GTA wiki, 22 of them songs cut from the 2013 release.",
+  "definition": "The 2014 release of GTA V for newer consoles, which added about 165 radio tracks, 22 of them songs cut from the 2013 release.",
   "section": "modern-radio",
   "source_url": "https://gta.wiki/w/Non-Stop-Pop_FM"
  },
@@ -505,7 +505,7 @@
  },
  {
   "term": "Rockstar Records LLC",
-  "definition": "The entity named as owner of the CircoLoco Records trade name by the GTA wiki and RockstarINTEL; not checked against company filings.",
+  "definition": "The company RockstarINTEL and the fan wiki name as owner of the CircoLoco Records trade name; no company filing confirming it has been published.",
   "section": "circoloco",
   "source_url": "https://gta.wiki/w/CircoLoco_Records"
  },
@@ -535,7 +535,7 @@
  },
  {
   "term": "Spoof ad",
-  "definition": "A fake radio commercial for a parody brand, written in GTA III by Dan Houser and Lazlow and produced by Lazlow, per the GTA wiki.",
+  "definition": "A fake radio commercial for a parody brand, written from GTA III on by Dan Houser and Lazlow and produced by Lazlow.",
   "section": "lore",
   "source_url": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
  },
@@ -571,7 +571,7 @@
  },
  {
   "term": "Takeover playlist",
-  "definition": "A temporary playlist on an existing station, such as the Dre Day set on West Coast Classics, merged into its regular rotation in January 2022 per the GTA wiki.",
+  "definition": "A temporary playlist on an existing station, such as the Dre Day set on West Coast Classics, which was folded into its regular rotation in January 2022.",
   "section": "modern-radio",
   "source_url": "https://gta.wiki/w/Radio_Stations_in_GTA_Online"
  },

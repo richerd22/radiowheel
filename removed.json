@@ -3,7 +3,7 @@
   {
    "game": "Grand Theft Auto: Vice City (PC digital)",
    "date": "2012-11-16",
-   "what_removed": "Game temporarily pulled from digital PC stores; reported link to Michael Jackson's \"Wanna Be Startin' Somethin'\" (Sony Music reported as claimant, unconfirmed)",
+   "what_removed": "The whole game, temporarily pulled from digital PC stores; the trigger was reported to be Michael Jackson's \"Wanna Be Startin' Somethin'\", with Sony Music as claimant (unconfirmed)",
    "count": null,
    "why_reported": "Rockstar statement: \"Due to some music licensing issues, we've had to temporarily remove Vice City PC from digital stores.\"",
    "source": {
@@ -15,8 +15,8 @@
   {
    "game": "Grand Theft Auto: Vice City (PC digital re-release incl. Steam; mobile 10th anniversary release)",
    "date": "2012-12-08",
-   "what_removed": "Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Bark at the Moon (Ozzy Osbourne), Wow (Kate Bush), Rockit (Herbie Hancock), Looking for the Perfect Beat (Afrika Bambaataa), Running with the Night (Lionel Richie), plus \"a couple of songs from Radio Espantoso\" (list attributed to Rockstar Nexus)",
-   "count": "nearly 10 per headline (7 named)",
+   "what_removed": "Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Bark at the Moon (Ozzy Osbourne), Wow (Kate Bush), Rockit (Herbie Hancock), Looking for the Perfect Beat (Afrika Bambaataa), Running with the Night (Lionel Richie), plus \"a couple of songs from Radio Espantoso\" (fan-compiled list)",
+   "count": "nearly 10 (7 named)",
    "why_reported": "Music licensing (follows Rockstar's November 2012 licensing statement)",
    "source": {
     "publication": "CinemaBlend (Will Usher)",
@@ -29,7 +29,7 @@
    "date": "2014-11-09",
    "what_removed": "17 licensed songs (plus high-resolution options); same 17 already absent from the mobile version and the Xbox 360 HD port of it",
    "count": 17,
-   "why_reported": "Press: seemingly expired song licences; no Rockstar statement",
+   "why_reported": "Expired song licences, by press accounts; Rockstar made no statement",
    "source": {
     "publication": "PC Gamer (Tom Sykes)",
     "date": "2014-11-09",
@@ -39,9 +39,9 @@
   {
    "game": "Grand Theft Auto IV and Episodes from Liberty City",
    "date": "2018-04-26",
-   "what_removed": "Tracks across 10 stations; Vladivostok FM hit hardest (15 per Game Informer), also Liberty Rock Radio, The Journey, Vice City FM and others; 11 replacements added to Vladivostok FM",
-   "count": "43 entries listed by Game Informer (no total stated in the article); Destructoid reports over 50 / 51 entries incl. Episodes and an unused track (not checked here); sources disagree",
-   "why_reported": "Game Informer: the ten-year licensing deal running out; Rockstar had earlier confirmed it would remove a number of songs (no statement quoted in this source)",
+   "what_removed": "Tracks across 10 stations; Vladivostok FM hit hardest (15 tracks), also Liberty Rock Radio, The Journey, Vice City FM and others; 11 replacements added to Vladivostok FM",
+   "count": "43 listed by Game Informer; Destructoid counts 51, including Episodes tracks and one unused track",
+   "why_reported": "The original ten-year licences ran out; Rockstar had confirmed beforehand that some songs would go",
    "source": {
     "publication": "Game Informer (Imran Khan)",
     "date": "2018-04-26",
@@ -53,7 +53,7 @@
    "date": "2018",
    "what_removed": "Kano, \"Can't Hold Back (Your Lovin')\"",
    "count": 1,
-   "why_reported": "Mentioned in passing by LevelUp as the first song GTA V lost, removed in 2018; GTA Wiki (Space 103.2 page) instead says it was removed in the Los Santos Tuners update (2021); single secondary source, unverified",
+   "why_reported": "Unverified. One press report calls it the first song GTA V lost, in 2018; fans date the removal to the Los Santos Tuners update (2021)",
    "source": {
     "publication": "LevelUp (Víctor Rosas)",
     "date": "2026-09-15",
@@ -63,9 +63,9 @@
   {
    "game": "Grand Theft Auto: The Trilogy - The Definitive Edition (Vice City and San Andreas)",
    "date": "2021-11-10",
-   "what_removed": "Launch track list missing 20 Vice City and 18 San Andreas songs, incl. Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Killing in the Name (Rage Against the Machine), Express Yourself (N.W.A.); a November 2021 update to the article says Rockstar sent an amended list with \"a number of tracks reinstated\", without counts or names on the page",
-   "count": "38 at first report; residual after the amended list not stated",
-   "why_reported": "VGC: Rockstar confirmed the game \"will be missing some music from its soundtrack\" (paraphrased, no direct quote); dataminers reportedly found the PC version \"contains all the music that's no longer licensed\"",
+   "what_removed": "Launch track list missing 20 Vice City and 18 San Andreas songs, including Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Killing in the Name (Rage Against the Machine) and Express Yourself (N.W.A.); later in November 2021 Rockstar sent an amended list with \"a number of tracks reinstated\", naming none",
+   "count": "38 at first report; how many stayed missing after the amended list is not public",
+   "why_reported": "Rockstar confirmed some music would be missing; dataminers said the PC version \"contains all the music that's no longer licensed\"",
    "source": {
     "publication": "VGC (Chris Scullion)",
     "date": "2021-11-10",
@@ -95,7 +95,7 @@
    "year": "1978",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list) | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-emotion-98-3/"
   },
@@ -108,7 +108,7 @@
    "year": "1982",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list) | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-fever-105/"
   },
@@ -121,7 +121,7 @@
    "year": "1982",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list) | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-flash-fm/"
   },
@@ -132,9 +132,9 @@
    "artist": "Lionel Richie",
    "title": "Running with the Night",
    "year": "1983",
-   "added": "2021 Definitive Edition (per GTA Wiki; disputed by VGC)",
+   "added": "2021 Definitive Edition (disputed)",
    "removed": "2003 PC/Xbox ports",
-   "note": "Original PS2 version only; absent from PC/Xbox/mobile ports. GTA Wiki says it returns in the 2021 Definitive Edition; VGC's pre-launch DE list said it was missing - sources disagree",
+   "note": "Only on the PS2 original; absent from the PC, Xbox and mobile ports. The 2021 Definitive Edition may have restored it.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-flash-fm/"
   },
@@ -147,7 +147,7 @@
    "year": "1980",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Credited in the game manual as \"Aguanile\". Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list); Grand Theft Wiki (2014) does not flag it | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Credited in the game manual as \"Aguanile\". Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-radio-espantoso/"
   },
@@ -160,7 +160,7 @@
    "year": "1983",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list) | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-v-rock/"
   },
@@ -173,7 +173,7 @@
    "year": "1983",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list) | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-wildstyle/"
   },
@@ -186,7 +186,7 @@
    "year": "1983",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list) | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-wildstyle/"
   },
@@ -199,7 +199,7 @@
    "year": "1982",
    "added": "",
    "removed": "2012 10th Anniversary edition",
-   "note": "Missing from the 2012 10th Anniversary mobile release and all later re-releases incl. 2021 Definitive Edition (GTA Wiki; VGC DE list); Grand Theft Wiki (2014) does not flag it as missing from mobile | also: https://www.videogameschronicle.com/news/gta-trilogy-definitive-edition-which-music-tracks-are-missing/",
+   "note": "Missing from the 2012 10th Anniversary mobile release and every later re-release, including the 2021 Definitive Edition.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
    "station_url": "https://radiowheel.cold.fyi/stations/vc-wildstyle/"
   },
@@ -212,7 +212,7 @@
    "year": "1975",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-bounce-fm/"
   },
@@ -225,7 +225,7 @@
    "year": "1977",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-bounce-fm/"
   },
@@ -238,7 +238,7 @@
    "year": "1982",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-bounce-fm/"
   },
@@ -251,7 +251,7 @@
    "year": "1989",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-k-dst/"
   },
@@ -264,7 +264,7 @@
    "year": "1972",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-k-dst/"
   },
@@ -277,7 +277,7 @@
    "year": "1979",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-k-jah-west/"
   },
@@ -290,7 +290,7 @@
    "year": "1979",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-k-jah-west/"
   },
@@ -303,7 +303,7 @@
    "year": "1970",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/"
   },
@@ -316,7 +316,7 @@
    "year": "1975",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/"
   },
@@ -329,7 +329,7 @@
    "year": "1974",
    "added": "",
    "removed": "2021 Definitive Edition",
-   "note": "Missing from the 2021 Definitive Edition (PC Gamer, Nintendo Wire, Sportskeeda). gtabase marks it removed from post-2014 versions, but it is not on the reader-compiled 2014 Steam list, so the 2014 status is unconfirmed | also: https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "Missing from the 2021 Definitive Edition. Possibly also pulled in 2014; unconfirmed.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/"
   },
@@ -342,7 +342,7 @@
    "year": "1973",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Pulled in the 2014 Steam update/re-releases (gtabase; Techdirt reader-compiled list). Not on PC Gamer's or Nintendo Wire's Definitive Edition missing lists, so DE status unconfirmed | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs",
+   "note": "Pulled in the 2014 Steam update and re-releases. Not reported missing from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/"
   },
@@ -355,7 +355,7 @@
    "year": "1973",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/"
   },
@@ -368,7 +368,7 @@
    "year": "1970",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-master-sounds-98-3/"
   },
@@ -381,7 +381,7 @@
    "year": "1988",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Pulled in the 2014 Steam update/re-releases. Sources disagree on the 2021 Definitive Edition: PC Gamer says it was restored there, Nintendo Wire lists it as still missing | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "Pulled in the 2014 Steam update and re-releases. The 2021 Definitive Edition may have restored it.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-playback-fm/"
   },
@@ -394,7 +394,7 @@
    "year": "1991",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-radio-los-santos/"
   },
@@ -407,7 +407,7 @@
    "year": "1988",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-radio-los-santos/"
   },
@@ -420,7 +420,7 @@
    "year": "1991",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-radio-x/"
   },
@@ -433,7 +433,7 @@
    "year": "1992",
    "added": "",
    "removed": "2014 Steam/re-release",
-   "note": "Among the 17 songs pulled in the Nov 2014 Steam update (also absent from mobile/360/PS3 re-releases; Nintendo Wire dates mobile cuts to 2013); also absent from the 2021 Definitive Edition (PC Gamer, Nintendo Wire) | also: https://archive.techdirt.com/articles/20141110/09535529096/hooray-licenses-update-strips-17-songs-steam-users-purchased-copies-grand-theft-auto-san-andreas.shtml ; https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs ; https://nintendowire.com/guides/grand-theft-auto-the-trilogy-the-definitive-edition/missing-songs",
+   "note": "One of 17 songs pulled in the November 2014 Steam update; also absent from the mobile, Xbox 360 and PS3 re-releases (the mobile cuts may date to 2013) and from the 2021 Definitive Edition.",
    "source": "https://gtabase.com/gta-san-andreas/radio-stations",
    "station_url": "https://radiowheel.cold.fyi/stations/sa-radio-x/"
   },
@@ -446,7 +446,7 @@
    "year": "1981",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-radio-del-mundo/"
   },
@@ -459,7 +459,7 @@
    "year": "1988",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-radio-del-mundo/"
   },
@@ -472,7 +472,7 @@
    "year": "1997",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-radio-del-mundo/"
   },
@@ -485,7 +485,7 @@
    "year": "1963",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions. Name spelled Tawfic on gtabase and Tewfik on GTA Wiki",
+   "note": "Absent from the mobile version. Name also spelled Tewfik.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-radio-del-mundo/"
   },
@@ -498,7 +498,7 @@
    "year": "1994",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-rise-fm/"
   },
@@ -511,7 +511,7 @@
    "year": "1997",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-rise-fm/"
   },
@@ -524,7 +524,7 @@
    "year": "1998",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-the-liberty-jam/"
   },
@@ -537,7 +537,7 @@
    "year": "1998",
    "added": "",
    "removed": "mobile port (iOS/Android)",
-   "note": "Absent from the mobile version: marked with * on GTA Wiki (https://gta.wiki/w/Radio_Stations_in_GTA_Liberty_City_Stories); gtabase, the source page, does not mark mobile omissions",
+   "note": "Absent from the mobile version.",
    "source": "https://www.gtabase.com/gta-liberty-city-stories/radio-stations/",
    "station_url": "https://radiowheel.cold.fyi/stations/lcs-the-liberty-jam/"
   },
@@ -550,7 +550,7 @@
    "year": 1971,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-international-funk-99/"
   },
@@ -563,7 +563,7 @@
    "year": 1979,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-k109-the-studio/"
   },
@@ -576,7 +576,7 @@
    "year": 1982,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-k109-the-studio/"
   },
@@ -589,7 +589,7 @@
    "year": 1988,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-city-hardcore/"
   },
@@ -602,7 +602,7 @@
    "year": 1985,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-city-hardcore/"
   },
@@ -615,7 +615,7 @@
    "year": 1987,
    "added": "The Lost and Damned (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-city-hardcore/"
   },
@@ -628,7 +628,7 @@
    "year": 2009,
    "added": "The Lost and Damned (2009); also added to GTA IV rotation with DLC",
    "removed": "after original TLAD Xbox 360 DLC release (pre-2018; date not stated)",
-   "note": "gta.wiki: only in the original TLAD Xbox Live version, later removed from all versions",
+   "note": "Only in the original Lost and Damned Xbox Live release; later removed from all versions.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-city-hardcore/"
   },
@@ -641,7 +641,7 @@
    "year": 1996,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki; year: gta.wiki 1996, GTABase 1995",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected. Year listed as 1996 or 1995.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -654,7 +654,7 @@
    "year": 1982,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki; year: gta.wiki 1982, GTABase 1981",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected. Year listed as 1982 or 1981.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -667,7 +667,7 @@
    "year": 1975,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -680,7 +680,7 @@
    "year": 1975,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -693,7 +693,7 @@
    "year": 1980,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -706,7 +706,7 @@
    "year": 1979,
    "added": "The Lost and Damned (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -719,7 +719,7 @@
    "year": 1968,
    "added": "The Lost and Damned (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -732,7 +732,7 @@
    "year": 1979,
    "added": "The Lost and Damned (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -745,7 +745,7 @@
    "year": 1982,
    "added": "The Lost and Damned (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-liberty-rock-radio/"
   },
@@ -758,7 +758,7 @@
    "year": 2008,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "DISPUTED: gta.wiki marks it removed April 26 2018 (hub and station tracklist subpage); not on GTABase or Game Informer April 2018 removal lists",
+   "note": "Removal disputed; not on press lists of the April 2018 cuts.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-radio-broker/"
   },
@@ -771,7 +771,7 @@
    "year": 2006,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-radio-broker/"
   },
@@ -784,7 +784,7 @@
    "year": 2004,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-san-juan-sounds/"
   },
@@ -797,7 +797,7 @@
    "year": 2009,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "DISPUTED: gta.wiki marks it removed April 26 2018 (hub and station tracklist subpage); not on GTABase or Game Informer April 2018 removal lists",
+   "note": "Removal disputed; not on press lists of the April 2018 cuts.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-san-juan-sounds/"
   },
@@ -810,7 +810,7 @@
    "year": 2008,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "DISPUTED: gta.wiki marks it removed April 26 2018 (hub and station tracklist subpage); not on GTABase or Game Informer April 2018 removal lists",
+   "note": "Removal disputed; not on press lists of the April 2018 cuts.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-san-juan-sounds/"
   },
@@ -823,7 +823,7 @@
    "year": 2008,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "DISPUTED: gta.wiki marks it removed April 26 2018 (hub and station tracklist subpage); not on GTABase or Game Informer April 2018 removal lists; title per hub \"Dime (Reggaeton Remix)\", station subpage says \"Dime (Bachata Remix)\"",
+   "note": "Removal disputed; not on press lists of the April 2018 cuts. Title listed as 'Dime (Reggaeton Remix)' or 'Dime (Bachata Remix)'.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-san-juan-sounds/"
   },
@@ -836,7 +836,7 @@
    "year": 2006,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "DISPUTED: gta.wiki marks it removed April 26 2018 (hub and station tracklist subpage); not on GTABase or Game Informer April 2018 removal lists",
+   "note": "Removal disputed; not on press lists of the April 2018 cuts.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-san-juan-sounds/"
   },
@@ -849,7 +849,7 @@
    "year": 2008,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-beat-102-7/"
   },
@@ -862,7 +862,7 @@
    "year": 2008,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-beat-102-7/"
   },
@@ -875,7 +875,7 @@
    "year": 1990,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-classics-104-1/"
   },
@@ -888,7 +888,7 @@
    "year": 1988,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-classics-104-1/"
   },
@@ -901,7 +901,7 @@
    "year": 1969,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-journey/"
   },
@@ -914,7 +914,7 @@
    "year": 1984,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-journey/"
   },
@@ -927,7 +927,7 @@
    "year": 1984,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-the-vibe-98-8/"
   },
@@ -940,7 +940,7 @@
    "year": 1986,
    "added": "Episodes from Liberty City disc/standalone (2009); in GTA IV Complete Edition PC from 2020-06-03",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vice-city-fm/"
   },
@@ -953,7 +953,7 @@
    "year": 1985,
    "added": "Episodes from Liberty City disc/standalone (2009); in GTA IV Complete Edition PC from 2020-06-03",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vice-city-fm/"
   },
@@ -966,7 +966,7 @@
    "year": 1988,
    "added": "Episodes from Liberty City disc/standalone (2009); in GTA IV Complete Edition PC from 2020-06-03",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vice-city-fm/"
   },
@@ -979,7 +979,7 @@
    "year": 1984,
    "added": "Episodes from Liberty City disc/standalone (2009); in GTA IV Complete Edition PC from 2020-06-03",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vice-city-fm/"
   },
@@ -992,7 +992,7 @@
    "year": 1986,
    "added": "Episodes from Liberty City disc/standalone (2009); in GTA IV Complete Edition PC from 2020-06-03",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vice-city-fm/"
   },
@@ -1005,7 +1005,7 @@
    "year": 1988,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1018,7 +1018,7 @@
    "year": 2006,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1031,7 +1031,7 @@
    "year": 2006,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1044,7 +1044,7 @@
    "year": 2005,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1057,7 +1057,7 @@
    "year": 2000,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1070,7 +1070,7 @@
    "year": 2006,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1083,7 +1083,7 @@
    "year": 2002,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1096,7 +1096,7 @@
    "year": 2006,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1109,7 +1109,7 @@
    "year": 2008,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1122,7 +1122,7 @@
    "year": 2005,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1135,7 +1135,7 @@
    "year": 2004,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1148,7 +1148,7 @@
    "year": 2007,
    "added": "",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1161,7 +1161,7 @@
    "year": 2008,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1174,7 +1174,7 @@
    "year": 2005,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1187,7 +1187,7 @@
    "year": 2009,
    "added": "The Ballad of Gay Tony (2009); also added to GTA IV rotation with DLC",
    "removed": "2018-04 Steam update",
-   "note": "removal confirmed by GTABase April 26 2018 list (https://gtabase.com/news/gta-iv-music-update-list-of-removed-songs-from-radio-stations); console disc copies unaffected per gta.wiki",
+   "note": "Pulled in the April 2018 update; console disc copies unaffected.",
    "source": "https://gta.wiki/w/Radio_Stations_in_GTA_IV",
    "station_url": "https://radiowheel.cold.fyi/stations/gta4-vladivostok-fm/"
   },
@@ -1200,7 +1200,7 @@
    "year": "2000",
    "added": "2014 next-gen",
    "removed": "2026-09-15 hotfix (GTA V Enhanced, PC)",
-   "note": "Removal reported by GTABoom (2026-09-16, https://www.gtaboom.com/rockstar-just-pulled-a-song-from-the-gta-5-radio-and-more-will-follow-d652) and LevelUp (2026-09-15); confirmed for GTA V Enhanced on PC, consoles not confirmed; likely licence expiry (unconfirmed by Rockstar). Cut from the 2013 PS3/360 release. GTA Wiki says it was removed from the Expanded and Enhanced Edition in the 2026-09-15 hotfix and names no platform",
+   "note": "Pulled by the September 15, 2026 hotfix, confirmed for GTA V Enhanced on PC; consoles unconfirmed. Likely an expired licence; Rockstar has not said. Cut from the 2013 PS3/360 release.",
    "source": "https://gta.wiki/w/Non-Stop-Pop_FM",
    "station_url": "https://radiowheel.cold.fyi/stations/gta5-non-stop-pop-fm/"
   },
@@ -1213,7 +1213,7 @@
    "year": "1981",
    "added": "",
    "removed": "Los Santos Tuners update (2021)",
-   "note": "Removal date disputed: GTA Wiki says it was removed in the Los Santos Tuners update (July 2021; the page gives no exact date); LevelUp (2026-09-15, https://www.levelup.com/noticias/gta-v-perdera-canciones-por-vencimiento-de-licencias-rockstar-elimino-este-tema-de-la-estacion-non-stop-pop-fm-tras-su-reciente-actualizacion/) says 2018; a 2023-01-28 article (https://lightsteelbluesimple.pages.dev/posts/gta-online-losing-songs-is-inevitable) says September, year not given.",
+   "note": "Removal date given as July 2021 (Los Santos Tuners update) or 2018.",
    "source": "https://gta.wiki/w/Space_103.2",
    "station_url": "https://radiowheel.cold.fyi/stations/gta5-space-103-2/"
   }

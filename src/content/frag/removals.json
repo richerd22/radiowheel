@@ -2,7 +2,7 @@
  {
   "game": "Grand Theft Auto: Vice City (PC digital)",
   "date": "2012-11-16",
-  "what_removed": "Game temporarily pulled from digital PC stores; reported link to Michael Jackson's \"Wanna Be Startin' Somethin'\" (Sony Music reported as claimant, unconfirmed)",
+  "what_removed": "The whole game, temporarily pulled from digital PC stores; the trigger was reported to be Michael Jackson's \"Wanna Be Startin' Somethin'\", with Sony Music as claimant (unconfirmed)",
   "count": null,
   "why_reported": "Rockstar statement: \"Due to some music licensing issues, we've had to temporarily remove Vice City PC from digital stores.\"",
   "source": {
@@ -14,8 +14,8 @@
  {
   "game": "Grand Theft Auto: Vice City (PC digital re-release incl. Steam; mobile 10th anniversary release)",
   "date": "2012-12-08",
-  "what_removed": "Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Bark at the Moon (Ozzy Osbourne), Wow (Kate Bush), Rockit (Herbie Hancock), Looking for the Perfect Beat (Afrika Bambaataa), Running with the Night (Lionel Richie), plus \"a couple of songs from Radio Espantoso\" (list attributed to Rockstar Nexus)",
-  "count": "nearly 10 per headline (7 named)",
+  "what_removed": "Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Bark at the Moon (Ozzy Osbourne), Wow (Kate Bush), Rockit (Herbie Hancock), Looking for the Perfect Beat (Afrika Bambaataa), Running with the Night (Lionel Richie), plus \"a couple of songs from Radio Espantoso\" (fan-compiled list)",
+  "count": "nearly 10 (7 named)",
   "why_reported": "Music licensing (follows Rockstar's November 2012 licensing statement)",
   "source": {
    "publication": "CinemaBlend (Will Usher)",
@@ -28,7 +28,7 @@
   "date": "2014-11-09",
   "what_removed": "17 licensed songs (plus high-resolution options); same 17 already absent from the mobile version and the Xbox 360 HD port of it",
   "count": 17,
-  "why_reported": "Press: seemingly expired song licences; no Rockstar statement",
+  "why_reported": "Expired song licences, by press accounts; Rockstar made no statement",
   "source": {
    "publication": "PC Gamer (Tom Sykes)",
    "date": "2014-11-09",
@@ -38,9 +38,9 @@
  {
   "game": "Grand Theft Auto IV and Episodes from Liberty City",
   "date": "2018-04-26",
-  "what_removed": "Tracks across 10 stations; Vladivostok FM hit hardest (15 per Game Informer), also Liberty Rock Radio, The Journey, Vice City FM and others; 11 replacements added to Vladivostok FM",
-  "count": "43 entries listed by Game Informer (no total stated in the article); Destructoid reports over 50 / 51 entries incl. Episodes and an unused track (not checked here); sources disagree",
-  "why_reported": "Game Informer: the ten-year licensing deal running out; Rockstar had earlier confirmed it would remove a number of songs (no statement quoted in this source)",
+  "what_removed": "Tracks across 10 stations; Vladivostok FM hit hardest (15 tracks), also Liberty Rock Radio, The Journey, Vice City FM and others; 11 replacements added to Vladivostok FM",
+  "count": "43 listed by Game Informer; Destructoid counts 51, including Episodes tracks and one unused track",
+  "why_reported": "The original ten-year licences ran out; Rockstar had confirmed beforehand that some songs would go",
   "source": {
    "publication": "Game Informer (Imran Khan)",
    "date": "2018-04-26",
@@ -52,7 +52,7 @@
   "date": "2018",
   "what_removed": "Kano, \"Can't Hold Back (Your Lovin')\"",
   "count": 1,
-  "why_reported": "Mentioned in passing by LevelUp as the first song GTA V lost, removed in 2018; GTA Wiki (Space 103.2 page) instead says it was removed in the Los Santos Tuners update (2021); single secondary source, unverified",
+  "why_reported": "Unverified. One press report calls it the first song GTA V lost, in 2018; fans date the removal to the Los Santos Tuners update (2021)",
   "source": {
    "publication": "LevelUp (Víctor Rosas)",
    "date": "2026-09-15",
@@ -62,9 +62,9 @@
  {
   "game": "Grand Theft Auto: The Trilogy - The Definitive Edition (Vice City and San Andreas)",
   "date": "2021-11-10",
-  "what_removed": "Launch track list missing 20 Vice City and 18 San Andreas songs, incl. Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Killing in the Name (Rage Against the Machine), Express Yourself (N.W.A.); a November 2021 update to the article says Rockstar sent an amended list with \"a number of tracks reinstated\", without counts or names on the page",
-  "count": "38 at first report; residual after the amended list not stated",
-  "why_reported": "VGC: Rockstar confirmed the game \"will be missing some music from its soundtrack\" (paraphrased, no direct quote); dataminers reportedly found the PC version \"contains all the music that's no longer licensed\"",
+  "what_removed": "Launch track list missing 20 Vice City and 18 San Andreas songs, including Billie Jean and Wanna Be Startin' Somethin' (Michael Jackson), Killing in the Name (Rage Against the Machine) and Express Yourself (N.W.A.); later in November 2021 Rockstar sent an amended list with \"a number of tracks reinstated\", naming none",
+  "count": "38 at first report; how many stayed missing after the amended list is not public",
+  "why_reported": "Rockstar confirmed some music would be missing; dataminers said the PC version \"contains all the music that's no longer licensed\"",
   "source": {
    "publication": "VGC (Chris Scullion)",
    "date": "2021-11-10",

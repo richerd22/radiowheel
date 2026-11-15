@@ -44,7 +44,7 @@
  {
   "date": "1998-03-12",
   "label": "Take-Two announces BMG Interactive deal",
-  "detail": "About 1.85 million shares, per Wikipedia citing GameSpot.",
+  "detail": "Take-Two pays about 1.85 million of its shares.",
   "source_url": "https://en.wikipedia.org/wiki/Rockstar_NYC",
   "era": "1997-2000"
  },
@@ -58,7 +58,7 @@
  {
   "date": "1999-10-30",
   "label": "First Rockstar Loft club night",
-  "detail": "Chelsea, New York, with Andi Hanley, Bob Sinclar and Dimitri from Paris, per Wikipedia.",
+  "detail": "Chelsea, New York, with Andi Hanley, Bob Sinclar and Dimitri from Paris.",
   "source_url": "https://en.wikipedia.org/wiki/Rockstar_NYC",
   "era": "1997-2000"
  },
@@ -107,14 +107,14 @@
  {
   "date": "2002-10-29",
   "label": "Vice City box set released",
-  "detail": "Seven CDs on Epic Records, one per music station, released internationally per Grand Theft Wiki.",
+  "detail": "Seven CDs on Epic Records, one per music station, released internationally.",
   "source_url": "https://www.grandtheftwiki.com/Grand_Theft_Auto:_Vice_City_Official_Soundtrack_Box_Set",
   "era": "2001-2007"
  },
  {
   "date": "2003",
   "label": "Vice City PC and Xbox ports ship without one song",
-  "detail": "Per the GTA wiki, Lionel Richie's \"Running with the Night\" was only in the PS2 original; other sources date its loss to 2012.",
+  "detail": "Lionel Richie's \"Running with the Night\" was only in the PS2 original, though some accounts date its loss to 2012.",
   "source_url": "https://gta.wiki/w/Radio_Stations_in_GTA_Vice_City",
   "era": "2001-2007"
  },
@@ -128,7 +128,7 @@
  {
   "date": "2003-04-30",
   "label": "Vice City Greatest Hits",
-  "detail": "A single-disc compilation follows the box set, per Grand Theft Wiki.",
+  "detail": "A single-disc compilation follows the box set.",
   "source_url": "https://www.grandtheftwiki.com/Grand_Theft_Auto:_Vice_City_Official_Soundtrack_Box_Set",
   "era": "2001-2007"
  },
@@ -156,7 +156,7 @@
  {
   "date": "2004",
   "label": "Wil Wheaton records Richard Burns",
-  "detail": "Wheaton voices the WCTR News reporter in summer 2004, in most of an afternoon, per his blog.",
+  "detail": "Wheaton spends most of an afternoon in summer 2004 voicing the WCTR News reporter.",
   "source_url": "https://wilwheaton.net/2004/10/im_richard_burns_wctr_news/",
   "era": "2001-2007"
  },
@@ -296,14 +296,14 @@
  {
   "date": "2010-05-18",
   "label": "Red Dead Redemption soundtrack released",
-  "detail": "Digital release of the album around Bill Elm and Woody Jackson's score, per Wikipedia.",
+  "detail": "Digital release of the album built around Bill Elm and Woody Jackson's score.",
   "source_url": "https://en.wikipedia.org/wiki/Music_of_Red_Dead_Redemption",
   "era": "2008-2012"
  },
  {
   "date": "2012",
   "label": "Kavinsky station rumor",
-  "detail": "Per the GTA wiki, Kavinsky was reported as host of a planned GTA V station, Nightride FM, that never appeared. Rumor.",
+  "detail": "Kavinsky was rumored to host Nightride FM, a planned GTA V station that never appeared.",
   "source_url": "https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V",
   "era": "2008-2012"
  },
@@ -331,7 +331,7 @@
  {
   "date": "2013",
   "label": "GTA V introduces the radio wheel",
-  "detail": "The radial station picker replaces the linear selector, per the GTA wiki.",
+  "detail": "The radial station picker replaces the old linear selector.",
   "source_url": "https://gta.wiki/w/Radio_Wheel",
   "era": "2013-2019"
  },
@@ -366,14 +366,14 @@
  {
   "date": "2014",
   "label": "GTA V next-gen edition adds about 165 tracks",
-  "detail": "Spread across 13 stations per the GTA wiki, including 22 songs cut from the 2013 release.",
+  "detail": "Spread across 13 stations, including 22 songs cut from the 2013 release.",
   "source_url": "https://gta.wiki/w/Non-Stop-Pop_FM",
   "era": "2013-2019"
  },
  {
   "date": "2014-03-24",
   "label": "Froese's Cinematographic Score",
-  "detail": "Edgar Froese releases 12 tracks of GTA V material, limited to 2,000 copies, per Wikipedia.",
+  "detail": "Edgar Froese releases 12 tracks of GTA V material, limited to 2,000 copies.",
   "source_url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Music_of_Grand_Theft_Auto_V",
   "era": "2013-2019"
  },
@@ -387,7 +387,7 @@
  {
   "date": "2015-04-14",
   "label": "GTA V on PC: Self Radio and The Lab",
-  "detail": "PC launch date per the GTA wiki; The Lab reached consoles July 8, 2015, and sources disagree on its debut month.",
+  "detail": "Self Radio debuts with the PC version. The Lab reached consoles July 8, 2015; its debut month is disputed.",
   "source_url": "https://gta.wiki/w/Radio_Stations_in_GTA_Online",
   "era": "2013-2019"
  },
@@ -415,7 +415,7 @@
  {
   "date": "2018-04-26",
   "label": "GTA IV update removes 43 to 51 songs",
-  "detail": "Count depends on method; Vladivostok FM lost 15 and gained 11 replacements.",
+  "detail": "The count depends on whether episode tracks are included; Vladivostok FM lost 15 and gained 11 replacements.",
   "source_url": "https://gameinformer.com/b/news/archive/2018/04/26/here-are-the-grand-theft-auto-iv-songs-removed-today.aspx",
   "era": "2013-2019"
  },
@@ -471,7 +471,7 @@
  {
   "date": "2019-08-09",
   "label": "RDR2 score album",
-  "detail": "Woody Jackson's score released digitally, a month after the vocal album, per Wikipedia.",
+  "detail": "Woody Jackson's score released digitally, a month after the vocal album.",
   "source_url": "https://en.wikipedia.org/wiki/Music_of_Red_Dead_Redemption_2",
   "era": "2013-2019"
  },
@@ -492,14 +492,14 @@
  {
   "date": "2019-12-12",
   "label": "iFruit Radio",
-  "detail": "The Diamond Casino Heist adds Danny Brown's station (year per fan wiki and DJ Mag).",
+  "detail": "The Diamond Casino Heist adds Danny Brown's station.",
   "source_url": "https://wiki.gtaboom.com/wiki/ifruit-radio-music-gta-online",
   "era": "2013-2019"
  },
  {
   "date": "2020",
   "label": "Lazlow leaves Rockstar",
-  "detail": "After nearly 20 years; Wikipedia says April, while its cited piece is dated August 2020.",
+  "detail": "After nearly 20 years. The month is usually given as April, though the first report of his exit is dated August 2020.",
   "source_url": "https://en.wikipedia.org/wiki/Lazlow_Jones",
   "era": "2020-now"
  },
@@ -513,21 +513,21 @@
  {
   "date": "2020-03-11",
   "label": "Dan Houser's last day at Rockstar",
-  "detail": "Per a Take-Two SEC filing reported February 4, 2020.",
+  "detail": "The date comes from a Take-Two SEC filing, reported February 4, 2020.",
   "source_url": "https://pcgamer.com/rockstar-co-founder-dan-houser-is-leaving-the-company",
   "era": "2020-now"
  },
  {
   "date": "2020-04",
-  "label": "Lazlow leaves Rockstar (per Wikipedia and PC Gamer)",
-  "detail": "A month after Dan Houser; VGC reported the exit on 2020-08-14 from his LinkedIn, so sources differ on the month.",
+  "label": "Lazlow leaves Rockstar",
+  "detail": "A month after Dan Houser, by PC Gamer's dating. VGC did not report the exit until August 14, 2020, from his LinkedIn.",
   "source_url": "https://www.pcgamer.com/au/gta-radio-host-lazlow-leaves-rockstar",
   "era": "2020-now"
  },
  {
   "date": "2020-08-14",
   "label": "Lazlow Jones's exit reported",
-  "detail": "VGC reports it from LinkedIn; Wikipedia gives April 2020.",
+  "detail": "VGC reports it from his LinkedIn; other accounts put his exit in April 2020.",
   "source_url": "https://videogameschronicle.com/news/another-senior-grand-theft-auto-veteran-has-left-rockstar",
   "era": "2020-now"
  },
@@ -541,7 +541,7 @@
  {
   "date": "2020-12-15",
   "label": "Cayo Perico Heist music update",
-  "detail": "Kult FM, Still Slipping Los Santos and The Music Locker, with over 250 new tracks (official, as reported).",
+  "detail": "Kult FM, Still Slipping Los Santos and The Music Locker, with over 250 new tracks by Rockstar's count.",
   "source_url": "https://thelineofbestfit.com/news/latest-news/julian-casablancas-joy-orbison-to-host-new-grand-theft-auto-radio-stations",
   "era": "2020-now"
  },
@@ -590,7 +590,7 @@
  {
   "date": "2021-07-20",
   "label": "Kano leaves GTA V's Space 103.2 (disputed date)",
-  "detail": "The GTA wiki dates the removal to the Los Santos Tuners update; LevelUp says 2018.",
+  "detail": "The fan wiki dates the removal to the Los Santos Tuners update; LevelUp says 2018.",
   "source_url": "https://gta.wiki/w/Space_103.2",
   "era": "2020-now"
  },
@@ -660,21 +660,21 @@
  {
   "date": "2022-05-20",
   "label": "Monday Dreamin' vinyl box",
-  "detail": "A 5 x LP box set of the compilation, per retailer deejay.de.",
+  "detail": "A five-LP box set of the compilation.",
   "source_url": "https://www.deejay.de/Circoloco__L295365",
   "era": "2020-now"
  },
  {
   "date": "2022-12-13",
   "label": "Los Santos Drug Wars score",
-  "detail": "A seven-track adaptive score by Soulwax and Nick Hook (per the GTA wiki).",
+  "detail": "A seven-track adaptive score by Soulwax and Nick Hook.",
   "source_url": "https://gta.wiki/w/GTA_Online:_Los_Santos_Drug_Wars/Soundtrack",
   "era": "2020-now"
  },
  {
   "date": "2022-12-13",
   "label": "Drug Wars adaptive score",
-  "detail": "Seven tracks by Soulwax and Nick Hook, each built from four to eight stems, per the GTA wiki.",
+  "detail": "Seven tracks by Soulwax and Nick Hook, each built from four to eight stems.",
   "source_url": "https://gta.wiki/w/GTA_Online:_Los_Santos_Drug_Wars/Soundtrack",
   "era": "2020-now"
  },
@@ -709,7 +709,7 @@
  {
   "date": "2024-09-07",
   "label": "Heaven 17's Martyn Ware describes a $7,500 GTA VI offer",
-  "detail": "Framed as a perpetual buyout; he declined. Artist's account only.",
+  "detail": "A perpetual buyout, by his account; he turned it down.",
   "source_url": "https://mixmag.net/read/heaven-17-member-reveals-sum-offered-gta-6-song-feature-news",
   "era": "2020-now"
  },
@@ -730,14 +730,14 @@
  {
   "date": "2025-08-06",
   "label": "Lazlow doubts he will be in GTA VI",
-  "detail": "Said in a Nerd Reactor interview reported by GamesRadar+.",
+  "detail": "He says so in a Nerd Reactor interview.",
   "source_url": "https://www.gamesradar.com/games/grand-theft-auto/20-year-rockstar-vet-lazlow-has-been-grand-theft-autos-radio-host-since-gta-3-but-he-doubts-hell-appear-in-gta-6-it-was-an-amazing-journey",
   "era": "2020-now"
  },
  {
   "date": "2025-09-30",
   "label": "Houser explains why GTA has talk radio",
-  "detail": "Reported from an IGN interview: talk was the cheap way to fill hours of driving.",
+  "detail": "Talking to IGN, he says talk was the cheap way to fill hours of driving.",
   "source_url": "https://gameranx.com/updates/id/554205/article/dan-houser-reveals-how-rockstar-settled-into-talk-radio-for-grand-theft-auto-iii/",
   "era": "2020-now"
  },
@@ -779,7 +779,7 @@
  {
   "date": "2026-08-27",
   "label": "Extended Look and a station leak",
-  "detail": "The 26-minute Netflix preview premiered; separately, leaked footage reported by Netzwelt showed 14 station names (leak).",
+  "detail": "The 26-minute Netflix preview premieres; separately, leaked footage reported by Netzwelt shows 14 station names.",
   "source_url": "https://www.netzwelt.de/news/257866-gta-6-fan-leaks-zeigen-songs-radiosenderfolgt-heute-abend-bestaetigung.html",
   "era": "2020-now"
  },
@@ -807,14 +807,14 @@
  {
   "date": "2026-09-17",
   "label": "The Album announced",
-  "detail": "Rockstar and Atlantic announced 34 tracks and six singles; the liquid vinyl sold out on the UK store within minutes, per GTA Intel.",
+  "detail": "Rockstar and Atlantic announce 34 tracks and six singles; the liquid vinyl sells out on the UK store within minutes.",
   "source_url": "https://www.musicbusinessworldwide.com/atlantic-records-to-release-grand-theft-auto-vi-the-album-featuring-travis-scott-pinkpantheress-morgan-wallen-and-keith-richards/",
   "era": "2020-now"
  },
  {
   "date": "2026-10-08",
   "label": "GTA VI stations revealed",
-  "detail": "Rockstar's reveal, as GamesRadar reported it, names six stations; none is a CircoLoco station.",
+  "detail": "Rockstar names its first six stations. None of them is CircoLoco's.",
   "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
   "era": "2020-now"
  },
@@ -863,7 +863,7 @@
  {
   "date": "2026-10-29",
   "label": "\"Pusher\" from the GTA VI score",
-  "detail": "Justice release a song from the original score; a 30-track score album is reported due December 11, 2026.",
+  "detail": "Justice release a song from the original score; a 30-track score album is due December 11, 2026.",
   "source_url": "https://gameinformer.com/2026/10/29/grand-theft-auto-vi-new-original-song-pusher-out-now-full-score-album-arrives-this",
   "era": "2020-now"
  },

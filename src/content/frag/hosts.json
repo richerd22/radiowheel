@@ -1,890 +1,890 @@
 [
-  {
-    "game": "GTA III (2001)",
-    "station": "Head Radio",
-    "host_character": "Michael Hunt",
-    "voiced_by": "Russ Mottla",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "Double Clef FM",
-    "host_character": "Morgan Merryweather",
-    "voiced_by": "Gerry Cosgrove",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "K-Jah",
-    "host_character": "Horace \"The Pacifist\" Walsh",
-    "voiced_by": "Herman Stephens",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "Rise FM",
-    "host_character": "Andre \"The Accelerator\"",
-    "voiced_by": "Andre (himself)",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "Lips 106",
-    "host_character": "Andee",
-    "voiced_by": "Shelley Miller",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "Game Radio (Game FM)",
-    "host_character": "Stretch Armstrong and Lord Sear",
-    "voiced_by": "themselves",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "MSX FM",
-    "host_character": "MC Codebreaker",
-    "voiced_by": "himself",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "Flashback 95.6",
-    "host_character": "Toni",
-    "voiced_by": "Maria Chambers",
-    "notes": "Station format and host per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA III (2001)",
-    "station": "Chatterbox FM",
-    "host_character": "Lazlow",
-    "voiced_by": "Lazlow Jones (himself)",
-    "notes": "Call-in talk show; Lazlow says his own father voiced a caller (ShortList, 2024). Guest voices listed per the GTA wiki.",
-    "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "Wildstyle",
-    "host_character": "Mr. Magic",
-    "voiced_by": "not listed",
-    "notes": "Hip hop/electro.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "Flash FM",
-    "host_character": "Toni",
-    "voiced_by": "Maria Chambers",
-    "notes": "Same character and voice as GTA III's Flashback 95.6 host.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "K-Chat",
-    "host_character": "Amy Sheckenhausen",
-    "voiced_by": "Leyna Weber",
-    "notes": "Celebrity interview station.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "Fever 105",
-    "host_character": "Oliver \"Ladykiller\" Biscuit",
-    "voiced_by": "Julius Dyson",
-    "notes": "Soul/disco.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "V-Rock",
-    "host_character": "Lazlow",
-    "voiced_by": "Lazlow Jones (himself)",
-    "notes": "Hard rock/metal; Lazlow is head DJ.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "VCPR",
-    "host_character": "Jonathan Freeloader and Michelle Montanius (station voices); Maurice Chavez hosts Pressing Issues",
-    "voiced_by": "Patrick Olsen, Kelly Guest; Maurice Chavez by Philip Anthony Rodriguez",
-    "notes": "Talk station; one program, Pressing Issues.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "Radio Espantoso",
-    "host_character": "Pepe",
-    "voiced_by": "Tony Chiroldes",
-    "notes": "Spanish-language Latin jazz.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "Emotion 98.3",
-    "host_character": "Fernando Martinez",
-    "voiced_by": "Frank Chavez",
-    "notes": "Power ballads.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA Vice City (2002)",
-    "station": "Wave 103",
-    "host_character": "Adam First",
-    "voiced_by": "Jamie Canfield",
-    "notes": "New wave/synthpop.",
-    "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "K-DST",
-    "host_character": "Tommy \"The Nightmare\" Smith",
-    "voiced_by": "Axl Rose",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "CSR 103.9",
-    "host_character": "Philip \"PM\" Michaels",
-    "voiced_by": "Michael Bivins",
-    "notes": "GameSpot lists CSR as 103.2; the GTA wiki lists 103.9.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "Radio Los Santos",
-    "host_character": "Julio G",
-    "voiced_by": "Julio G (himself)",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "Playback FM",
-    "host_character": "Forth Right MC",
-    "voiced_by": "Chuck D",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "K-Jah West",
-    "host_character": "Marshall Peters and Johnny Lawton",
-    "voiced_by": "Sly Dunbar and Robbie Shakespeare",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "SF-UR",
-    "host_character": "Hans Oberlander",
-    "voiced_by": "Lloyd Floyd",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "Bounce FM",
-    "host_character": "The Funktipus",
-    "voiced_by": "George Clinton",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "Master Sounds 98.3",
-    "host_character": "Johnny \"The Love Giant\" Parkinson",
-    "voiced_by": "Ricky Harris",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "Radio X",
-    "host_character": "Sage",
-    "voiced_by": "Jodie Shawback",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "K-Rose",
-    "host_character": "Mary-Beth Maybell",
-    "voiced_by": "Riette Burdick",
-    "notes": "Host and voice per GameSpot; matches the GTA wiki.",
-    "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - WCTR News",
-    "host_character": "Lianne Forget; Richard Burns",
-    "voiced_by": "Sharon Washington; Wil Wheaton",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - The Tight End Zone",
-    "host_character": "Derrick Thackery",
-    "voiced_by": "Peter Appel",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - The Wild Traveler",
-    "host_character": "James Pedeaston",
-    "voiced_by": "Sam Tsoutsouvas",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - Entertaining America",
-    "host_character": "Billy Dexter, then Lazlow",
-    "voiced_by": "Peter Marx; Lazlow Jones",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - Gardening with Maurice",
-    "host_character": "Maurice",
-    "voiced_by": "Andy Dick",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - I Say/You Say",
-    "host_character": "Peyton Phillips; Mary Phillips",
-    "voiced_by": "Paul Ames; Jackie Hoffman",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - Lonely Hearts",
-    "host_character": "Christy MacIntyre (Fernando Martinez stands in, per the GTA wiki Fernando page)",
-    "voiced_by": "Sara Moon",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - Area 53",
-    "host_character": "Marvin Trill",
-    "voiced_by": "Bob Sevra",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA San Andreas (2004)",
-    "station": "WCTR - Station announcer",
-    "host_character": "WCTR intros/outros",
-    "voiced_by": "Barbara Fox",
-    "notes": "WCTR talk program, per the GTA wiki.",
-    "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "Head Radio",
-    "host_character": "Mike Hunt",
-    "voiced_by": "Russ Mottla",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "Double Clef FM",
-    "host_character": "Sergio Boccino",
-    "voiced_by": "Robert Blumenfeld",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "K-JAH",
-    "host_character": "Natalee Walsh Davis",
-    "voiced_by": "Pascale Armand",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "Rise FM",
-    "host_character": "Boy Sanchez",
-    "voiced_by": "Oliver Vuquer",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "Lips 106",
-    "host_character": "Cliff Lane and Andee",
-    "voiced_by": "Ed McMann; Shelley Miller",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "Radio Del Mundo",
-    "host_character": "Panjit Gavaskar",
-    "voiced_by": "Hajaz Akram",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "MSX 98",
-    "host_character": "Codebreaker and DJ Timecode",
-    "voiced_by": "not listed",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "Flashback FM",
-    "host_character": "Reni Wassulmaier",
-    "voiced_by": "Barbara Rosenblatt",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "The Liberty Jam",
-    "host_character": "DJ Clue",
-    "voiced_by": "not listed",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Liberty City Stories (2005)",
-    "station": "LCFR (Liberty City Free Radio)",
-    "host_character": "multiple programs, incl. a Lazlow Chatterbox show",
-    "voiced_by": "not listed",
-    "notes": "Per the GTA wiki (page last modified 2012).",
-    "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "Flash FM",
-    "host_character": "Teri, Toni",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "V-Rock",
-    "host_character": "Cousin Ed, Lazlow (as intern)",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "Paradise FM",
-    "host_character": "none listed",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "VCFL",
-    "host_character": "Tina Jane",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "Wave 103",
-    "host_character": "Trish Camden, Adam First",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "Fresh FM",
-    "host_character": "Luke",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "Radio Espantoso",
-    "host_character": "Hector Hernandez",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "Emotion 98.3",
-    "host_character": "Lionel Makepeace",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA Vice City Stories (2006)",
-    "station": "VCPR",
-    "host_character": "Maurice Chavez; Larry Joe and Bobby Ray (Bait and Switch); Dwayne Thorn (New World Order)",
-    "voiced_by": "not listed",
-    "notes": "Per GTABase fan database; Lazlow intern role per the GTA wiki Lazlow page.",
-    "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "IF99 (International Funk)",
-    "host_character": "Femi Kuti",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Vladivostok FM",
-    "host_character": "Ruslana",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "K109 The Studio",
-    "host_character": "Karl Lagerfeld",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "The Beat 102.7",
-    "host_character": "DJ Green Lantern and Mister Cee",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Electro-Choc",
-    "host_character": "François K",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Liberty City Hardcore",
-    "host_character": "Jimmy Gestapo",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "The Classics 104.1",
-    "host_character": "DJ Premier",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Fusion FM",
-    "host_character": "Roy Ayers",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Jazz Nation Radio 108.5",
-    "host_character": "Roy Haynes",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "The Journey",
-    "host_character": "text-to-speech 'computer' voice",
-    "voiced_by": "n/a",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Liberty Rock Radio 97.8",
-    "host_character": "Iggy Pop",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Massive B Soundsystem 96.9",
-    "host_character": "Bobby Konders",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Radio Broker",
-    "host_character": "Juliette Lewis",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "San Juan Sounds",
-    "host_character": "Daddy Yankee",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Tuff Gong Radio",
-    "host_character": "Carl Bradshaw",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "The Vibe 98.8",
-    "host_character": "Vaughn Harper",
-    "voiced_by": "themselves",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "WKTT",
-    "host_character": "conservative talk, programme hosts",
-    "voiced_by": "n/a",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "PLR (Public Liberty Radio)",
-    "host_character": "liberal talk, programme hosts",
-    "voiced_by": "n/a",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV (2008)",
-    "station": "Integrity 2.0",
-    "host_character": "Lazlow",
-    "voiced_by": "Lazlow Jones (himself)",
-    "notes": "Hosts are real people playing themselves unless noted; per the GTA wiki. Lagerfeld as DJ also reported by Hypebeast (2008-04-09); Iggy Pop by Engadget (2009).",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV: The Lost and Damned (2009)",
-    "station": "The Beat 102.7",
-    "host_character": "Funkmaster Flex; Statik Selektah (new shows)",
-    "voiced_by": "themselves",
-    "notes": "Episode host changes per Engadget.",
-    "source": "GTA IV's 'The Lost and Damned' soundtrack detailed - Engadget (David Hinkle) - 2009-02-12 - https://www.engadget.com/2009-02-12-gta-ivs-the-lost-and-damned-soundtrack-detailed.html"
-  },
-  {
-    "game": "GTA IV: The Lost and Damned (2009)",
-    "station": "Liberty City Hardcore",
-    "host_character": "Max Cavalera",
-    "voiced_by": "themselves",
-    "notes": "Episode host changes per Engadget.",
-    "source": "GTA IV's 'The Lost and Damned' soundtrack detailed - Engadget (David Hinkle) - 2009-02-12 - https://www.engadget.com/2009-02-12-gta-ivs-the-lost-and-damned-soundtrack-detailed.html"
-  },
-  {
-    "game": "GTA IV: The Lost and Damned (2009)",
-    "station": "Liberty Rock Radio 97.8",
-    "host_character": "Iggy Pop (returns)",
-    "voiced_by": "themselves",
-    "notes": "Episode host changes per Engadget.",
-    "source": "GTA IV's 'The Lost and Damned' soundtrack detailed - Engadget (David Hinkle) - 2009-02-12 - https://www.engadget.com/2009-02-12-gta-ivs-the-lost-and-damned-soundtrack-detailed.html"
-  },
-  {
-    "game": "GTA IV: The Lost and Damned (2009)",
-    "station": "Electro-Choc",
-    "host_character": "Crookers (episode show)",
-    "voiced_by": "themselves",
-    "notes": "Per the GTA wiki.",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV: The Ballad of Gay Tony (2009)",
-    "station": "Vice City FM",
-    "host_character": "Fernando Martinez",
-    "voiced_by": "Frank Chavez",
-    "notes": "Episodes from Liberty City stations, per the GTA wiki.",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV: The Ballad of Gay Tony (2009)",
-    "station": "RamJam FM",
-    "host_character": "David Rodigan",
-    "voiced_by": "himself",
-    "notes": "Episodes from Liberty City stations, per the GTA wiki.",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV: The Ballad of Gay Tony (2009)",
-    "station": "Self-Actualization FM",
-    "host_character": "Audrey",
-    "voiced_by": "not listed",
-    "notes": "Episodes from Liberty City stations, per the GTA wiki.",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA IV: The Ballad of Gay Tony (2009)",
-    "station": "San Juan Sounds",
-    "host_character": "Henry Santos Jeter (episode show)",
-    "voiced_by": "himself",
-    "notes": "Episodes from Liberty City stations, per the GTA wiki.",
-    "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Los Santos Rock Radio",
-    "host_character": "Kenny Loggins",
-    "voiced_by": "himself",
-    "notes": "Classic rock.",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Non-Stop-Pop FM",
-    "host_character": "Cara Delevingne",
-    "voiced_by": "herself",
-    "notes": "Per the GTA wiki only.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Radio Los Santos",
-    "host_character": "Big Boy",
-    "voiced_by": "himself",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Channel X",
-    "host_character": "Keith Morris",
-    "voiced_by": "himself",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Rebel Radio",
-    "host_character": "Jesco White",
-    "voiced_by": "himself",
-    "notes": "Outlaw country.",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Soulwax FM",
-    "host_character": "Soulwax",
-    "voiced_by": "themselves",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Space 103.2",
-    "host_character": "Bootsy Collins",
-    "voiced_by": "himself",
-    "notes": "Rolling Stone: Collins hosts the eighties boogie-funk station; station name per the GTA wiki.",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Vinewood Boulevard Radio",
-    "host_character": "Nate Williams and Stephen Pope (Wavves)",
-    "voiced_by": "themselves",
-    "notes": "Modern rock.",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "The Lowdown 91.1",
-    "host_character": "Mama G",
-    "voiced_by": "Pam Grier",
-    "notes": "Rolling Stone names Pam Grier as host of the lowrider soul station; the GTA wiki names the host Mama G. Linking the two is inference.",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/; The Lowdown 91.1 - GTA Wiki - undated - https://gta.wiki/w/The_Lowdown_91.1 (\"hosted by actress Mama G (Pam Grier)\")"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Radio Mirror Park",
-    "host_character": "Twin Shadow",
-    "voiced_by": "himself",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "East Los FM",
-    "host_character": "Don Cheto and Camilo Lara",
-    "voiced_by": "themselves",
-    "notes": "Rolling Stone names Camilo Lara (Mexican Institute of Sound); Don Cheto per the GTA wiki.",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "West Coast Classics",
-    "host_character": "DJ Pooh",
-    "voiced_by": "himself",
-    "notes": "",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "FlyLo FM",
-    "host_character": "Flying Lotus",
-    "voiced_by": "himself",
-    "notes": "",
-    "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "The Blue Ark",
-    "host_character": "Lee \"Scratch\" Perry",
-    "voiced_by": "himself",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Worldwide FM",
-    "host_character": "Gilles Peterson",
-    "voiced_by": "himself",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "WCTR - Chakra Attack",
-    "host_character": "Dr Ray De Angelo Harris",
-    "voiced_by": "J.B. Smoove",
-    "notes": "Mindfulness/yoga talk show.",
-    "source": "J.B. Smoove on working with Rockstar, voicing Chakra Attack... - PC Gamer (Joe Donnelly) - 2018-03-29 - https://pcgamer.com/jb-smoove-on-working-with-rockstar-voicing-chakra-attack-and-the-enduring-appeal-of-gta-5"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "WCTR - Chattersphere",
-    "host_character": "Lazlow",
-    "voiced_by": "Lazlow Jones (himself)",
-    "notes": "Per the GTA wiki.",
-    "source": "Lazlow Jones - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Lazlow_Jones"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "WCTR - The Fernando Show",
-    "host_character": "Fernando Martinez (with producer Jo)",
-    "voiced_by": "Frank Chavez",
-    "notes": "Per the GTA wiki.",
-    "source": "Fernando Martinez - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://grandtheftwiki.com/Fernando_Martinez"
-  },
-  {
-    "game": "GTA V (2013)",
-    "station": "Blaine County Radio",
-    "host_character": "programme hosts (right-wing talk)",
-    "voiced_by": "not listed",
-    "notes": "Per the GTA wiki.",
-    "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "The Lab",
-    "host_character": "The Alchemist and Oh No",
-    "voiced_by": "themselves",
-    "notes": "Added with Ill-Gotten Gains Part 2, per the GTA wiki.",
-    "source": "Radio Stations in Grand Theft Auto Online - gta.wiki (per the GTA wiki) - undated - https://gta.wiki/w/Radio_Stations_in_GTA_Online"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "blonded Los Santos 97.8 FM",
-    "host_character": "not stated",
-    "voiced_by": "n/a",
-    "notes": "Doomsday Heist update, per the GTA wiki.",
-    "source": "Radio Stations in Grand Theft Auto Online - gta.wiki (per the GTA wiki) - undated - https://gta.wiki/w/Radio_Stations_in_GTA_Online"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "Los Santos Underground Radio",
-    "host_character": "Solomun, Tale Of Us, Dixon, The Black Madonna (rotating resident mixes)",
-    "voiced_by": "themselves",
-    "notes": "After Hours, July 24 2018.",
-    "source": "GTA Online: After Hours news - Resident Advisor - 2018-07-24 - https://ra.co/news/42191"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "iFruit Radio",
-    "host_character": "Danny Brown, with guest Skepta",
-    "voiced_by": "themselves",
-    "notes": "Diamond Casino Heist, Dec 12 2019.",
-    "source": "Danny Brown will host a new radio station on Grand Theft Auto - Mixmag (Devyn White) - 2019-12-10 - https://mixmag.net/read/new-gta-radio-hosted-by-danny-brown-news"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "Still Slipping Los Santos",
-    "host_character": "Joy Orbison",
-    "voiced_by": "himself",
-    "notes": "Cayo Perico Heist, Dec 15 2020.",
-    "source": "GTA Online update brings three new radio stations and 250 tracks next week - GamesRadar+ (Hirun Cryer) - 2020-12-10 - https://www.gamesradar.com/gta-online-update-brings-three-new-radio-stations-and-250-tracks-next-week"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "Kult FM 99.1",
-    "host_character": "Julian Casablancas (nominal); producer Zachary fills in",
-    "voiced_by": "Julian Casablancas; David Cross as Zachary",
-    "notes": "Cayo Perico Heist; Casablancas named as host by GamesRadar 2020.",
-    "source": "GTA Online's radio stations are a trove of world premieres and underground absurdity - Epic Games Store news (Jeremy Peel) - 2025-09-19 - https://store.epicgames.com/news/gta-online-s-radio-stations-are-a-trove-of-world-premieres-and-underground-absurdity"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "The Music Locker",
-    "host_character": "no single host; guest DJs e.g. Moodymann",
-    "voiced_by": "n/a",
-    "notes": "Cayo Perico Heist.",
-    "source": "GTA Online update brings three new radio stations and 250 tracks next week - GamesRadar+ (Hirun Cryer) - 2020-12-10 - https://www.gamesradar.com/gta-online-update-brings-three-new-radio-stations-and-250-tracks-next-week"
-  },
-  {
-    "game": "GTA Online / GTA V updates",
-    "station": "MOTOMAMI Los Santos",
-    "host_character": "Arca and Rosalía",
-    "voiced_by": "themselves",
-    "notes": "The Contract update (Dec 2021).",
-    "source": "Arca and Rosalía to host new radio show on Grand Theft Auto Online - DJ Mag - undated on page (Dec 2021 update cycle) - https://direct.djmag.com/news/arca-and-rosal-host-new-radio-show-grand-theft-auto-online"
-  },
-  {
-    "game": "GTA VI (2026)",
-    "station": "six stations previewed: Cocoteo FM, Back Country Radio, Afro Bank FM, The Chamber 106.6, Flash FM, Dirty South Classics",
-    "host_character": "hosts not named in coverage",
-    "voiced_by": "n/a",
-    "notes": "Rockstar also announced on-demand podcasts for Jason and Lucia.",
-    "source": "GTA 6 radio stations revealed... in-game podcasts - GamesRadar+ (Dustin Bailey) - 2026-10-08 - https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/"
-  }
+ {
+  "game": "GTA III (2001)",
+  "station": "Head Radio",
+  "host_character": "Michael Hunt",
+  "voiced_by": "Russ Mottla",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "Double Clef FM",
+  "host_character": "Morgan Merryweather",
+  "voiced_by": "Gerry Cosgrove",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "K-Jah",
+  "host_character": "Horace \"The Pacifist\" Walsh",
+  "voiced_by": "Herman Stephens",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "Rise FM",
+  "host_character": "Andre \"The Accelerator\"",
+  "voiced_by": "Andre (himself)",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "Lips 106",
+  "host_character": "Andee",
+  "voiced_by": "Shelley Miller",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "Game Radio (Game FM)",
+  "host_character": "Stretch Armstrong and Lord Sear",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "MSX FM",
+  "host_character": "MC Codebreaker",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "Flashback 95.6",
+  "host_character": "Toni",
+  "voiced_by": "Maria Chambers",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA III (2001)",
+  "station": "Chatterbox FM",
+  "host_character": "Lazlow",
+  "voiced_by": "Lazlow Jones (himself)",
+  "notes": "Call-in talk show. Lazlow has said his own father voiced one of the callers.",
+  "source": "Radio Stations in GTA III - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_III"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "Wildstyle",
+  "host_character": "Mr. Magic",
+  "voiced_by": "not listed",
+  "notes": "Hip hop/electro.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "Flash FM",
+  "host_character": "Toni",
+  "voiced_by": "Maria Chambers",
+  "notes": "Same character and voice as GTA III's Flashback 95.6 host.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "K-Chat",
+  "host_character": "Amy Sheckenhausen",
+  "voiced_by": "Leyna Weber",
+  "notes": "Celebrity interview station.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "Fever 105",
+  "host_character": "Oliver \"Ladykiller\" Biscuit",
+  "voiced_by": "Julius Dyson",
+  "notes": "Soul/disco.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "V-Rock",
+  "host_character": "Lazlow",
+  "voiced_by": "Lazlow Jones (himself)",
+  "notes": "Hard rock/metal; Lazlow is head DJ.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "VCPR",
+  "host_character": "Jonathan Freeloader and Michelle Montanius (station voices); Maurice Chavez hosts Pressing Issues",
+  "voiced_by": "Patrick Olsen, Kelly Guest; Maurice Chavez by Philip Anthony Rodriguez",
+  "notes": "Talk station; one program, Pressing Issues.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "Radio Espantoso",
+  "host_character": "Pepe",
+  "voiced_by": "Tony Chiroldes",
+  "notes": "Spanish-language Latin jazz.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "Emotion 98.3",
+  "host_character": "Fernando Martinez",
+  "voiced_by": "Frank Chavez",
+  "notes": "Power ballads.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA Vice City (2002)",
+  "station": "Wave 103",
+  "host_character": "Adam First",
+  "voiced_by": "Jamie Canfield",
+  "notes": "New wave/synthpop.",
+  "source": "Radio Stations in GTA Vice City - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_VC"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "K-DST",
+  "host_character": "Tommy \"The Nightmare\" Smith",
+  "voiced_by": "Axl Rose",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "CSR 103.9",
+  "host_character": "Philip \"PM\" Michaels",
+  "voiced_by": "Michael Bivins",
+  "notes": "Frequency 103.9 (GameSpot lists 103.2).",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "Radio Los Santos",
+  "host_character": "Julio G",
+  "voiced_by": "Julio G (himself)",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "Playback FM",
+  "host_character": "Forth Right MC",
+  "voiced_by": "Chuck D",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "K-Jah West",
+  "host_character": "Marshall Peters and Johnny Lawton",
+  "voiced_by": "Sly Dunbar and Robbie Shakespeare",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "SF-UR",
+  "host_character": "Hans Oberlander",
+  "voiced_by": "Lloyd Floyd",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "Bounce FM",
+  "host_character": "The Funktipus",
+  "voiced_by": "George Clinton",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "Master Sounds 98.3",
+  "host_character": "Johnny \"The Love Giant\" Parkinson",
+  "voiced_by": "Ricky Harris",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "Radio X",
+  "host_character": "Sage",
+  "voiced_by": "Jodie Shawback",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "K-Rose",
+  "host_character": "Mary-Beth Maybell",
+  "voiced_by": "Riette Burdick",
+  "notes": "",
+  "source": "Full San Andreas soundtrack details - GameSpot - undated on page (2004 release cycle) - https://www.gamespot.com/news/6111346.html"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - WCTR News",
+  "host_character": "Lianne Forget; Richard Burns",
+  "voiced_by": "Sharon Washington; Wil Wheaton",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - The Tight End Zone",
+  "host_character": "Derrick Thackery",
+  "voiced_by": "Peter Appel",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - The Wild Traveler",
+  "host_character": "James Pedeaston",
+  "voiced_by": "Sam Tsoutsouvas",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - Entertaining America",
+  "host_character": "Billy Dexter, then Lazlow",
+  "voiced_by": "Peter Marx; Lazlow Jones",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - Gardening with Maurice",
+  "host_character": "Maurice",
+  "voiced_by": "Andy Dick",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - I Say/You Say",
+  "host_character": "Peyton Phillips; Mary Phillips",
+  "voiced_by": "Paul Ames; Jackie Hoffman",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - Lonely Hearts",
+  "host_character": "Christy MacIntyre (Fernando Martinez sometimes stands in)",
+  "voiced_by": "Sara Moon",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - Area 53",
+  "host_character": "Marvin Trill",
+  "voiced_by": "Bob Sevra",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA San Andreas (2004)",
+  "station": "WCTR - Station announcer",
+  "host_character": "WCTR intros/outros",
+  "voiced_by": "Barbara Fox",
+  "notes": "WCTR talk program; fan-credited.",
+  "source": "Radio Stations in GTA San Andreas - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_SA"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "Head Radio",
+  "host_character": "Mike Hunt",
+  "voiced_by": "Russ Mottla",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "Double Clef FM",
+  "host_character": "Sergio Boccino",
+  "voiced_by": "Robert Blumenfeld",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "K-JAH",
+  "host_character": "Natalee Walsh Davis",
+  "voiced_by": "Pascale Armand",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "Rise FM",
+  "host_character": "Boy Sanchez",
+  "voiced_by": "Oliver Vuquer",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "Lips 106",
+  "host_character": "Cliff Lane and Andee",
+  "voiced_by": "Ed McMann; Shelley Miller",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "Radio Del Mundo",
+  "host_character": "Panjit Gavaskar",
+  "voiced_by": "Hajaz Akram",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "MSX 98",
+  "host_character": "Codebreaker and DJ Timecode",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "Flashback FM",
+  "host_character": "Reni Wassulmaier",
+  "voiced_by": "Barbara Rosenblatt",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "The Liberty Jam",
+  "host_character": "DJ Clue",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Liberty City Stories (2005)",
+  "station": "LCFR (Liberty City Free Radio)",
+  "host_character": "multiple programs, incl. a Lazlow Chatterbox show",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "Grand Theft Auto: Liberty City Stories Soundtrack - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - last modified Oct 2012 - https://www.grandtheftwiki.com/Grand_Theft_Auto:_Liberty_City_Stories_Soundtrack"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "Flash FM",
+  "host_character": "Teri, Toni",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "V-Rock",
+  "host_character": "Cousin Ed, Lazlow (as intern)",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "Paradise FM",
+  "host_character": "none listed",
+  "voiced_by": "not listed",
+  "notes": "",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "VCFL",
+  "host_character": "Tina Jane",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "Wave 103",
+  "host_character": "Trish Camden, Adam First",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "Fresh FM",
+  "host_character": "Luke",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "Radio Espantoso",
+  "host_character": "Hector Hernandez",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "Emotion 98.3",
+  "host_character": "Lionel Makepeace",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA Vice City Stories (2006)",
+  "station": "VCPR",
+  "host_character": "Maurice Chavez; Larry Joe and Bobby Ray (Bait and Switch); Dwayne Thorn (New World Order)",
+  "voiced_by": "not listed",
+  "notes": "Fan-credited.",
+  "source": "GTA Vice City Stories radio stations - GTABase (fan database; treat as per the GTA wiki) - undated - https://gtabase.com/gta-vice-city-stories/radio-stations"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "IF99 (International Funk)",
+  "host_character": "Femi Kuti",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Vladivostok FM",
+  "host_character": "Ruslana",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "K109 The Studio",
+  "host_character": "Karl Lagerfeld",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "The Beat 102.7",
+  "host_character": "DJ Green Lantern and Mister Cee",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Electro-Choc",
+  "host_character": "François K",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Liberty City Hardcore",
+  "host_character": "Jimmy Gestapo",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "The Classics 104.1",
+  "host_character": "DJ Premier",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Fusion FM",
+  "host_character": "Roy Ayers",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Jazz Nation Radio 108.5",
+  "host_character": "Roy Haynes",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "The Journey",
+  "host_character": "text-to-speech 'computer' voice",
+  "voiced_by": "n/a",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Liberty Rock Radio 97.8",
+  "host_character": "Iggy Pop",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Massive B Soundsystem 96.9",
+  "host_character": "Bobby Konders",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Radio Broker",
+  "host_character": "Juliette Lewis",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "San Juan Sounds",
+  "host_character": "Daddy Yankee",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Tuff Gong Radio",
+  "host_character": "Carl Bradshaw",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "The Vibe 98.8",
+  "host_character": "Vaughn Harper",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "WKTT",
+  "host_character": "conservative talk, programme hosts",
+  "voiced_by": "n/a",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "PLR (Public Liberty Radio)",
+  "host_character": "liberal talk, programme hosts",
+  "voiced_by": "n/a",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV (2008)",
+  "station": "Integrity 2.0",
+  "host_character": "Lazlow",
+  "voiced_by": "Lazlow Jones (himself)",
+  "notes": "Fan-credited.",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV: The Lost and Damned (2009)",
+  "station": "The Beat 102.7",
+  "host_character": "Funkmaster Flex; Statik Selektah (new shows)",
+  "voiced_by": "themselves",
+  "notes": "New host for the episode.",
+  "source": "GTA IV's 'The Lost and Damned' soundtrack detailed - Engadget (David Hinkle) - 2009-02-12 - https://www.engadget.com/2009-02-12-gta-ivs-the-lost-and-damned-soundtrack-detailed.html"
+ },
+ {
+  "game": "GTA IV: The Lost and Damned (2009)",
+  "station": "Liberty City Hardcore",
+  "host_character": "Max Cavalera",
+  "voiced_by": "themselves",
+  "notes": "New host for the episode.",
+  "source": "GTA IV's 'The Lost and Damned' soundtrack detailed - Engadget (David Hinkle) - 2009-02-12 - https://www.engadget.com/2009-02-12-gta-ivs-the-lost-and-damned-soundtrack-detailed.html"
+ },
+ {
+  "game": "GTA IV: The Lost and Damned (2009)",
+  "station": "Liberty Rock Radio 97.8",
+  "host_character": "Iggy Pop (returns)",
+  "voiced_by": "themselves",
+  "notes": "New host for the episode.",
+  "source": "GTA IV's 'The Lost and Damned' soundtrack detailed - Engadget (David Hinkle) - 2009-02-12 - https://www.engadget.com/2009-02-12-gta-ivs-the-lost-and-damned-soundtrack-detailed.html"
+ },
+ {
+  "game": "GTA IV: The Lost and Damned (2009)",
+  "station": "Electro-Choc",
+  "host_character": "Crookers (episode show)",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV: The Ballad of Gay Tony (2009)",
+  "station": "Vice City FM",
+  "host_character": "Fernando Martinez",
+  "voiced_by": "Frank Chavez",
+  "notes": "Episodes from Liberty City station. Fan-credited.",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV: The Ballad of Gay Tony (2009)",
+  "station": "RamJam FM",
+  "host_character": "David Rodigan",
+  "voiced_by": "himself",
+  "notes": "Episodes from Liberty City station.",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV: The Ballad of Gay Tony (2009)",
+  "station": "Self-Actualization FM",
+  "host_character": "Audrey",
+  "voiced_by": "not listed",
+  "notes": "Episodes from Liberty City station.",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA IV: The Ballad of Gay Tony (2009)",
+  "station": "San Juan Sounds",
+  "host_character": "Henry Santos Jeter (episode show)",
+  "voiced_by": "himself",
+  "notes": "Episodes from Liberty City station.",
+  "source": "Radio Stations in GTA IV - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_IV"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Los Santos Rock Radio",
+  "host_character": "Kenny Loggins",
+  "voiced_by": "himself",
+  "notes": "Classic rock.",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Non-Stop-Pop FM",
+  "host_character": "Cara Delevingne",
+  "voiced_by": "herself",
+  "notes": "Fan-credited.",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Radio Los Santos",
+  "host_character": "Big Boy",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Channel X",
+  "host_character": "Keith Morris",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Rebel Radio",
+  "host_character": "Jesco White",
+  "voiced_by": "himself",
+  "notes": "Outlaw country.",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Soulwax FM",
+  "host_character": "Soulwax",
+  "voiced_by": "themselves",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Space 103.2",
+  "host_character": "Bootsy Collins",
+  "voiced_by": "himself",
+  "notes": "Eighties boogie-funk.",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Vinewood Boulevard Radio",
+  "host_character": "Nate Williams and Stephen Pope (Wavves)",
+  "voiced_by": "themselves",
+  "notes": "Modern rock.",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "The Lowdown 91.1",
+  "host_character": "Mama G",
+  "voiced_by": "Pam Grier",
+  "notes": "Lowrider soul. Press names Pam Grier as host; fans name the character Mama G. That Grier plays Mama G is inferred.",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/; The Lowdown 91.1 - GTA Wiki - undated - https://gta.wiki/w/The_Lowdown_91.1 (\"hosted by actress Mama G (Pam Grier)\")"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Radio Mirror Park",
+  "host_character": "Twin Shadow",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "East Los FM",
+  "host_character": "Don Cheto and Camilo Lara",
+  "voiced_by": "themselves",
+  "notes": "Camilo Lara is Mexican Institute of Sound; Don Cheto is fan-credited.",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "West Coast Classics",
+  "host_character": "DJ Pooh",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "FlyLo FM",
+  "host_character": "Flying Lotus",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Inside the 'Grand Theft Auto V' Soundtrack - Rolling Stone - undated on page (pre-release 2013) - https://www.rollingstone.com/music/music-news/inside-the-grand-theft-auto-v-soundtrack-75495/"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "The Blue Ark",
+  "host_character": "Lee \"Scratch\" Perry",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Worldwide FM",
+  "host_character": "Gilles Peterson",
+  "voiced_by": "himself",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "WCTR - Chakra Attack",
+  "host_character": "Dr Ray De Angelo Harris",
+  "voiced_by": "J.B. Smoove",
+  "notes": "Mindfulness/yoga talk show.",
+  "source": "J.B. Smoove on working with Rockstar, voicing Chakra Attack... - PC Gamer (Joe Donnelly) - 2018-03-29 - https://pcgamer.com/jb-smoove-on-working-with-rockstar-voicing-chakra-attack-and-the-enduring-appeal-of-gta-5"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "WCTR - Chattersphere",
+  "host_character": "Lazlow",
+  "voiced_by": "Lazlow Jones (himself)",
+  "notes": "Fan-credited.",
+  "source": "Lazlow Jones - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Lazlow_Jones"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "WCTR - The Fernando Show",
+  "host_character": "Fernando Martinez (with producer Jo)",
+  "voiced_by": "Frank Chavez",
+  "notes": "Fan-credited.",
+  "source": "Fernando Martinez - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://grandtheftwiki.com/Fernando_Martinez"
+ },
+ {
+  "game": "GTA V (2013)",
+  "station": "Blaine County Radio",
+  "host_character": "programme hosts (right-wing talk)",
+  "voiced_by": "not listed",
+  "notes": "",
+  "source": "Music in GTA V - Grand Theft Wiki (per the GTA wiki (Grand Theft Wiki)) - undated - https://www.grandtheftwiki.com/Radio_Stations_in_GTA_V"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "The Lab",
+  "host_character": "The Alchemist and Oh No",
+  "voiced_by": "themselves",
+  "notes": "Added with Ill-Gotten Gains Part 2.",
+  "source": "Radio Stations in Grand Theft Auto Online - gta.wiki (per the GTA wiki) - undated - https://gta.wiki/w/Radio_Stations_in_GTA_Online"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "blonded Los Santos 97.8 FM",
+  "host_character": "not stated",
+  "voiced_by": "n/a",
+  "notes": "Added in The Doomsday Heist update.",
+  "source": "Radio Stations in Grand Theft Auto Online - gta.wiki (per the GTA wiki) - undated - https://gta.wiki/w/Radio_Stations_in_GTA_Online"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "Los Santos Underground Radio",
+  "host_character": "Solomun, Tale Of Us, Dixon, The Black Madonna (rotating resident mixes)",
+  "voiced_by": "themselves",
+  "notes": "Added in After Hours, July 24, 2018.",
+  "source": "GTA Online: After Hours news - Resident Advisor - 2018-07-24 - https://ra.co/news/42191"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "iFruit Radio",
+  "host_character": "Danny Brown, with guest Skepta",
+  "voiced_by": "themselves",
+  "notes": "Added in The Diamond Casino Heist, December 12, 2019.",
+  "source": "Danny Brown will host a new radio station on Grand Theft Auto - Mixmag (Devyn White) - 2019-12-10 - https://mixmag.net/read/new-gta-radio-hosted-by-danny-brown-news"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "Still Slipping Los Santos",
+  "host_character": "Joy Orbison",
+  "voiced_by": "himself",
+  "notes": "Added in The Cayo Perico Heist, December 15, 2020.",
+  "source": "GTA Online update brings three new radio stations and 250 tracks next week - GamesRadar+ (Hirun Cryer) - 2020-12-10 - https://www.gamesradar.com/gta-online-update-brings-three-new-radio-stations-and-250-tracks-next-week"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "Kult FM 99.1",
+  "host_character": "Julian Casablancas (nominal); producer Zachary fills in",
+  "voiced_by": "Julian Casablancas; David Cross as Zachary",
+  "notes": "Added in The Cayo Perico Heist.",
+  "source": "GTA Online's radio stations are a trove of world premieres and underground absurdity - Epic Games Store news (Jeremy Peel) - 2025-09-19 - https://store.epicgames.com/news/gta-online-s-radio-stations-are-a-trove-of-world-premieres-and-underground-absurdity"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "The Music Locker",
+  "host_character": "no single host; guest DJs e.g. Moodymann",
+  "voiced_by": "n/a",
+  "notes": "Added in The Cayo Perico Heist.",
+  "source": "GTA Online update brings three new radio stations and 250 tracks next week - GamesRadar+ (Hirun Cryer) - 2020-12-10 - https://www.gamesradar.com/gta-online-update-brings-three-new-radio-stations-and-250-tracks-next-week"
+ },
+ {
+  "game": "GTA Online / GTA V updates",
+  "station": "MOTOMAMI Los Santos",
+  "host_character": "Arca and Rosalía",
+  "voiced_by": "themselves",
+  "notes": "Added in The Contract update (December 2021).",
+  "source": "Arca and Rosalía to host new radio show on Grand Theft Auto Online - DJ Mag - undated on page (Dec 2021 update cycle) - https://direct.djmag.com/news/arca-and-rosal-host-new-radio-show-grand-theft-auto-online"
+ },
+ {
+  "game": "GTA VI (2026)",
+  "station": "six stations previewed: Cocoteo FM, Back Country Radio, Afro Bank FM, The Chamber 106.6, Flash FM, Dirty South Classics",
+  "host_character": "hosts not yet named",
+  "voiced_by": "n/a",
+  "notes": "Rockstar also announced on-demand podcasts for Jason and Lucia.",
+  "source": "GTA 6 radio stations revealed... in-game podcasts - GamesRadar+ (Dustin Bailey) - 2026-10-08 - https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/"
+ }
 ]
