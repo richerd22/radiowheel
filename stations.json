@@ -1549,5 +1549,71 @@
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta5-worldwide-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "AfroBank FM",
+  "genre": "African classics, amapiano, 3-step",
+  "host": "Burna (Burna Boy) and Palmsy (Palms Trax)",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-afrobank-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Back Country Radio",
+  "genre": "Renegade country",
+  "host": "MW (Morgan Wallen) and Delta Dawne (Lana Del Rey)",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-back-country-radio/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Cocoteo FM",
+  "genre": "Modern Latin: bachata, merengue, dembow, reggaeton",
+  "host": "El Martillo (Bad Bunny) and La Gata (RaiNao)",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-cocoteo-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Dirty South Classics",
+  "genre": "Regional rap",
+  "host": "Trick (Trick Daddy) and Trina",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-dirty-south-classics/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Flash FM",
+  "genre": "Pop and dance",
+  "host": "Robyn and Alex (Alex Consani)",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-flash-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "The Chamber 106.6",
+  "genre": "Metal from the 1980s on",
+  "host": "DJ Kerry (Kerry King) and DJ Tom (Tom Araya) of Slayer",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-the-chamber-106-6/"
  }
 ]

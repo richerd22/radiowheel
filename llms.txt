@@ -2,7 +2,7 @@
 
 > An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and what is known about GTA VI.
 
-Independent cited guide, 40,755 words, 310 sources, updated 2026-11-15. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
+Independent cited guide, 40,747 words, 310 sources, updated 2026-11-15. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
 GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.
 
 ## Sections
@@ -20,7 +20,7 @@ GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only '
 
 ## Data
 - Every song: https://radiowheel.cold.fyi/tracks.json and https://radiowheel.cold.fyi/tracks.csv (2019 rows: game, station, artist, title, year, added, removed, note, source)
-- Every station: https://radiowheel.cold.fyi/stations.json (141 stations, each with a page at https://radiowheel.cold.fyi/stations/<slug>/)
+- Every station: https://radiowheel.cold.fyi/stations.json (147 stations, each with a page at https://radiowheel.cold.fyi/stations/<slug>/)
 - Removed songs: https://radiowheel.cold.fyi/removed.json (87 songs)
 - Talk shows: https://radiowheel.cold.fyi/talk.json · hosts: https://radiowheel.cold.fyi/hosts.json · lore: https://radiowheel.cold.fyi/lore.json
 - CircoLoco Records catalog: https://radiowheel.cold.fyi/circoloco.json · GTA Online music updates: https://radiowheel.cold.fyi/online.json · GTA VI tracker: https://radiowheel.cold.fyi/gta6.json
@@ -169,6 +169,12 @@ GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only '
 - GTA V: [West Coast Classics](https://radiowheel.cold.fyi/stations/gta5-west-coast-classics/) - 45 songs
 - GTA V: [West Coast Talk Radio](https://radiowheel.cold.fyi/stations/gta5-west-coast-talk-radio/) - 0 songs
 - GTA V: [Worldwide FM](https://radiowheel.cold.fyi/stations/gta5-worldwide-fm/) - 79 songs
+- GTA VI: [AfroBank FM](https://radiowheel.cold.fyi/stations/gta6-afrobank-fm/) - 0 songs
+- GTA VI: [Back Country Radio](https://radiowheel.cold.fyi/stations/gta6-back-country-radio/) - 0 songs
+- GTA VI: [Cocoteo FM](https://radiowheel.cold.fyi/stations/gta6-cocoteo-fm/) - 0 songs
+- GTA VI: [Dirty South Classics](https://radiowheel.cold.fyi/stations/gta6-dirty-south-classics/) - 0 songs
+- GTA VI: [Flash FM](https://radiowheel.cold.fyi/stations/gta6-flash-fm/) - 0 songs
+- GTA VI: [The Chamber 106.6](https://radiowheel.cold.fyi/stations/gta6-the-chamber-106-6/) - 0 songs
 
 ## Sister guides
 - https://groove.cold.fyi/ - The Groove: how a vinyl record is made

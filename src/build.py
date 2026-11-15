@@ -176,9 +176,9 @@ for r in raw_tracks:
     st["tracks"].append({k: (r.get(k) or "") for k in ("artist", "title", "year", "added", "removed", "note", "source")} | {"edition": r.get("game", "")})
 for r in station_meta_rows:
     g = game_key(r.get("game"))
-    if not g or g == "gta6" or not r.get("station"):
+    if not g or not r.get("station"):
         continue
-    st = station(g, r["station"], create=False)
+    st = station(g, r["station"], create=(g == "gta6"))
     if not st:
         dropped_meta.append((g, r["station"]))
         continue
@@ -553,7 +553,7 @@ UPDATED = STAMP.strftime("%B %-d, %Y")
 
 def wheel_svg(game, hidden=False):
     """The radio wheel, drawn from scratch: one wedge per station, a monogram in each, a hole for the readout."""
-    sts = [s for s in BY_GAME[game] if s["songs"] or s["is_talk"]]
+    sts = [s for s in BY_GAME[game] if s["songs"] or s["is_talk"] or game == "gta6"]
     n = len(sts)
     if n < 2:
         return ""
@@ -589,7 +589,7 @@ def wheel_svg(game, hidden=False):
     n_songs = sum(len(s["songs"]) for s in BY_GAME[game])
     return (f'<div class="wheel" data-game="{game}"{" hidden" if hidden else ""}><svg viewBox="0 0 400 400" role="img" aria-label="Radio wheel for {E(g[1])}">'
             f'<circle cx="200" cy="200" r="198" class="rim"/>{"".join(out)}</svg>'
-            f'<div class="lcd" aria-live="polite"><span class="l1">{E(g[2].upper())}</span><span class="l2">{n} stations</span><span class="l3">{n_songs} songs</span></div></div>')
+            f'<div class="lcd" aria-live="polite"><span class="l1">{E(g[2].upper())}</span><span class="l2">{n} stations</span><span class="l3">{f"{n_songs} songs" if n_songs else "out Nov 19, 2026"}</span></div></div>')
 
 
 def tuner_strip():
@@ -716,17 +716,20 @@ def station_page(st):
     genre = meta.get("genre") or ("Talk radio" if st["is_talk"] else "")
     desc = (f"Every song on {st['name']} in {g[1]}: {len(st['songs'])} tracks" + (f", {genre.lower()}" if genre else "") + (f", hosted by {host}" if host else "")
             + (f". {st['n_removed']} later pulled." if st["n_removed"] else ".") + " With sources.")
-    if st["is_talk"] and not st["songs"]:
+    if st["game"] == "gta6":
+        desc = f"{st['name']} in Grand Theft Auto VI: the format and hosts Rockstar announced, with sources."
+    elif st["is_talk"] and not st["songs"]:
         desc = f"{st['name']} in {g[1]}: the talk station's shows, hosts and who voiced them, with sources."
     ld = [crumbs([(NAME, "/"), ("Stations", "/stations/"), (f"{st['name']} ({g[2]})", f"/stations/{st['slug']}/")])]
     if st["songs"]:
         ld.append({"@context": "https://schema.org", "@type": "MusicPlaylist", "name": f"{st['name']} ({g[1]})", "numTracks": len(st["songs"]), "url": f"{SITE}/stations/{st['slug']}/",
                    "track": [{"@type": "MusicRecording", "name": t["title"], "byArtist": {"@type": "MusicGroup", "name": t["artist"]}} for t in st["songs"][:200]]})
-    lcd = f'<div class="panel"><div class="lcd big"><span class="l1">{E(st["name"].upper())}</span><span class="l2">{E(genre)}</span><span class="l3">{E(host)}</span></div><div class="panel-r"><p class="k">{E(g[1])} · {E(g[3])}</p><p class="nums"><b>{len(st["songs"])}</b> songs{f" · <b>{st[chr(110)+chr(95)+chr(97)+chr(100)+chr(100)+chr(101)+chr(100)]}</b> added later" if st["n_added"] else ""}{f" · <b>{st[chr(110)+chr(95)+chr(114)+chr(101)+chr(109)+chr(111)+chr(118)+chr(101)+chr(100)]}</b> pulled" if st["n_removed"] else ""}</p></div></div>'
+    lcd = f'<div class="panel"><div class="lcd big"><span class="l1">{E(st["name"].upper())}</span><span class="l2">{E(genre)}</span><span class="l3">{E(host)}</span></div><div class="panel-r"><p class="k">{E(g[1])} · {E(g[3])}</p><p class="nums">{"Out <b>Nov 19, 2026</b>" if st["game"] == "gta6" else f"<b>{len(st[chr(115)+chr(111)+chr(110)+chr(103)+chr(115)])}</b> songs"}{f" · <b>{st[chr(110)+chr(95)+chr(97)+chr(100)+chr(100)+chr(101)+chr(100)]}</b> added later" if st["n_added"] else ""}{f" · <b>{st[chr(110)+chr(95)+chr(114)+chr(101)+chr(109)+chr(111)+chr(118)+chr(101)+chr(100)]}</b> pulled" if st["n_removed"] else ""}</p></div></div>'
     body = (f'<div class="layout">{presets("stations")}<main class="col" id="main"><p class="readmeta"><a href="/stations/">Stations</a> · <a href="/stations/#stations-{st["game"]}">{E(g[2])}</a></p>'
             f'<h1>{E(st["name"])} <span class="sub">{E(g[2])}</span></h1>{lcd}'
             + (f'<p class="lede">{E(meta["notes"])}</p>' if meta.get("notes") else "")
             + (f'<h2>Hosts</h2>{hosts_html}' if hosts_html else "") + talk_html
+            + ('<p class="lede">Rockstar has named the station and its hosts. The playlist has not been published. More in <a href="/gta-6/">GTA VI: what is known about the music</a>.</p>' if st["game"] == "gta6" else "")
             + (f'<h2>Tracklist</h2><div class="tbl"><table class="songs tl-s"><thead><tr><th>#</th><th>Artist</th><th>Song</th><th>Year</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>' if rows else "")
             + sib_html + oth_html
             + f'<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=radiowheel.cold.fyi%20-%20{E(st["slug"])}">Wrong or missing song? Tell us.</a></p>'
@@ -737,7 +740,7 @@ def station_page(st):
 def hub():
     t = seo.get("title", f"{NAME}: how Rockstar Games does music")
     d = seo.get("description", "")
-    playable = [g for g in GAMES if len([s for s in BY_GAME[g[0]] if s["songs"] or s["is_talk"]]) >= 2]
+    playable = [g for g in GAMES if len([s for s in BY_GAME[g[0]] if s["songs"] or s["is_talk"] or g[0] == "gta6"]) >= 2]
     default = "gta5"
     tabs = "".join(f'<button type="button" class="gt" data-game="{g[0]}" aria-pressed="{"true" if g[0] == default else "false"}">{E(g[2])}<span>{g[3]}</span></button>' for g in playable)
     wheels = "".join(wheel_svg(g[0], hidden=g[0] != default) for g in playable)
@@ -755,7 +758,7 @@ def hub():
 <section class="hero"><div class="hero-in">{tuner_strip()}<div class="hero-grid"><div class="hero-t"><p class="kicker">cold.fyi deep dive No. {NO} · an independent guide</p><h1 class="title">The Radio<br>Wheel</h1>
 <p class="dek">How Rockstar Games does music: every station, every host, every song, the talk radio, the club nights, the songs that vanished, and what is known about GTA VI.</p>{stats}
 <div class="cta"><a class="primary" href="/{first}/">Turn it on</a><a href="/songs/">Find a song</a><a href="/stations/">Every station</a></div></div>
-<div class="hero-v"><div class="gtabs" role="group" aria-label="Game">{tabs}</div>{wheels}<p class="hint">Hover a wedge to tune in, tap to open the station.</p></div></div></div></section>
+<div class="hero-v"><div class="gtabs" role="group" aria-label="Game">{tabs}</div>{wheels}</div></div></div></section>
 <section class="lede col">{lede_html}{refs_list(sorted(lede_refs), "Sources for this page")}</section>
 <section class="dial col-w"><h2 class="k">On the dial</h2><ol class="dial-list">{"".join(f'<li><a href="/{s["slug"]}/"><span class="fq">{s["freq"]}</span><b>{E(s["title"])}</b><span class="sh">{E(s["short"][:160])}{"..." if len(s["short"]) > 160 else ""}</span></a></li>' for s in sections)}</ol></section>
 {ph}
@@ -790,7 +793,7 @@ def main():
     hub()
     all_page()
     simple("/stations/", "Every Grand Theft Auto radio station", f"All {len(SL)} radio stations across every Grand Theft Auto game, 1997 to GTA VI, with genres, hosts and full tracklists.",
-           f'<p class="lede">{len(SL)} stations and {N_SONGS:,} songs, from the first Grand Theft Auto in 1997 to GTA V and GTA Online. Tap one for the full tracklist and the host.</p>' + m_stations(),
+           f'<p class="lede">{len(SL)} stations and {N_SONGS:,} songs, from the first Grand Theft Auto in 1997 to the six stations announced for GTA VI. Tap one for the tracklist and the hosts.</p>' + m_stations(),
            [dataset("Grand Theft Auto radio stations", "Every radio station in every Grand Theft Auto game with genre and host.", "/stations/", [("stations.json", "application/json")]), crumbs([(NAME, "/"), ("Stations", "/stations/")])], "stations", True)
     simple("/songs/", "Every song on GTA radio", f"Search {N_SONGS:,} songs across every Grand Theft Auto radio station, with removed songs marked and dated.",
            m_songs() + '<p>Take it with you: <a href="/tracks.json">tracks.json</a> · <a href="/tracks.csv">tracks.csv</a>.</p>',
