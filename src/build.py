@@ -17,6 +17,9 @@ Outputs: hub with a radio wheel per game, one page per section, one page per sta
 """
 import csv, glob, html, io, json, math, os, re, sys, datetime
 import markdown
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import meta_pixel  # noqa: E402
+META_PIXEL = "2368576097306858"  # cold.fyi Deep Dives pixel; footer note links thirdpolararch.com/privacy
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 R = os.environ.get("RW_REPORT", "/home/claude/reports/selector")
@@ -649,6 +652,8 @@ def article_ld(title, desc, path):
 def write(rel, text):
     p = os.path.join(OUT, rel)
     os.makedirs(os.path.dirname(p) or OUT, exist_ok=True)
+    if str(rel).endswith(".html"):
+        text = meta_pixel.inject(text, META_PIXEL)[0]
     open(p, "w", encoding="utf-8").write(text)
 
 
