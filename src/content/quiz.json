@@ -204,7 +204,7 @@
   "section": "gta-6"
  },
  {
-  "q": "Who hosts The Chamber 106.6, the metal station Rockstar named for GTA VI on October 8, 2026?",
+  "q": "Who hosts The Chamber 106.6, GTA VI's metal station?",
   "options": [
    "Kerry King and Tom Araya",
    "James Hetfield and Lars Ulrich",
@@ -213,6 +213,42 @@
   ],
   "answer": 0,
   "why": "The station is hosted by DJ Kerry and DJ Tom, played by Slayer's Kerry King and Tom Araya.",
+  "section": "gta-6"
+ },
+ {
+  "q": "How many radio stations did launch-day lists count in GTA VI?",
+  "options": [
+   "14",
+   "18",
+   "22",
+   "30"
+  ],
+  "answer": 2,
+  "why": "Twenty music stations and two talk stations, WKTT and The Wipe. Rockstar had announced six of them in October.",
+  "section": "gta-6"
+ },
+ {
+  "q": "Which talk station from GTA IV is back in GTA VI?",
+  "options": [
+   "WKTT",
+   "Chatterbox FM",
+   "VCPR",
+   "WCTR"
+  ],
+  "answer": 0,
+  "why": "WKTT, short for We Know The Truth, returns alongside a new talk station, The Wipe.",
+  "section": "gta-6"
+ },
+ {
+  "q": "Who voices Dr. Nita on The Wipe?",
+  "options": [
+   "Rosalía",
+   "Anitta",
+   "Karol G",
+   "Shakira"
+  ],
+  "answer": 1,
+  "why": "The Brazilian singer Anitta hosts Ask Dr. Nita, an advice show, with Barbie Ferreira as a guest.",
   "section": "gta-6"
  }
 ]

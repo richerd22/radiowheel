@@ -880,11 +880,139 @@
   "source": "Arca and Rosalía to host new radio show on Grand Theft Auto Online - DJ Mag - undated on page (Dec 2021 update cycle) - https://direct.djmag.com/news/arca-and-rosal-host-new-radio-show-grand-theft-auto-online"
  },
  {
-  "game": "GTA VI (2026)",
-  "station": "six stations previewed: Cocoteo FM, Back Country Radio, Afro Bank FM, The Chamber 106.6, Flash FM, Dirty South Classics",
-  "host_character": "hosts not yet named",
-  "voiced_by": "n/a",
-  "notes": "Rockstar also announced on-demand podcasts for Jason and Lucia.",
-  "source": "GTA 6 radio stations revealed... in-game podcasts - GamesRadar+ (Dustin Bailey) - 2026-10-08 - https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/"
+  "game": "Grand Theft Auto VI",
+  "station": "Cocoteo FM",
+  "host_character": "El Martillo",
+  "voiced_by": "Bad Bunny",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Cocoteo FM",
+  "host_character": "La Gata",
+  "voiced_by": "RaiNao",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Back Country Radio",
+  "host_character": "MW",
+  "voiced_by": "Morgan Wallen",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Back Country Radio",
+  "host_character": "Delta Dawne",
+  "voiced_by": "Lana Del Rey",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Back Country Radio",
+  "host_character": "Mud Dog Mike",
+  "voiced_by": "Jeremy Dufrene",
+  "notes": "Swamp meteorologist and roving reporter, on air from an airboat.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "AfroBank FM",
+  "host_character": "Burna",
+  "voiced_by": "Burna Boy",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "AfroBank FM",
+  "host_character": "Palmsy",
+  "voiced_by": "Palms Trax",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Chamber 106.6",
+  "host_character": "DJ Kerry",
+  "voiced_by": "Kerry King",
+  "notes": "Of Slayer.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Chamber 106.6",
+  "host_character": "DJ Tom",
+  "voiced_by": "Tom Araya",
+  "notes": "Of Slayer.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Flash FM",
+  "host_character": "Robyn",
+  "voiced_by": "Robyn",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Flash FM",
+  "host_character": "Alex",
+  "voiced_by": "Alex Consani",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Dirty South Classics",
+  "host_character": "Trick",
+  "voiced_by": "Trick Daddy",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Dirty South Classics",
+  "host_character": "Trina",
+  "voiced_by": "Trina",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Wipe",
+  "host_character": "Dr. Nita",
+  "voiced_by": "Anitta",
+  "notes": "Hosts Ask Dr. Nita.",
+  "source": "https://www.infobae.com/tecno/2026/11/18/anitta-debuta-en-gta-vi-como-la-dra-nita-en-un-podcast-exclusivo-sobre-relaciones-e-intimidad/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Vice City FM",
+  "host_character": "\"Weird Al\" Yankovic",
+  "voiced_by": "",
+  "notes": "Fan-credited.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_VI"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Stockyard FM",
+  "host_character": "PinkPantheress and The Dare",
+  "voiced_by": "",
+  "notes": "Fan-credited.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_VI"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Gloriana Blues Radio",
+  "host_character": "Buddy Guy",
+  "voiced_by": "",
+  "notes": "Fan-credited.",
+  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_VI"
  }
 ]

@@ -194,9 +194,9 @@ The critics split along the games' own line, local weirdness versus national pol
 - **PopMatters, 2013.** G. Christopher Williams called the ads and talk shows central to the series' satire, found the targets inconsistent, and suggested the wall of media noise may be the message. He also noted that the broadcasts often contain misogynistic, homophobic and anti-religious statements.[^talk-popmatters-2013]
 - **The Guardian (undated).** Aleks Krotoski called Lazlow's Chatterbox "Howard Stern-esque anarchy" and said a Chris Evans Virgin Radio stunt was "kid's play" by comparison.[^talk-guardian-krotoski]
 
-### Will GTA VI have talk radio?
+### Does GTA VI have talk radio?
 
-Yes, officially: on October 8, 2026, Rockstar's radio preview confirmed talk radio for GTA VI alongside six named stations, plus on-demand podcasts for Jason and Lucia playable in vehicles and on foot, a series first.[^talk-gamesradar-gta6-2026] No talk hosts were named in that coverage.[^talk-gamesradar-gta6-2026] Lazlow, asked in 2025 whether he would appear, said he doubted it.[^talk-gamesradar-2025] The rest of the GTA VI radio is covered in [GTA VI](/gta-6/).
+Yes, two stations of it. WKTT, the conservative talk station from GTA IV, is back, and a new one called The Wipe runs looser, podcast-style shows.[^six-keengamer-all-2026][^six-cultr-2026] The one show named so far is Ask Dr. Nita on The Wipe, an advice hour about sex and relationships voiced by the Brazilian singer Anitta.[^six-infobae-2026] GTA VI also adds five on-demand podcast series for Jason and Lucia, playable in a car or on foot, a series first.[^talk-gamesradar-gta6-2026][^six-vgc-podcasts-2026] Lazlow, asked in 2025 whether he would appear, said he doubted it, and no launch-day list has him.[^talk-gamesradar-2025][^six-keengamer-all-2026] The shows and podcasts are listed in [GTA VI](/gta-6/).
 
 [[MODULE:hosts]]
 

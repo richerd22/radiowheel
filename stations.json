@@ -1556,7 +1556,7 @@
   "station": "AfroBank FM",
   "genre": "African classics, amapiano, 3-step",
   "host": "Burna (Burna Boy) and Palmsy (Palms Trax)",
-  "songs": 0,
+  "songs": 9,
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta6-afrobank-fm/"
@@ -1566,8 +1566,8 @@
   "game_key": "gta6",
   "station": "Back Country Radio",
   "genre": "Renegade country",
-  "host": "MW (Morgan Wallen) and Delta Dawne (Lana Del Rey)",
-  "songs": 0,
+  "host": "MW (Morgan Wallen) and Delta Dawne (Lana Del Rey), with Mud Dog Mike (Jeremy Dufrene)",
+  "songs": 9,
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta6-back-country-radio/"
@@ -1575,10 +1575,21 @@
  {
   "game": "Grand Theft Auto VI",
   "game_key": "gta6",
+  "station": "CircoLoco Records Radio",
+  "genre": "House and techno",
+  "host": "",
+  "songs": 4,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-circoloco-records-radio/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
   "station": "Cocoteo FM",
   "genre": "Modern Latin: bachata, merengue, dembow, reggaeton",
   "host": "El Martillo (Bad Bunny) and La Gata (RaiNao)",
-  "songs": 0,
+  "songs": 16,
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta6-cocoteo-fm/"
@@ -1589,7 +1600,7 @@
   "station": "Dirty South Classics",
   "genre": "Regional rap",
   "host": "Trick (Trick Daddy) and Trina",
-  "songs": 0,
+  "songs": 19,
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta6-dirty-south-classics/"
@@ -1597,10 +1608,21 @@
  {
   "game": "Grand Theft Auto VI",
   "game_key": "gta6",
+  "station": "Emotion 98.3",
+  "genre": "Soft rock and ballads",
+  "host": "",
+  "songs": 15,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-emotion-98-3/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
   "station": "Flash FM",
   "genre": "Pop and dance",
   "host": "Robyn and Alex (Alex Consani)",
-  "songs": 0,
+  "songs": 59,
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta6-flash-fm/"
@@ -1608,12 +1630,166 @@
  {
   "game": "Grand Theft Auto VI",
   "game_key": "gta6",
+  "station": "Gloriana Blues Radio",
+  "genre": "Gospel blues to Chicago electric blues",
+  "host": "Buddy Guy",
+  "songs": 10,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-gloriana-blues-radio/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Honey FM",
+  "genre": "1990s and 2000s R&B and soul",
+  "host": "",
+  "songs": 14,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-honey-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Kaleidoscope FM",
+  "genre": "International pop",
+  "host": "",
+  "songs": 6,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-kaleidoscope-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Leonida Jazz Radio",
+  "genre": "Jazz fusion",
+  "host": "",
+  "songs": 5,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-leonida-jazz-radio/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Radio La Ola",
+  "genre": "Classic Latin and salsa",
+  "host": "",
+  "songs": 15,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-radio-la-ola/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Radio On-U",
+  "genre": "Reggae, dub and lovers rock",
+  "host": "",
+  "songs": 6,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-radio-on-u/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Stockyard FM",
+  "genre": "Indie dance and electronic",
+  "host": "PinkPantheress and The Dare",
+  "songs": 20,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-stockyard-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Symphony FM",
+  "genre": "Classical",
+  "host": "",
+  "songs": 7,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-symphony-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
   "station": "The Chamber 106.6",
   "genre": "Metal from the 1980s on",
   "host": "DJ Kerry (Kerry King) and DJ Tom (Tom Araya) of Slayer",
-  "songs": 0,
+  "songs": 14,
   "removed": 0,
   "talk": false,
   "url": "https://radiowheel.cold.fyi/stations/gta6-the-chamber-106-6/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "The Wipe",
+  "genre": "Talk",
+  "host": "Dr. Nita",
+  "songs": 0,
+  "removed": 0,
+  "talk": true,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-the-wipe/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "V-Rock",
+  "genre": "Classic and hard rock",
+  "host": "",
+  "songs": 24,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-v-rock/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "VCRR",
+  "genre": "Modern hip-hop",
+  "host": "",
+  "songs": 34,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-vcrr/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Vice City FM",
+  "genre": "1980s new wave and pop",
+  "host": "\"Weird Al\" Yankovic",
+  "songs": 28,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-vice-city-fm/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "WKTT",
+  "genre": "Conservative talk",
+  "host": "",
+  "songs": 0,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-wktt/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "game_key": "gta6",
+  "station": "Worldwide FM",
+  "genre": "Global club, house and jazz",
+  "host": "",
+  "songs": 11,
+  "removed": 0,
+  "talk": false,
+  "url": "https://radiowheel.cold.fyi/stations/gta6-worldwide-fm/"
  }
 ]

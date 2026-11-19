@@ -99,7 +99,7 @@ That works out to about 5 million between July and September 2026 - subtraction 
 
 ### How does GTA VI's commissioned album change the equation?
 
-GTA VI launches on November 19, 2026, on PlayStation 5 and Xbox Series X|S.[^lic-taketwo-2026] Beside its radio it has GTA VI: The Album, 34 original tracks made with Atlantic Records and announced September 17, 2026, including Keith Richards' cover of Jimmy Reed's "Bright Lights, Big City."[^lic-mbw-2026][^fc-ucr-2026] Justice are composing the original score, and six stations with artist hosts were named on October 8, 2026.[^lic-stereogum-2026][^lic-keengamer-2026] All three are covered in [GTA VI](/gta-6/).
+GTA VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X|S.[^lic-taketwo-2026][^six-keengamer-all-2026] Beside its radio it has GTA VI: The Album, 34 original tracks made with Atlantic Records and announced September 17, 2026, including Keith Richards' cover of Jimmy Reed's "Bright Lights, Big City."[^lic-mbw-2026][^fc-ucr-2026] Justice composed the original score, and the game shipped with 22 radio stations, six of them with artist hosts named in advance.[^lic-stereogum-2026][^lic-keengamer-2026][^six-keengamer-all-2026] All three are covered in [GTA VI](/gta-6/).
 
 What changes is the starting point. Licensed radio rents songs that already exist; a commissioned album and score are music made for the game. The open questions matter more: who owns the album's masters, what terms cover the stations' licensed tracks, and whether anything is perpetual. The Heaven 17 account suggests at least some GTA VI approaches were buyouts, and that is one artist's word.[^lic-mixmag-2024] A cover like the Keith Richards track still involves someone else's composition.
 

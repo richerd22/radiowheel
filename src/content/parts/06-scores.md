@@ -62,13 +62,13 @@ On December 15, 2023, around The Chop Shop update, Rockstar put *DāM-FunK Prese
 
 The lineup reads like a club booking more than a composer roster, which fits the rest of GTA Online's music, covered at /online/.
 
-### Who is composing the GTA VI score?
+### Who composed the GTA VI score?
 
 Justice. Rockstar named the duo as composers of GTA VI's original score on October 15, 2026, the same day it released the Launch Trailer.[^scr-stereogum-2026] That trailer's song, Justice's "Flower in a Hurricane" with Tame Impala, SZA and King Gizzard & The Lizard Wizard, belongs to *Grand Theft Auto VI: The Album*, the separate 34-track record made with Atlantic Records (see /gta-6/), not the score.[^scr-stereogum-2026][^scr-mbw-2026]
 
-The score has its own release track. On October 29, 2026, Justice released "Pusher", a song from the original score, and a 30-track score album is due December 11, 2026.[^scr-gameinformer-2026] Rockstar counts that as 30 main songs plus digital bonus tracks, and "Pusher" features Gesaffelstein - a featured artist, not a credited co-composer.[^gf-b-complex-2026] The game itself is due November 19, 2026 on PlayStation 5 and Xbox Series X|S.[^scr-gameinformer-2026]
+The score has its own release track. On October 29, 2026, Justice released "Pusher", a song from the original score, and a 30-track score album is due December 11, 2026.[^scr-gameinformer-2026] Rockstar counts that as 30 main songs plus digital bonus tracks, and "Pusher" features Gesaffelstein - a featured artist, not a credited co-composer.[^gf-b-complex-2026] The game itself came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S.[^six-keengamer-all-2026]
 
-Rockstar has described its plans as "the next evolution of the pioneering in-game radio stations, dynamic score, and musical touchpoints".[^scr-mbw-2026] As of mid-November 2026 it has not said how Justice's music is wired into play, how long it runs, or who else composed it.
+Rockstar has described its plans as "the next evolution of the pioneering in-game radio stations, dynamic score, and musical touchpoints".[^scr-mbw-2026] It calls the score adaptive, with compositions "dynamically tuned to the different ways players engage with the world."[^six-inven-score-2026] It has not said how long the score runs or who else wrote for it.
 
 ### Which Rockstar games have original scores?
 
@@ -82,6 +82,6 @@ Rockstar has described its plans as "the next evolution of the pioneering in-gam
 | Red Dead Redemption 2 | 2018 | Woody Jackson; vocals produced by Daniel Lanois | About 60 hours recorded, up to 15 stems[^scr-mix-2019] | Score album August 9, 2019 (digital) |
 | GTA Online: Los Santos Drug Wars | 2022 | Soulwax, Nick Hook | Four to eight stems per track[^scr-gtawiki-drugwars] | - |
 | GTA Online | 2023 | DāM-FunK and contributors | Update-by-update score | December 15, 2023 (streaming)[^scr-rockstarintel-2023] |
-| GTA VI | 2026 | Justice | Not yet described officially | Score album due December 11, 2026 (reported)[^scr-gameinformer-2026] |
+| GTA VI | 2026 | Justice | Adaptive, by Rockstar's description[^six-inven-score-2026] | Score album due December 11, 2026[^scr-gameinformer-2026] |
 
 L.A. Noire and Bully had scores too. Andrew Hale composed L.A. Noire's, and its soundtrack album, recorded at Abbey Road Studios, was set to arrive with the game on May 17, 2011, alongside a Verve Records remix album, *L.A. Noire: Remixed*.[^gf-b-gamesradar-2011] Shawn Lee scored Bully.[^gf-b-gamespot-bully]

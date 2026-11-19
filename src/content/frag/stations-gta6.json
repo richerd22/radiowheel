@@ -11,8 +11,8 @@
   "game": "Grand Theft Auto VI",
   "station": "Back Country Radio",
   "genre": "Renegade country",
-  "host": "MW (Morgan Wallen) and Delta Dawne (Lana Del Rey)",
-  "notes": "",
+  "host": "MW (Morgan Wallen) and Delta Dawne (Lana Del Rey), with Mud Dog Mike (Jeremy Dufrene)",
+  "notes": "Mud Dog Mike files weather reports from an airboat in the Grassrivers.",
   "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
  },
  {
@@ -36,7 +36,7 @@
   "station": "Flash FM",
   "genre": "Pop and dance",
   "host": "Robyn and Alex (Alex Consani)",
-  "notes": "",
+  "notes": "Back from GTA Vice City.",
   "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
  },
  {
@@ -46,5 +46,133 @@
   "host": "Trick (Trick Daddy) and Trina",
   "notes": "",
   "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Vice City FM",
+  "genre": "1980s new wave and pop",
+  "host": "",
+  "notes": "Back from GTA IV: The Ballad of Gay Tony. A fan wiki lists \"Weird Al\" Yankovic as host; no press list names one.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "V-Rock",
+  "genre": "Classic and hard rock",
+  "host": "",
+  "notes": "Back from GTA Vice City, vulture logo included.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Emotion 98.3",
+  "genre": "Soft rock and ballads",
+  "host": "",
+  "notes": "Back from GTA Vice City.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "VCRR",
+  "genre": "Modern hip-hop",
+  "host": "",
+  "notes": "Short for Vice City Rap Radio.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Honey FM",
+  "genre": "1990s and 2000s R&B and soul",
+  "host": "",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Stockyard FM",
+  "genre": "Indie dance and electronic",
+  "host": "",
+  "notes": "A fan wiki lists PinkPantheress and The Dare as hosts; no press list names any.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Worldwide FM",
+  "genre": "Global club, house and jazz",
+  "host": "",
+  "notes": "Back from GTA V and GTA Online.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "CircoLoco Records Radio",
+  "genre": "House and techno",
+  "host": "",
+  "notes": "Named for the label Rockstar runs with CircoLoco.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Kaleidoscope FM",
+  "genre": "International pop",
+  "host": "",
+  "notes": "A station called Kaleidoscope first aired in GTA London 1969.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Radio La Ola",
+  "genre": "Classic Latin and salsa",
+  "host": "",
+  "notes": "Also listed as La Ola.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Radio On-U",
+  "genre": "Reggae, dub and lovers rock",
+  "host": "",
+  "notes": "Named after Adrian Sherwood's On-U Sound label.",
+  "source": "https://www.cultr.com/news/tuning-in-to-leonida-every-radio-station-in-gta-vi-gta-6/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Gloriana Blues Radio",
+  "genre": "Gospel blues to Chicago electric blues",
+  "host": "",
+  "notes": "A fan wiki lists Buddy Guy as host; no press list names one.",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Leonida Jazz Radio",
+  "genre": "Jazz fusion",
+  "host": "",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Symphony FM",
+  "genre": "Classical",
+  "host": "",
+  "notes": "",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "WKTT",
+  "genre": "Conservative talk",
+  "host": "",
+  "notes": "Back from GTA IV. The letters stand for We Know The Truth.",
+  "source": "https://www.cultr.com/news/tuning-in-to-leonida-every-radio-station-in-gta-vi-gta-6/"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Wipe",
+  "genre": "Talk",
+  "host": "",
+  "notes": "Podcast-style talk. Carries Ask Dr. Nita.",
+  "source": "https://www.cultr.com/news/tuning-in-to-leonida-every-radio-station-in-gta-vi-gta-6/"
  }
 ]

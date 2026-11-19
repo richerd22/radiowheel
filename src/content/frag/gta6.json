@@ -45,14 +45,14 @@
   "date": "2026-08-27",
   "item": "14 radio station names in leaked footage",
   "status": "leak",
-  "detail": "Back Country Radio, The Chamber 106.6, CircoLoco Records Radio, Cocoteo FM, Dirty South Classics, Emotion 98.3, Kaleidoscope FM, La Ola, Radio ON-U, Stockyard FM, Symphony FM, The Wipe, Worldwide FM, V-Rock. Kotaku pulled the list together from leaked videos fans shared. Four were confirmed on October 8, 2026.",
+  "detail": "Back Country Radio, The Chamber 106.6, CircoLoco Records Radio, Cocoteo FM, Dirty South Classics, Emotion 98.3, Kaleidoscope FM, La Ola, Radio ON-U, Stockyard FM, Symphony FM, The Wipe, Worldwide FM, V-Rock. Kotaku pulled the list together from leaked videos fans shared. Four were confirmed on October 8, 2026, and all 14 are in the launch-day station lists.",
   "source": "Netzwelt, 2026-08-27, https://www.netzwelt.de/news/257866-gta-6-fan-leaks-zeigen-songs-radiosenderfolgt-heute-abend-bestaetigung.html"
  },
  {
   "date": "2026-08-27",
   "item": "The Extended Look premieres on Netflix",
   "status": "official",
-  "detail": "A preview of about 26 minutes. Reported songs include Jayda G & Aluna 'Mine O Mine', Depeche Mode 'People Are People' and Elderbrook & Bob Moses 'Inner Light'. None is confirmed as an in-game radio song.",
+  "detail": "A preview of about 26 minutes. Reported songs include Jayda G & Aluna 'Mine O Mine', Depeche Mode 'People Are People' and Elderbrook & Bob Moses 'Inner Light'. Launch-day lists put 'People Are People' on Vice City FM and 'Mine O' Mine' on Flash FM.",
   "source": "DJ Mag, 2026-08-28, https://djmag.com/news/watch-new-gta-6-trailer-featuring-music-jayda-g-aluna-depeche-mode-more; date per Red Bull 2026-09-24"
  },
  {
@@ -80,7 +80,7 @@
   "date": "2026-10-05",
   "item": "Spotify glitch shows Cardi B and Fuerza Regida",
   "status": "leak",
-  "detail": "The album page briefly listed Cardi B at track 19 and Fuerza Regida at track 10, with no titles, then dropped them. Unconfirmed.",
+  "detail": "The album page briefly listed Cardi B at track 19 and Fuerza Regida at track 10, with no titles, then dropped them. Both slots match the official tracklist of November 17.",
   "source": "All Things How, updated 2026-10-05, https://allthings.how/gta-6-album-spotify-leak-names-cardi-b-and-fuerza-regida-for-two-tracks/"
  },
  {
@@ -115,21 +115,70 @@
   "date": "2026-11-14",
   "item": "Full 34-track album list leaked",
   "status": "leak",
-  "detail": "Shared in an X post by an unnamed leaker. Adds Playboi Carti, Dua Lipa, Young Thug, Cardi B, JENNIE, Zara Larsson, Camila Cabello, Lana Del Rey (as artist) and others. It matches the seven official tracks and the Spotify-glitch slots, but neither Rockstar nor Atlantic has confirmed it.",
+  "detail": "A photo said to show the back of a vinyl edition, shared on X. It adds Playboi Carti, Dua Lipa, Young Thug, Cardi B, JENNIE, Zara Larsson, Camila Cabello, Lana Del Rey (as artist) and others. Rockstar published the same 34 tracks three days later.",
   "source": "Omelete, updated after 2026-11-14, https://www.omelete.com.br/games/gta-6-o-album-veja-tracklist-completa"
  },
  {
   "date": "2026-11-15",
   "item": "Viral post on album artists and vinyl",
   "status": "rumour",
-  "detail": "Mixes official facts (Rockstar/Atlantic, 34 songs, Travis Scott, Future, Tame Impala, SZA) with leak-only names (Dua Lipa, Carti, JENNIE, Cardi B, Cabello, Larsson, Young Thug) and passes off the September vinyl sellout as new. The original post has not surfaced.",
+  "detail": "Mixes official facts (Rockstar/Atlantic, 34 songs, Travis Scott, Future, Tame Impala, SZA) with leak-only names (Dua Lipa, Carti, JENNIE, Cardi B, Cabello, Larsson, Young Thug) and passes off the September vinyl sellout as new. Every name in it was on the official tracklist two days later.",
   "source": "Cross-check of MBW 2026-09-17, Stereogum 2026-10-15, Omelete, GTA Intel 2026-09-17"
  },
  {
   "date": "2026-11-19",
-  "item": "GTA VI and The Album (digital) release",
+  "item": "GTA VI and The Album released",
   "status": "official",
-  "detail": "Game on PS5 and Xbox Series X|S; album same day. Physical album editions ship November 20 (GTABase lists the album as November 20).",
-  "source": "Engadget 2025-11-06; MBW 2026-09-17; GTA Intel 2026-09-17"
+  "detail": "Game on PS5 and Xbox Series X|S; the 34-track album on streaming the same day. Vinyl and CD ship November 20.",
+  "source": "KeenGamer (Rafly Wibowo), 2026-11-19, https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "date": "2026-10-29",
+  "item": "Original Score album announced; 'Pusher' released",
+  "status": "official",
+  "detail": "Grand Theft Auto VI: Original Score, by Justice: 30 tracks plus digital bonus tracks, on streaming, CD and vinyl, due December 11, 2026. New single 'Pusher' features Gesaffelstein. Rockstar calls the score adaptive.",
+  "source": "Inven Global (John Popko), 2026-10-29, https://www.invenglobal.com/articles/27899/justices-gta-vi-original-score-arrives-december-11th-with-new-gesaffelstein-single"
+ },
+ {
+  "date": "2026-11-17",
+  "item": "Official 34-track album list published",
+  "status": "official",
+  "detail": "Rockstar released the full tracklist, opening with Justice feat. Michael McDonald 'Starting from Zero' and closing with Stanley Clarke, Yussef Dayes and Robert Glasper 'Overtown Lights'. It matches the list that leaked on November 14.",
+  "source": "Complex (Dimas Sanfiorenzo), 2026-11-18, https://www.complex.com/music/a/dimassanfiorenzo/grand-theft-auto-vi-album-tracklist-features"
+ },
+ {
+  "date": "2026-11-18",
+  "item": "Anitta revealed as Dr. Nita",
+  "status": "reported",
+  "detail": "A clip released by Brazilian outlet VOXL shows Ask Dr. Nita, an advice show on talk station The Wipe, voiced by Anitta with Barbie Ferreira as a guest.",
+  "source": "Infobae, 2026-11-18, https://www.infobae.com/tecno/2026/11/18/anitta-debuta-en-gta-vi-como-la-dra-nita-en-un-podcast-exclusivo-sobre-relaciones-e-intimidad/"
+ },
+ {
+  "date": "2026-11-19",
+  "item": "22 radio stations at launch",
+  "status": "reported",
+  "detail": "Press lists on launch day count 22 stations: 20 music and two talk (WKTT and The Wipe). KeenGamer logs 249 songs; GameRant lists more on several stations. Rockstar has not published full playlists.",
+  "source": "KeenGamer (Rafly Wibowo), 2026-11-19, https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+ },
+ {
+  "date": "2026-11-19",
+  "item": "Five on-demand podcast series",
+  "status": "reported",
+  "detail": "F*ck, Marry, Murder; The Safe Trip; Vice City True Stories; Drunk Kings; Final Act. A few are unlocked from the start and more episodes open as the story goes on.",
+  "source": "VGC (Jordan Middler), 2026-11-19, https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+ },
+ {
+  "date": "2026-11-21",
+  "item": "Grand Theft Auto VI: The Festival",
+  "status": "official",
+  "detail": "At Mana Wynwood, Miami. Complex lists Travis Scott, Kodak Black, Cardi B, Don Toliver and Justice as performers; tickets went by lottery.",
+  "source": "Complex (Dimas Sanfiorenzo), 2026-11-18, https://www.complex.com/music/a/dimassanfiorenzo/grand-theft-auto-vi-album-tracklist-features"
+ },
+ {
+  "date": "2026-12-11",
+  "item": "Original Score album due",
+  "status": "official",
+  "detail": "Justice's 30-track score album, three weeks after the game.",
+  "source": "Inven Global (John Popko), 2026-10-29, https://www.invenglobal.com/articles/27899/justices-gta-vi-original-score-arrives-december-11th-with-new-gesaffelstein-single"
  }
 ]

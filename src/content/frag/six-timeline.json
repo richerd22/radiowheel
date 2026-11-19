@@ -65,15 +65,36 @@
  {
   "date": "2026-11-14",
   "label": "Full album tracklist leaks",
-  "detail": "A 34-track list shared on X, leaker unnamed, reported by Omelete; unconfirmed by Rockstar or Atlantic.",
+  "detail": "A 34-track list surfaces on X. Rockstar publishes the same tracklist three days later.",
   "source_url": "https://www.omelete.com.br/games/gta-6-o-album-veja-tracklist-completa",
   "era": "2020-now"
  },
  {
   "date": "2026-11-19",
-  "label": "GTA VI and The Album release",
-  "detail": "Scheduled launch on PS5 and Xbox Series X|S, with the album the same day; physical editions ship November 20.",
-  "source_url": "https://www.engadget.com/gaming/grand-theft-auto-vi-is-delayed-to-november-19-2026-211848530.html",
+  "label": "GTA VI and The Album released",
+  "detail": "Out on PS5 and Xbox Series X|S with 22 radio stations and five podcast series; the 34-track album lands the same day.",
+  "source_url": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/",
+  "era": "2020-now"
+ },
+ {
+  "date": "2026-11-17",
+  "label": "Official album tracklist",
+  "detail": "Rockstar publishes all 34 tracks of GTA VI: The Album.",
+  "source_url": "https://www.complex.com/music/a/dimassanfiorenzo/grand-theft-auto-vi-album-tracklist-features",
+  "era": "2020-now"
+ },
+ {
+  "date": "2026-11-21",
+  "label": "Grand Theft Auto VI: The Festival",
+  "detail": "One night at Mana Wynwood, Miami, with Travis Scott, Kodak Black, Cardi B, Don Toliver and Justice billed.",
+  "source_url": "https://www.complex.com/music/a/dimassanfiorenzo/grand-theft-auto-vi-album-tracklist-features",
+  "era": "2020-now"
+ },
+ {
+  "date": "2026-12-11",
+  "label": "Original Score album due",
+  "detail": "Justice's 30-track score for GTA VI, three weeks after the game.",
+  "source_url": "https://www.invenglobal.com/articles/27899/justices-gta-vi-original-score-arrives-december-11th-with-new-gesaffelstein-single",
   "era": "2020-now"
  }
 ]

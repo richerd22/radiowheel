@@ -142,9 +142,9 @@ After that the trail goes cold. The release posts from CRL 004 through CRL 019 n
 
 Nothing on record ties them together. The Music Locker is the club under The Diamond Casino added with The Cayo Perico Heist in December 2020, with Moodymann, Keinemusik and Palms Trax as residents - five months before the label was announced.[^clr-djmag-2020] The overlap is artists, not paperwork: at the label's launch, GTA Online's nightclubs already featured CircoLoco alumni such as The Blessed Madonna, Dixon and Solomun, and Moodymann later turned up on the *Monday Dreamin'* Green EP.[^clr-gamesradar-2021][^clr-edmtunes-2021] Shared DJs don't make it a CircoLoco Records room.
 
-### Will GTA VI have a CircoLoco Records radio station?
+### Does GTA VI have a CircoLoco Records radio station?
 
-Not as of Rockstar's own announcements. On August 28, 2026, We Rave You reported a leak: a clip said to come from an unfinished GTA VI build shows a station called "CircoLoco Records Radio".[^clr-weraveyou-2026-leak] We Rave You could not name the clip's source, and neither Rockstar nor CircoLoco had confirmed it.[^clr-weraveyou-2026-leak] GTAbase has a "CircoLoco Records Radio" page for GTA VI written as if the station were settled, but it cites no primary source and names no tracks.[^clr-gtabase-gta6]
+Yes. CircoLoco Records Radio is one of the 22 stations in the game at launch, playing house and techno.[^six-keengamer-all-2026][^six-cultr-2026] The first songs logged on it are Skream's "Floral," Michael Bibi's "Rhythm of the Night" and Mind Against's "Let It Go"; GameRant adds "Deep N Sexy" by Rossi. and Demi.[^six-keengamer-all-2026][^six-gamerant-2026] No host has been named.
 
-Rockstar's reveal of six stations on October 8, 2026 did not include a CircoLoco station.[^clr-gamesradar-2026] The [GTA VI section](/gta-6/) has the official list and the full leaked list. As of November 2026 the station is a leak Rockstar has neither announced nor denied.
+The station was a leak first. On August 28, 2026, We Rave You reported a clip, said to come from an unfinished build, showing the name; neither Rockstar nor CircoLoco confirmed it, and Rockstar's reveal of six stations on October 8 left it out.[^clr-weraveyou-2026-leak][^clr-gamesradar-2026] It took the game coming out to settle it. The full dial is in the [GTA VI section](/gta-6/), and the songs are on the [station's page](/stations/gta6-circoloco-records-radio/).
 
