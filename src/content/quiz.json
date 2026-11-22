@@ -216,15 +216,15 @@
   "section": "gta-6"
  },
  {
-  "q": "How many radio stations did launch-day lists count in GTA VI?",
+  "q": "How many radio stations does GTA VI have, by Rockstar's credits?",
   "options": [
    "14",
    "18",
-   "22",
+   "23",
    "30"
   ],
   "answer": 2,
-  "why": "Twenty music stations and two talk stations, WKTT and The Wipe. Rockstar had announced six of them in October.",
+  "why": "Twenty-one music stations and two talk stations. Launch-day press lists had 22; the credits add The Vault Radio.",
   "section": "gta-6"
  },
  {
@@ -249,6 +249,30 @@
   ],
   "answer": 1,
   "why": "The Brazilian singer Anitta hosts Ask Dr. Nita, an advice show, with Barbie Ferreira as a guest.",
+  "section": "gta-6"
+ },
+ {
+  "q": "Which two guitarists share the blues station in GTA VI?",
+  "options": [
+   "Keith Richards and Buddy Guy",
+   "Eric Clapton and Gary Clark Jr.",
+   "Jack White and Billy Gibbons",
+   "John Mayer and Bonnie Raitt"
+  ],
+  "answer": 0,
+  "why": "Gloriana Blues Radio is hosted by DJ Keith and DJ Buddy, played by Keith Richards and Buddy Guy.",
+  "section": "gta-6"
+ },
+ {
+  "q": "Who is credited with GTA VI's additional score, alongside Justice's main score?",
+  "options": [
+   "Tangerine Dream",
+   "Overmono",
+   "Health",
+   "Daft Punk"
+  ],
+  "answer": 1,
+  "why": "The credits give the main score to Justice, additional score to Overmono and a supplemental score to 17 more acts.",
   "section": "gta-6"
  }
 ]

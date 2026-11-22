@@ -144,7 +144,7 @@ Nothing on record ties them together. The Music Locker is the club under The Dia
 
 ### Does GTA VI have a CircoLoco Records radio station?
 
-Yes. CircoLoco Records Radio is one of the 22 stations in the game at launch, playing house and techno.[^six-keengamer-all-2026][^six-cultr-2026] The first songs logged on it are Skream's "Floral," Michael Bibi's "Rhythm of the Night" and Mind Against's "Let It Go"; GameRant adds "Deep N Sexy" by Rossi. and Demi.[^six-keengamer-all-2026][^six-gamerant-2026] No host has been named.
+Yes. CircoLoco Records Radio is one of the 23 stations in the game, playing house and techno.[^six-credits-2026] It is hosted by Seth Troxler and Antonio Carbonaro, as DJ Seth and DJ Antonio.[^six-credits-2026] The credits list 27 songs on it, including Skream's "Floral," Michael Bibi's "Rhythm of the Night," Mind Against's "Let It Go" and Troxler's own "Bootlicker," and Skream is credited with the station's ident music.[^six-credits-2026]
 
 The station was a leak first. On August 28, 2026, We Rave You reported a clip, said to come from an unfinished build, showing the name; neither Rockstar nor CircoLoco confirmed it, and Rockstar's reveal of six stations on October 8 left it out.[^clr-weraveyou-2026-leak][^clr-gamesradar-2026] It took the game coming out to settle it. The full dial is in the [GTA VI section](/gta-6/), and the songs are on the [station's page](/stations/gta6-circoloco-records-radio/).
 

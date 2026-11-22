@@ -881,11 +881,27 @@
  },
  {
   "game": "Grand Theft Auto VI",
+  "station": "Flash FM",
+  "host_character": "Robyn",
+  "voiced_by": "Robyn",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Flash FM",
+  "host_character": "Alex Consani",
+  "voiced_by": "Alex Consani",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
   "station": "Cocoteo FM",
   "host_character": "El Martillo",
   "voiced_by": "Bad Bunny",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "notes": "Bad Bunny is also credited in the cast as Mitico Mario.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -893,7 +909,7 @@
   "host_character": "La Gata",
   "voiced_by": "RaiNao",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -901,7 +917,7 @@
   "host_character": "MW",
   "voiced_by": "Morgan Wallen",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -909,7 +925,7 @@
   "host_character": "Delta Dawne",
   "voiced_by": "Lana Del Rey",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -917,7 +933,7 @@
   "host_character": "Mud Dog Mike",
   "voiced_by": "Jeremy Dufrene",
   "notes": "Swamp meteorologist and roving reporter, on air from an airboat.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -925,15 +941,15 @@
   "host_character": "Burna",
   "voiced_by": "Burna Boy",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "AfroBank FM",
   "host_character": "Palmsy",
-  "voiced_by": "Palms Trax",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "voiced_by": "Jay Donaldson",
+  "notes": "Records as Palms Trax, the name Rockstar announced him under.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -941,7 +957,7 @@
   "host_character": "DJ Kerry",
   "voiced_by": "Kerry King",
   "notes": "Of Slayer.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -949,31 +965,15 @@
   "host_character": "DJ Tom",
   "voiced_by": "Tom Araya",
   "notes": "Of Slayer.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "Flash FM",
-  "host_character": "Robyn",
-  "voiced_by": "Robyn",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
- },
- {
-  "game": "Grand Theft Auto VI",
-  "station": "Flash FM",
-  "host_character": "Alex",
-  "voiced_by": "Alex Consani",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
- },
- {
-  "game": "Grand Theft Auto VI",
-  "station": "Dirty South Classics",
-  "host_character": "Trick",
-  "voiced_by": "Trick Daddy",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "station": "The Chamber 106.6",
+  "host_character": "Big Fan Brian",
+  "voiced_by": "Brian Posehn",
+  "notes": "Posehn is also credited with additional writing.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -981,7 +981,247 @@
   "host_character": "Trina",
   "voiced_by": "Trina",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Dirty South Classics",
+  "host_character": "Trick Daddy",
+  "voiced_by": "Trick Daddy",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Dirty South Classics",
+  "host_character": "Gucci Mane",
+  "voiced_by": "Gucci Mane",
+  "notes": "Hosts The Tap In.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Vice City FM",
+  "host_character": "DJ Al",
+  "voiced_by": "\"Weird Al\" Yankovic",
+  "notes": "Also credited with additional writing and radio-ad music.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Vice City FM",
+  "host_character": "Madame Brigitte",
+  "voiced_by": "Brigitte Nielsen",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "V-Rock",
+  "host_character": "The Buck",
+  "voiced_by": "Lindsey Buckingham",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "V-Rock",
+  "host_character": "Skipper McD",
+  "voiced_by": "Michael McDonald",
+  "notes": "Also sings on Justice's score track \"Starting From Zero.\"",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Emotion 98.3",
+  "host_character": "Doug Van Dyke",
+  "voiced_by": "Doug Stanhope",
+  "notes": "Also credited with additional writing.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "VCRR",
+  "host_character": "DJ JT",
+  "voiced_by": "JT",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "VCRR",
+  "host_character": "DJ Stevie",
+  "voiced_by": "DJ Stevie J",
+  "notes": "Also has his own 24-song mix.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "VCRR",
+  "host_character": "Charlamagne",
+  "voiced_by": "Charlamagne tha God",
+  "notes": "Co-hosts Early AF.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "VCRR",
+  "host_character": "Ivy",
+  "voiced_by": "Ivy Rivera",
+  "notes": "Co-hosts Early AF.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Honey FM",
+  "host_character": "Chilli",
+  "voiced_by": "Chilli",
+  "notes": "Of TLC.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Honey FM",
+  "host_character": "T-Boz",
+  "voiced_by": "T-Boz",
+  "notes": "Of TLC.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Honey FM",
+  "host_character": "Liquid Wilson",
+  "voiced_by": "Craig Robinson",
+  "notes": "Hosts Liquid City.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Stockyard FM",
+  "host_character": "Harrison",
+  "voiced_by": "The Dare",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Stockyard FM",
+  "host_character": "Victoria",
+  "voiced_by": "PinkPantheress",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Worldwide FM",
+  "host_character": "Gilles Peterson",
+  "voiced_by": "Gilles Peterson",
+  "notes": "Hosted the same station in GTA V.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "CircoLoco Records Radio",
+  "host_character": "DJ Seth",
+  "voiced_by": "Seth Troxler",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "CircoLoco Records Radio",
+  "host_character": "DJ Antonio",
+  "voiced_by": "Antonio Carbonaro",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Kaleidoscope FM",
+  "host_character": "DJ Dicky",
+  "voiced_by": "Jeremy Irons",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Radio La Ola",
+  "host_character": "Emilio",
+  "voiced_by": "Emilio Estefan",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Radio La Ola",
+  "host_character": "Gloria",
+  "voiced_by": "Gloria Estefan",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Radio On-U",
+  "host_character": "Adrian Sherwood",
+  "voiced_by": "Adrian Sherwood",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Gloriana Blues Radio",
+  "host_character": "DJ Buddy",
+  "voiced_by": "Buddy Guy",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Gloriana Blues Radio",
+  "host_character": "DJ Keith",
+  "voiced_by": "Keith Richards",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Leonida Jazz Radio",
+  "host_character": "DJ Randy",
+  "voiced_by": "Randy Brecker",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Leonida Jazz Radio",
+  "host_character": "DJ Stanley",
+  "voiced_by": "Stanley Clarke",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Leonida Jazz Radio",
+  "host_character": "Yussef Dayes",
+  "voiced_by": "Yussef Dayes",
+  "notes": "Hosts The Nook.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Symphony FM",
+  "host_character": "Yuja",
+  "voiced_by": "Yuja Wang",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Vault Radio",
+  "host_character": "DJ Pretzel",
+  "voiced_by": "DJ Pretzel",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -989,30 +1229,46 @@
   "host_character": "Dr. Nita",
   "voiced_by": "Anitta",
   "notes": "Hosts Ask Dr. Nita.",
-  "source": "https://www.infobae.com/tecno/2026/11/18/anitta-debuta-en-gta-vi-como-la-dra-nita-en-un-podcast-exclusivo-sobre-relaciones-e-intimidad/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "Vice City FM",
-  "host_character": "\"Weird Al\" Yankovic",
-  "voiced_by": "",
-  "notes": "Fan-credited.",
-  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_VI"
+  "station": "The Wipe",
+  "host_character": "Enrique \"El Enigma\" Romero",
+  "voiced_by": "John Leguizamo",
+  "notes": "Hosts El Otro Lado.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "Stockyard FM",
-  "host_character": "PinkPantheress and The Dare",
-  "voiced_by": "",
-  "notes": "Fan-credited.",
-  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_VI"
+  "station": "The Wipe",
+  "host_character": "Tish",
+  "voiced_by": "Janelle James",
+  "notes": "Hosts She Got Assets. James is also credited with additional writing.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "Gloriana Blues Radio",
-  "host_character": "Buddy Guy",
-  "voiced_by": "",
-  "notes": "Fan-credited.",
-  "source": "https://gta.wiki/w/Radio_Stations_in_GTA_VI"
+  "station": "WKTT",
+  "host_character": "Richard Bastion",
+  "voiced_by": "Jason Sudeikis",
+  "notes": "Hosts The Richard Bastion Show.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "WKTT",
+  "host_character": "Dominic \"The Brick\" Brizzolato",
+  "voiced_by": "Stavros Halkias",
+  "notes": "Hosts Hit the Bricks. Halkias is also credited with additional writing.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Sniper of La Perle",
+  "host_character": "Kodak Black",
+  "voiced_by": "Kodak Black",
+  "notes": "Presented by Michaël Brun.",
+  "source": "https://www.rockstargames.com/VI/credits"
  }
 ]

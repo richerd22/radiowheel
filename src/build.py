@@ -722,7 +722,7 @@ def station_page(st):
     desc = (f"Every song on {st['name']} in {g[1]}: {len(st['songs'])} tracks" + (f", {genre.lower()}" if genre else "") + (f", hosted by {host}" if host else "")
             + (f". {st['n_removed']} later pulled." if st["n_removed"] else ".") + " With sources.")
     if st["game"] == "gta6" and st["songs"]:
-        desc = (f"{st['name']} in Grand Theft Auto VI: {len(st['songs'])} songs from launch-day lists" + (f", {genre.lower()}" if genre else "") + (f", hosted by {host}" if host else "") + ". With sources.")
+        desc = (f"{st['name']} in Grand Theft Auto VI: {len(st['songs'])} songs from Rockstar's credits" + (f", {genre.lower()}" if genre else "") + (f", hosted by {host}" if host else "") + ". With sources.")
     elif st["game"] == "gta6":
         desc = f"{st['name']} in Grand Theft Auto VI: the format, shows and hosts, with sources."
     elif st["is_talk"] and not st["songs"]:
@@ -736,7 +736,7 @@ def station_page(st):
             f'<h1>{E(st["name"])} <span class="sub">{E(g[2])}</span></h1>{lcd}'
             + (f'<p class="lede">{E(meta["notes"])}</p>' if meta.get("notes") else "")
             + (f'<h2>Hosts</h2>{hosts_html}' if hosts_html else "") + talk_html
-            + ('<p class="lede">Rockstar has not published full playlists. These are the songs logged on the station at launch, November 19, 2026. More in <a href="/gta-6/">GTA VI: the music at launch</a>.</p>' if st["game"] == "gta6" and st["songs"] else "")
+            + ('<p class="lede">The playlist as the Rockstar credits list it. More in <a href="/gta-6/">GTA VI: the music</a>.</p>' if st["game"] == "gta6" and st["songs"] else "")
             + (f'<h2>Tracklist</h2><div class="tbl"><table class="songs tl-s"><thead><tr><th>#</th><th>Artist</th><th>Song</th><th>Year</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>' if rows else "")
             + sib_html + oth_html
             + f'<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=radiowheel.cold.fyi%20-%20{E(st["slug"])}">Wrong or missing song? Tell us.</a></p>'
@@ -763,7 +763,7 @@ def hub():
     first = sections[0]["slug"] if sections else "stations"
     body = f"""<main id="main" class="hub">
 <section class="hero"><div class="hero-in">{tuner_strip()}<div class="hero-grid"><div class="hero-t"><p class="kicker">cold.fyi deep dive No. {NO} · an independent guide</p><h1 class="title">The Radio<br>Wheel</h1>
-<p class="dek">How Rockstar Games does music: every station, every host, every song, the talk radio, the club nights, the songs that vanished, and GTA VI from launch day.</p>{stats}
+<p class="dek">How Rockstar Games does music: every station, every host, every song, the talk radio, the club nights, the songs that vanished, and all 23 stations of GTA VI.</p>{stats}
 <div class="cta"><a class="primary" href="/{first}/">Turn it on</a><a href="/songs/">Find a song</a><a href="/stations/">Every station</a></div></div>
 <div class="hero-v"><div class="gtabs" role="group" aria-label="Game">{tabs}</div>{wheels}</div></div></div></section>
 <section class="lede col">{lede_html}{refs_list(sorted(lede_refs), "Sources for this page")}</section>

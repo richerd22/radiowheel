@@ -1,8 +1,8 @@
 # The Radio Wheel: every GTA radio station, song, host and talk show, and how Rockstar does music
 
-> An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and GTA VI's 22 stations, album and score.
+> An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and GTA VI's 23 stations, album and score.
 
-Independent cited guide, 41,651 words, 317 sources, updated 2026-11-19. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
+Independent cited guide, 43,997 words, 320 sources, updated 2026-11-21. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
 GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.
 
 ## Sections
@@ -15,12 +15,12 @@ GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only '
 - [GTA Online: the club, the label and the residency](https://radiowheel.cold.fyi/online/): From late 2017, GTA Online stopped being a game that licensed music and started acting like a venue, a radio network and a record label. The After Hours update (July 2018) let players own nightclubs where four real DJs held motion-captured residencies, and Cayo Perico (December 2020) added a second club, The Music Locker, plus three new stations. In 2021 came CircoLoco Records, the Media Player and six new Dr. Dre tracks that premiered inside the game weeks before streaming.
 - [CircoLoco Records: Rockstar's label with a Monday party](https://radiowheel.cold.fyi/circoloco/): CircoLoco Records is a record label run as a partnership between CircoLoco, the Monday party at DC10 in Ibiza, and Rockstar Games, announced on May 24, 2021. It opened with *Monday Dreamin'*, a 20-track compilation whose four EPs became hidden collectibles in GTA Online in July 2021, and since 2024 it has turned into a chart label for house and tech house. A "CircoLoco Records Radio" station for GTA VI exists only in a leak; Rockstar did not name one in its October 2026 station reveal.
 - [Why songs disappear: licenses, expiry and removals](https://radiowheel.cold.fyi/licensing/): A song on a GTA radio station is rented, not owned. Each licensed track needs permission for both the composition and the recording, usually for a fixed term, and when those permissions run out Rockstar patches the song out of the versions it still sells. That has happened to Vice City, San Andreas, GTA IV and, in September 2026, GTA V - a game Take-Two says has sold nearly 235 million units (official, November 2026). GTA VI arrives on November 19, 2026, with a commissioned 34-track album beside its radio, and nobody has said how its music deals are built.
-- [GTA VI: the music at launch](https://radiowheel.cold.fyi/gta-6/): Grand Theft Auto VI came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. Launch-day lists count 22 radio stations - 20 music, two talk - with hosts including Bad Bunny, Lana Del Rey, Robyn and two members of Slayer, plus five on-demand podcast series, a series first. Rockstar and Atlantic's 34-track original album arrived the same day, and Justice's score follows as its own album on December 11. Rockstar has not published full station playlists, so the song lists here come from the press, and they do not fully agree.
+- [GTA VI: the music](https://radiowheel.cold.fyi/gta-6/): Grand Theft Auto VI came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. It has 23 radio stations - 21 music, two talk - and Rockstar's credits list 741 songs on them, plus three DJ mixes and five on-demand podcast series, a series first. The hosts run from Bad Bunny, Lana Del Rey and Robyn to Keith Richards, "Weird Al" Yankovic and Jeremy Irons. Rockstar and Atlantic's 34-track original album arrived the same day, and Justice's score follows as its own album on December 11. The station pages here follow the credits.
 - [Test yourself, and where to dig next](https://radiowheel.cold.fyi/next/): Quiz yourself on everything above, learn the trade's vocabulary, run the timeline from 1997 to now, then dig into the best outside sources and the questions nobody has answered yet.
 
 ## Data
-- Every song: https://radiowheel.cold.fyi/tracks.json and https://radiowheel.cold.fyi/tracks.csv (2392 rows: game, station, artist, title, year, added, removed, note, source)
-- Every station: https://radiowheel.cold.fyi/stations.json (163 stations, each with a page at https://radiowheel.cold.fyi/stations/<slug>/)
+- Every song: https://radiowheel.cold.fyi/tracks.json and https://radiowheel.cold.fyi/tracks.csv (2850 rows: game, station, artist, title, year, added, removed, note, source)
+- Every station: https://radiowheel.cold.fyi/stations.json (165 stations, each with a page at https://radiowheel.cold.fyi/stations/<slug>/)
 - Removed songs: https://radiowheel.cold.fyi/removed.json (87 songs)
 - Talk shows: https://radiowheel.cold.fyi/talk.json · hosts: https://radiowheel.cold.fyi/hosts.json · lore: https://radiowheel.cold.fyi/lore.json
 - CircoLoco Records catalog: https://radiowheel.cold.fyi/circoloco.json · GTA Online music updates: https://radiowheel.cold.fyi/online.json · GTA VI tracker: https://radiowheel.cold.fyi/gta6.json
@@ -169,28 +169,30 @@ GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only '
 - GTA V: [West Coast Classics](https://radiowheel.cold.fyi/stations/gta5-west-coast-classics/) - 45 songs
 - GTA V: [West Coast Talk Radio](https://radiowheel.cold.fyi/stations/gta5-west-coast-talk-radio/) - 0 songs
 - GTA V: [Worldwide FM](https://radiowheel.cold.fyi/stations/gta5-worldwide-fm/) - 79 songs
-- GTA VI: [AfroBank FM](https://radiowheel.cold.fyi/stations/gta6-afrobank-fm/) - 9 songs
-- GTA VI: [Back Country Radio](https://radiowheel.cold.fyi/stations/gta6-back-country-radio/) - 10 songs
-- GTA VI: [CircoLoco Records Radio](https://radiowheel.cold.fyi/stations/gta6-circoloco-records-radio/) - 6 songs
-- GTA VI: [Cocoteo FM](https://radiowheel.cold.fyi/stations/gta6-cocoteo-fm/) - 16 songs
-- GTA VI: [Dirty South Classics](https://radiowheel.cold.fyi/stations/gta6-dirty-south-classics/) - 19 songs
-- GTA VI: [Emotion 98.3](https://radiowheel.cold.fyi/stations/gta6-emotion-98-3/) - 19 songs
-- GTA VI: [Flash FM](https://radiowheel.cold.fyi/stations/gta6-flash-fm/) - 60 songs
-- GTA VI: [Gloriana Blues Radio](https://radiowheel.cold.fyi/stations/gta6-gloriana-blues-radio/) - 12 songs
-- GTA VI: [Honey FM](https://radiowheel.cold.fyi/stations/gta6-honey-fm/) - 15 songs
-- GTA VI: [Kaleidoscope FM](https://radiowheel.cold.fyi/stations/gta6-kaleidoscope-fm/) - 8 songs
-- GTA VI: [Leonida Jazz Radio](https://radiowheel.cold.fyi/stations/gta6-leonida-jazz-radio/) - 5 songs
-- GTA VI: [Radio La Ola](https://radiowheel.cold.fyi/stations/gta6-radio-la-ola/) - 15 songs
-- GTA VI: [Radio On-U](https://radiowheel.cold.fyi/stations/gta6-radio-on-u/) - 6 songs
-- GTA VI: [Stockyard FM](https://radiowheel.cold.fyi/stations/gta6-stockyard-fm/) - 20 songs
-- GTA VI: [Symphony FM](https://radiowheel.cold.fyi/stations/gta6-symphony-fm/) - 7 songs
-- GTA VI: [The Chamber 106.6](https://radiowheel.cold.fyi/stations/gta6-the-chamber-106-6/) - 17 songs
+- GTA VI: [AfroBank FM](https://radiowheel.cold.fyi/stations/gta6-afrobank-fm/) - 31 songs
+- GTA VI: [Back Country Radio](https://radiowheel.cold.fyi/stations/gta6-back-country-radio/) - 24 songs
+- GTA VI: [CircoLoco Records Radio](https://radiowheel.cold.fyi/stations/gta6-circoloco-records-radio/) - 27 songs
+- GTA VI: [Cocoteo FM](https://radiowheel.cold.fyi/stations/gta6-cocoteo-fm/) - 30 songs
+- GTA VI: [Dirty South Classics](https://radiowheel.cold.fyi/stations/gta6-dirty-south-classics/) - 39 songs
+- GTA VI: [Emotion 98.3](https://radiowheel.cold.fyi/stations/gta6-emotion-98-3/) - 35 songs
+- GTA VI: [Flash FM](https://radiowheel.cold.fyi/stations/gta6-flash-fm/) - 80 songs
+- GTA VI: [Gloriana Blues Radio](https://radiowheel.cold.fyi/stations/gta6-gloriana-blues-radio/) - 23 songs
+- GTA VI: [Honey FM](https://radiowheel.cold.fyi/stations/gta6-honey-fm/) - 52 songs
+- GTA VI: [Kaleidoscope FM](https://radiowheel.cold.fyi/stations/gta6-kaleidoscope-fm/) - 18 songs
+- GTA VI: [Leonida Jazz Radio](https://radiowheel.cold.fyi/stations/gta6-leonida-jazz-radio/) - 36 songs
+- GTA VI: [Radio La Ola](https://radiowheel.cold.fyi/stations/gta6-radio-la-ola/) - 25 songs
+- GTA VI: [Radio On-U](https://radiowheel.cold.fyi/stations/gta6-radio-on-u/) - 16 songs
+- GTA VI: [Stockyard FM](https://radiowheel.cold.fyi/stations/gta6-stockyard-fm/) - 37 songs
+- GTA VI: [Symphony FM](https://radiowheel.cold.fyi/stations/gta6-symphony-fm/) - 16 songs
+- GTA VI: [The Chamber 106.6](https://radiowheel.cold.fyi/stations/gta6-the-chamber-106-6/) - 22 songs
+- GTA VI: [The Sniper of La Perle](https://radiowheel.cold.fyi/stations/gta6-the-sniper-of-la-perle/) - 22 songs
+- GTA VI: [The Vault Radio](https://radiowheel.cold.fyi/stations/gta6-the-vault-radio/) - 24 songs
 - GTA VI: [The Wipe](https://radiowheel.cold.fyi/stations/gta6-the-wipe/) - 0 songs
-- GTA VI: [V-Rock](https://radiowheel.cold.fyi/stations/gta6-v-rock/) - 42 songs
-- GTA VI: [VCRR](https://radiowheel.cold.fyi/stations/gta6-vcrr/) - 37 songs
-- GTA VI: [Vice City FM](https://radiowheel.cold.fyi/stations/gta6-vice-city-fm/) - 39 songs
+- GTA VI: [V-Rock](https://radiowheel.cold.fyi/stations/gta6-v-rock/) - 70 songs
+- GTA VI: [VCRR](https://radiowheel.cold.fyi/stations/gta6-vcrr/) - 93 songs
+- GTA VI: [Vice City FM](https://radiowheel.cold.fyi/stations/gta6-vice-city-fm/) - 71 songs
 - GTA VI: [WKTT](https://radiowheel.cold.fyi/stations/gta6-wktt/) - 0 songs
-- GTA VI: [Worldwide FM](https://radiowheel.cold.fyi/stations/gta6-worldwide-fm/) - 11 songs
+- GTA VI: [Worldwide FM](https://radiowheel.cold.fyi/stations/gta6-worldwide-fm/) - 40 songs
 
 ## Sister guides
 - https://flip.cold.fyi/ - The Flip: how sampling works

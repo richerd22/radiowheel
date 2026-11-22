@@ -127,9 +127,8 @@
   "title": "Talk radio: Chatterbox to Chakra Attack",
   "short": "Talk radio exists in Grand Theft Auto because, by Dan Houser's own account, it was the cheapest way to fill hours of driving in GTA III (2001). Written mostly by Houser and Lazlow Jones, it became the series' sharpest satire: one call-in station in Liberty City, two in Vice City, a whole network of shows on San Andreas's WCTR, three political stations in GTA IV and a left/right split by county in GTA V. Lazlow, who played a steadily sadder version of himself, left Rockstar in 2020 after nine GTA games, in a month that depends on who you read.",
   "url": "https://radiowheel.cold.fyi/talk-radio/",
-  "words": 6567,
+  "words": 7383,
   "sources": [
-   3,
    6,
    7,
    8,
@@ -250,7 +249,7 @@
   "title": "The scores: music written for the games",
   "short": "For its first decade, Grand Theft Auto's original music was mostly in-house songs credited to fictional bands, played on the radio rather than under the action. GTA V (2013) brought a full original score, which Rockstar called its first fully collaborative score, built by Tangerine Dream, Woody Jackson, The Alchemist and Oh No as layered stems that react to play. Red Dead Redemption, Red Dead Redemption 2, Max Payne 3 and GTA Online all got scores of their own, and Justice is scoring GTA VI.",
   "url": "https://radiowheel.cold.fyi/scores/",
-  "words": 1728,
+  "words": 1815,
   "sources": [
    3,
    5,
@@ -268,6 +267,7 @@
    77,
    83,
    88,
+   137,
    154,
    155,
    156,
@@ -334,9 +334,8 @@
   "title": "CircoLoco Records: Rockstar's label with a Monday party",
   "short": "CircoLoco Records is a record label run as a partnership between CircoLoco, the Monday party at DC10 in Ibiza, and Rockstar Games, announced on May 24, 2021. It opened with *Monday Dreamin'*, a 20-track compilation whose four EPs became hidden collectibles in GTA Online in July 2021, and since 2024 it has turned into a chart label for house and tech house. A \"CircoLoco Records Radio\" station for GTA VI exists only in a leak; Rockstar did not name one in its October 2026 station reveal.",
   "url": "https://radiowheel.cold.fyi/circoloco/",
-  "words": 3061,
+  "words": 3070,
   "sources": [
-   3,
    88,
    137,
    139,
@@ -395,8 +394,7 @@
    241,
    242,
    243,
-   244,
-   245
+   244
   ]
  },
  {
@@ -418,6 +416,7 @@
    153,
    154,
    165,
+   245,
    246,
    247,
    248,
@@ -439,17 +438,16 @@
    264,
    265,
    266,
-   267,
-   268
+   267
   ]
  },
  {
   "freq": "104.3",
   "slug": "gta-6",
-  "title": "GTA VI: the music at launch",
-  "short": "Grand Theft Auto VI came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. Launch-day lists count 22 radio stations - 20 music, two talk - with hosts including Bad Bunny, Lana Del Rey, Robyn and two members of Slayer, plus five on-demand podcast series, a series first. Rockstar and Atlantic's 34-track original album arrived the same day, and Justice's score follows as its own album on December 11. Rockstar has not published full station playlists, so the song lists here come from the press, and they do not fully agree.",
+  "title": "GTA VI: the music",
+  "short": "Grand Theft Auto VI came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. It has 23 radio stations - 21 music, two talk - and Rockstar's credits list 741 songs on them, plus three DJ mixes and five on-demand podcast series, a series first. The hosts run from Bad Bunny, Lana Del Rey and Robyn to Keith Richards, \"Weird Al\" Yankovic and Jeremy Irons. Rockstar and Atlantic's 34-track original album arrived the same day, and Justice's score follows as its own album on December 11. The station pages here follow the credits.",
   "url": "https://radiowheel.cold.fyi/gta-6/",
-  "words": 4637,
+  "words": 5954,
   "sources": [
    2,
    3,
@@ -460,7 +458,7 @@
    154,
    165,
    167,
-   245,
+   267,
    268,
    269,
    270,
@@ -490,7 +488,10 @@
    294,
    295,
    296,
-   297
+   297,
+   298,
+   299,
+   300
   ]
  },
  {
@@ -499,7 +500,7 @@
   "title": "Test yourself, and where to dig next",
   "short": "Quiz yourself on everything above, learn the trade's vocabulary, run the timeline from 1997 to now, then dig into the best outside sources and the questions nobody has answered yet.",
   "url": "https://radiowheel.cold.fyi/next/",
-  "words": 7586,
+  "words": 7703,
   "sources": []
  }
 ]

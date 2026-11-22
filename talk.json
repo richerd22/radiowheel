@@ -392,62 +392,150 @@
   "voiced_by": "Anitta",
   "format": "Advice show on sex, relationships and intimacy",
   "satirises": "Relationship and sex-advice podcasts",
-  "recurring": "Barbie Ferreira guests; parts are in Portuguese",
-  "source": "https://www.infobae.com/tecno/2026/11/18/anitta-debuta-en-gta-vi-como-la-dra-nita-en-un-podcast-exclusivo-sobre-relaciones-e-intimidad/"
+  "recurring": "Barbie Ferreira plays Bobby; parts are in Portuguese. Anitta also sings its song, \"Touch & Go.\"",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "On-demand podcasts",
-  "show": "F*ck, Marry, Murder",
-  "host": "",
-  "voiced_by": null,
-  "format": "Podcast series; episodes unlock as the story goes on",
+  "station": "The Wipe",
+  "show": "El Otro Lado",
+  "host": "Enrique \"El Enigma\" Romero",
+  "voiced_by": "John Leguizamo",
+  "format": "Call-in show",
   "satirises": "",
-  "recurring": "VGC says it may carry the most explicit dialogue in a Rockstar game.",
-  "source": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+  "recurring": "Callers include Yul Vazquez as Tim Cruz.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "On-demand podcasts",
-  "show": "The Safe Trip",
-  "host": "",
-  "voiced_by": null,
-  "format": "Podcast series; episodes unlock as the story goes on",
+  "station": "The Wipe",
+  "show": "She Got Assets",
+  "host": "Tish",
+  "voiced_by": "Janelle James",
+  "format": "Call-in show",
+  "satirises": "",
+  "recurring": "Shares several callers with Ask Dr. Nita, among them Liza Treyger as Destiny Stallion.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "WKTT",
+  "show": "The Richard Bastion Show",
+  "host": "Richard Bastion",
+  "voiced_by": "Jason Sudeikis",
+  "format": "Call-in talk show",
+  "satirises": "",
+  "recurring": "A cast of 20, most of them callers.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "WKTT",
+  "show": "Hit the Bricks",
+  "host": "Dominic \"The Brick\" Brizzolato",
+  "voiced_by": "Stavros Halkias",
+  "format": "Call-in talk show",
+  "satirises": "",
+  "recurring": "Sarah Sherman plays Marie; Carl Tart plays a caller.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "VCRR",
+  "show": "Early AF",
+  "host": "Charlamagne and Ivy",
+  "voiced_by": "Charlamagne tha God and Ivy Rivera",
+  "format": "Show within the rap station",
+  "satirises": "Morning radio",
+  "recurring": "",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Dirty South Classics",
+  "show": "The Tap In",
+  "host": "Gucci Mane",
+  "voiced_by": "Gucci Mane",
+  "format": "Show within the station",
   "satirises": "",
   "recurring": "",
-  "source": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
-  "station": "On-demand podcasts",
-  "show": "Vice City True Stories",
-  "host": "",
-  "voiced_by": null,
-  "format": "Podcast series; episodes unlock as the story goes on",
+  "station": "Honey FM",
+  "show": "Liquid City",
+  "host": "Liquid Wilson",
+  "voiced_by": "Craig Robinson",
+  "format": "Show within the station, with eight original songs",
+  "satirises": "Late-night slow-jam radio",
+  "recurring": "Songs written with BJ the Chicago Kid and DJ Pooh, among others.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "Leonida Jazz Radio",
+  "show": "The Nook",
+  "host": "Yussef Dayes",
+  "voiced_by": "Yussef Dayes",
+  "format": "Show within the station",
   "satirises": "",
   "recurring": "",
-  "source": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "On-demand podcasts",
   "show": "Drunk Kings",
-  "host": "",
-  "voiced_by": null,
+  "host": "N.O.R.E. and DJ EFN",
+  "voiced_by": "N.O.R.E. and DJ EFN, as themselves",
   "format": "Podcast series; episodes unlock as the story goes on",
-  "satirises": "",
-  "recurring": "",
-  "source": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+  "satirises": "Hip-hop interview podcasts",
+  "recurring": "DJ Stevie J and Wax appear as themselves; Denzel Curry plays the rapper DWNPLY.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "On-demand podcasts",
   "show": "Final Act",
-  "host": "",
-  "voiced_by": null,
+  "host": "Reagan Carter",
+  "voiced_by": "Renée Felice Smith",
+  "format": "Podcast series; episodes unlock as the story goes on",
+  "satirises": "True-crime podcasts",
+  "recurring": "A character named Solomon Richards, the film producer's name from GTA V, is in the cast list.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "On-demand podcasts",
+  "show": "Fuck Marry Murder",
+  "host": "Amber and Sienna",
+  "voiced_by": "Chloe Fineman and Sarah Sherman",
   "format": "Podcast series; episodes unlock as the story goes on",
   "satirises": "",
-  "recurring": "",
-  "source": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+  "recurring": "VGC says it may carry the most explicit dialogue in a Rockstar game.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "On-demand podcasts",
+  "show": "The Safe Trap",
+  "host": "Freddie and The Alchemist",
+  "voiced_by": "Freddie Gibbs and The Alchemist",
+  "format": "Podcast series; episodes unlock as the story goes on",
+  "satirises": "",
+  "recurring": "Listed by some outlets at launch as The Safe Trip.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "On-demand podcasts",
+  "show": "Vice City True Stories",
+  "host": "Narrator",
+  "voiced_by": "Billy Corben",
+  "format": "Podcast series; episodes unlock as the story goes on",
+  "satirises": "Documentary podcasts",
+  "recurring": "Corben directed the Miami documentary Cocaine Cowboys. He is also credited with additional writing.",
+  "source": "https://www.rockstargames.com/VI/credits"
  }
 ]

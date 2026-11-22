@@ -1,11 +1,19 @@
 [
  {
   "game": "Grand Theft Auto VI",
+  "station": "Flash FM",
+  "genre": "Pop and dance",
+  "host": "Robyn and Alex Consani, as themselves",
+  "notes": "Back from GTA Vice City.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
   "station": "Cocoteo FM",
   "genre": "Modern Latin: bachata, merengue, dembow, reggaeton",
   "host": "El Martillo (Bad Bunny) and La Gata (RaiNao)",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
@@ -13,166 +21,174 @@
   "genre": "Renegade country",
   "host": "MW (Morgan Wallen) and Delta Dawne (Lana Del Rey), with Mud Dog Mike (Jeremy Dufrene)",
   "notes": "Mud Dog Mike files weather reports from an airboat in the Grassrivers.",
-  "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "AfroBank FM",
   "genre": "African classics, amapiano, 3-step",
-  "host": "Burna (Burna Boy) and Palmsy (Palms Trax)",
+  "host": "Burna (Burna Boy) and Palmsy (Jay Donaldson, who records as Palms Trax)",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "The Chamber 106.6",
   "genre": "Metal from the 1980s on",
-  "host": "DJ Kerry (Kerry King) and DJ Tom (Tom Araya) of Slayer",
+  "host": "DJ Kerry (Kerry King) and DJ Tom (Tom Araya) of Slayer, with Big Fan Brian (Brian Posehn)",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
- },
- {
-  "game": "Grand Theft Auto VI",
-  "station": "Flash FM",
-  "genre": "Pop and dance",
-  "host": "Robyn and Alex (Alex Consani)",
-  "notes": "Back from GTA Vice City.",
-  "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Dirty South Classics",
-  "genre": "Regional rap",
-  "host": "Trick (Trick Daddy) and Trina",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/news/gta-6-reveals-its-first-six-radio-stations-hosted-by-bad-bunny-slayer-and-more/"
+  "genre": "Southern rap",
+  "host": "Trina and Trick Daddy, as themselves",
+  "notes": "Carries The Tap In, hosted by Gucci Mane.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Vice City FM",
   "genre": "1980s new wave and pop",
-  "host": "",
-  "notes": "Back from GTA IV: The Ballad of Gay Tony. A fan wiki lists \"Weird Al\" Yankovic as host; no press list names one.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "DJ Al (\"Weird Al\" Yankovic) and Madame Brigitte (Brigitte Nielsen)",
+  "notes": "Back from GTA IV: The Ballad of Gay Tony.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "V-Rock",
   "genre": "Classic and hard rock",
-  "host": "",
+  "host": "The Buck (Lindsey Buckingham) and Skipper McD (Michael McDonald)",
   "notes": "Back from GTA Vice City, vulture logo included.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Emotion 98.3",
   "genre": "Soft rock and ballads",
-  "host": "",
+  "host": "Doug Van Dyke (Doug Stanhope)",
   "notes": "Back from GTA Vice City.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "VCRR",
   "genre": "Modern hip-hop",
-  "host": "",
-  "notes": "Short for Vice City Rap Radio.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "DJ JT (JT) and DJ Stevie (DJ Stevie J)",
+  "notes": "Credited in full as Vice City Rap Radio. Carries Early AF, with Charlamagne tha God and Ivy Rivera, and mixes by Bodega the DJ and DJ Stevie J.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Honey FM",
   "genre": "1990s and 2000s R&B and soul",
-  "host": "",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "Chilli and T-Boz of TLC, as themselves",
+  "notes": "Carries Liquid City, hosted by Liquid Wilson (Craig Robinson), which has eight original songs.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Stockyard FM",
   "genre": "Indie dance and electronic",
-  "host": "",
-  "notes": "A fan wiki lists PinkPantheress and The Dare as hosts; no press list names any.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "Harrison (The Dare) and Victoria (PinkPantheress)",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Worldwide FM",
   "genre": "Global club, house and jazz",
-  "host": "",
+  "host": "Gilles Peterson, as himself",
   "notes": "Back from GTA V and GTA Online.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "CircoLoco Records Radio",
   "genre": "House and techno",
-  "host": "",
+  "host": "DJ Seth (Seth Troxler) and DJ Antonio (Antonio Carbonaro)",
   "notes": "Named for the label Rockstar runs with CircoLoco.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Kaleidoscope FM",
   "genre": "International pop",
-  "host": "",
-  "notes": "A station called Kaleidoscope first aired in GTA London 1969.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "DJ Dicky (Jeremy Irons)",
+  "notes": "A station called Kaleidoscope first aired in GTA London 1969. Much of the playlist is covers of English-language hits in other languages.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Radio La Ola",
   "genre": "Classic Latin and salsa",
-  "host": "",
+  "host": "Emilio and Gloria (Emilio and Gloria Estefan)",
   "notes": "Also listed as La Ola.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Radio On-U",
   "genre": "Reggae, dub and lovers rock",
-  "host": "",
+  "host": "Adrian Sherwood, as himself",
   "notes": "Named after Adrian Sherwood's On-U Sound label.",
-  "source": "https://www.cultr.com/news/tuning-in-to-leonida-every-radio-station-in-gta-vi-gta-6/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Gloriana Blues Radio",
   "genre": "Gospel blues to Chicago electric blues",
-  "host": "",
-  "notes": "A fan wiki lists Buddy Guy as host; no press list names one.",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "DJ Buddy (Buddy Guy) and DJ Keith (Keith Richards)",
+  "notes": "",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Leonida Jazz Radio",
   "genre": "Jazz fusion",
-  "host": "",
-  "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "host": "DJ Randy (Randy Brecker) and DJ Stanley (Stanley Clarke)",
+  "notes": "Carries The Nook, hosted by Yussef Dayes.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "Symphony FM",
   "genre": "Classical",
-  "host": "",
+  "host": "Yuja (Yuja Wang)",
   "notes": "",
-  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/"
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Vault Radio",
+  "genre": "House and club remixes",
+  "host": "DJ Pretzel, as himself",
+  "notes": "The 23rd station. It is in Rockstar's credits but was on no launch-day press list.",
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "WKTT",
   "genre": "Conservative talk",
-  "host": "",
+  "host": "Richard Bastion (Jason Sudeikis) and Dominic \"The Brick\" Brizzolato (Stavros Halkias) host its two shows",
   "notes": "Back from GTA IV. The letters stand for We Know The Truth.",
-  "source": "https://www.cultr.com/news/tuning-in-to-leonida-every-radio-station-in-gta-vi-gta-6/"
+  "source": "https://www.rockstargames.com/VI/credits"
  },
  {
   "game": "Grand Theft Auto VI",
   "station": "The Wipe",
   "genre": "Talk",
-  "host": "",
-  "notes": "Podcast-style talk. Carries Ask Dr. Nita.",
-  "source": "https://www.cultr.com/news/tuning-in-to-leonida-every-radio-station-in-gta-vi-gta-6/"
+  "host": "Dr. Nita (Anitta), Enrique \"El Enigma\" Romero (John Leguizamo) and Tish (Janelle James) host its three shows",
+  "notes": "Podcast-style talk.",
+  "source": "https://www.rockstargames.com/VI/credits"
+ },
+ {
+  "game": "Grand Theft Auto VI",
+  "station": "The Sniper of La Perle",
+  "genre": "Mix: Haitian music and Kodak Black",
+  "host": "Kodak Black; presented by Michaël Brun",
+  "notes": "A 22-song mix credited apart from the stations. The credits do not say where in the game it plays.",
+  "source": "https://www.rockstargames.com/VI/credits"
  }
 ]
