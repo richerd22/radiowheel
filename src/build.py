@@ -617,7 +617,7 @@ def head(title, desc, path, ld=None, robots="index, follow, max-image-preview:la
 """
 
 
-SISTERS = [("flip", "The Flip", "how sampling works"), ("groove", "The Groove", "how a vinyl record is made"), ("polo", "Polo", "how Coachella works"), ("wristband", "The Wristband", "how music festivals work"),
+SISTERS = [("beam", "The Beam", "how laser shows work"), ("flip", "The Flip", "how sampling works"), ("groove", "The Groove", "how a vinyl record is made"), ("polo", "Polo", "how Coachella works"), ("wristband", "The Wristband", "how music festivals work"),
            ("lastcall", "Last Call", "how nightlife works"), ("showfile", "The Show File", "how a dance music show is made"),
            ("tickets", "The Ticket", "how a concert ticket gets from artist to fan"), ("airwaves", "The Airwaves", "every radio signal over a city"),
            ("noise", "The Noise", "every sound in a city"), ("streetcode", "Street Code", "every mark on the street"),
