@@ -2,7 +2,7 @@
 
 > An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and GTA VI's 23 stations, album and score.
 
-Independent cited guide, 43,997 words, 320 sources, updated 2026-11-21. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
+Independent cited guide, 44,352 words, 325 sources, updated 2026-11-23. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
 GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.
 
 ## Sections

@@ -447,7 +447,7 @@
   "title": "GTA VI: the music",
   "short": "Grand Theft Auto VI came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. It has 23 radio stations - 21 music, two talk - and Rockstar's credits list 741 songs on them, plus three DJ mixes and five on-demand podcast series, a series first. The hosts run from Bad Bunny, Lana Del Rey and Robyn to Keith Richards, \"Weird Al\" Yankovic and Jeremy Irons. Rockstar and Atlantic's 34-track original album arrived the same day, and Justice's score follows as its own album on December 11. The station pages here follow the credits.",
   "url": "https://radiowheel.cold.fyi/gta-6/",
-  "words": 5954,
+  "words": 6269,
   "sources": [
    2,
    3,
@@ -491,7 +491,12 @@
    297,
    298,
    299,
-   300
+   300,
+   301,
+   302,
+   303,
+   304,
+   305
   ]
  },
  {
@@ -500,7 +505,7 @@
   "title": "Test yourself, and where to dig next",
   "short": "Quiz yourself on everything above, learn the trade's vocabulary, run the timeline from 1997 to now, then dig into the best outside sources and the questions nobody has answered yet.",
   "url": "https://radiowheel.cold.fyi/next/",
-  "words": 7703,
+  "words": 7743,
   "sources": []
  }
 ]
