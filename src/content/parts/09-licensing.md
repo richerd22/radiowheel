@@ -1,6 +1,6 @@
 ## Why songs disappear: licenses, expiry and removals
 
-**The short version:** A song on a GTA radio station is rented, not owned. Each licensed track needs permission for both the composition and the recording, usually for a fixed term, and when those permissions run out Rockstar patches the song out of the versions it still sells.[^lic-legalmoves-2026][^lic-dmn-2022] That has happened to Vice City, San Andreas, GTA IV and, in September 2026, GTA V - a game Take-Two says has sold nearly 235 million units (official, November 2026).[^lic-gtaboom-2026-09][^lic-gamingbolt-2026] GTA VI arrives on November 19, 2026, with a commissioned 34-track album beside its radio, and nobody has said how its music deals are built.[^lic-mbw-2026]
+**The short version:** A song on a GTA radio station is rented, not owned. Each licensed track needs permission for both the composition and the recording, usually for a fixed term, and when those permissions run out Rockstar patches the song out of the versions it still sells.[^lic-legalmoves-2026][^lic-dmn-2022] That has happened to Vice City, San Andreas, GTA IV and, in September 2026, GTA V - a game Take-Two says has sold nearly 235 million units (official, November 2026).[^lic-gtaboom-2026-09][^lic-gamingbolt-2026] GTA VI arrived on November 19, 2026, with a commissioned 34-track album beside 829 licensed songs, and nobody has said how its music deals are built.[^lic-mbw-2026]
 
 ### How does music licensing for a video game work?
 

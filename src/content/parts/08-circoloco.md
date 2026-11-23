@@ -1,6 +1,6 @@
 ## CircoLoco Records: Rockstar's label with a Monday party
 
-**The short version:** CircoLoco Records is a record label run as a partnership between CircoLoco, the Monday party at DC10 in Ibiza, and Rockstar Games, announced on May 24, 2021.[^clr-mixmag-2021][^clr-rollingstone-2021] It opened with *Monday Dreamin'*, a 20-track compilation whose four EPs became hidden collectibles in GTA Online in July 2021, and since 2024 it has turned into a chart label for house and tech house.[^clr-gtawiki-mediaplayer][^clr-worthplaying-2021-07][^clr-beatportal-2026] A "CircoLoco Records Radio" station for GTA VI exists only in a leak; Rockstar did not name one in its October 2026 station reveal.[^clr-weraveyou-2026-leak][^clr-gamesradar-2026]
+**The short version:** CircoLoco Records is a record label run as a partnership between CircoLoco, the Monday party at DC10 in Ibiza, and Rockstar Games, announced on May 24, 2021.[^clr-mixmag-2021][^clr-rollingstone-2021] It opened with *Monday Dreamin'*, a 20-track compilation whose four EPs became hidden collectibles in GTA Online in July 2021, and since 2024 it has turned into a chart label for house and tech house.[^clr-gtawiki-mediaplayer][^clr-worthplaying-2021-07][^clr-beatportal-2026] GTA VI has a CircoLoco Records Radio station, hosted by Seth Troxler and Antonio Carbonaro.[^clr-weraveyou-2026-leak][^clr-gamesradar-2026]
 
 ### What is CircoLoco, and what is DC10?
 

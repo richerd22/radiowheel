@@ -736,12 +736,16 @@ def station_page(st):
             f'<h1>{E(st["name"])} <span class="sub">{E(g[2])}</span></h1>{lcd}'
             + (f'<p class="lede">{E(meta["notes"])}</p>' if meta.get("notes") else "")
             + (f'<h2>Hosts</h2>{hosts_html}' if hosts_html else "") + talk_html
-            + ('<p class="lede">The playlist as the Rockstar credits list it. More in <a href="/gta-6/">GTA VI: the music</a>.</p>' if st["game"] == "gta6" and st["songs"] else "")
+            + ('<p class="lede">The playlist as the Rockstar credits list it. More in <a href="/gta-6/">GTA VI: the music</a>, or see <a href="/gta-6/songs/">every GTA 6 song</a>, <a href="/gta-6/artists/">every artist</a> and <a href="/gta-6/hosts/">every host</a>.</p>' if st["game"] == "gta6" and st["songs"] else "")
             + (f'<h2>Tracklist</h2><div class="tbl"><table class="songs tl-s"><thead><tr><th>#</th><th>Artist</th><th>Song</th><th>Year</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>' if rows else "")
             + sib_html + oth_html
             + f'<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=radiowheel.cold.fyi%20-%20{E(st["slug"])}">Wrong or missing song? Tell us.</a></p>'
             + refs_list(st["refs"]) + "</main></div>")
-    write(f"stations/{st['slug']}/index.html", head(f"{st['name']} ({g[2]}): every song, host and show | {NAME}", desc, f"/stations/{st['slug']}/", ld) + body + foot())
+    title = f"{st['name']} ({g[2]}): every song, host and show | {NAME}"
+    if st["game"] == "gta6":
+        nm6 = "Vice City Rap Radio (VCRR)" if st["name"] == "VCRR" else st["name"]
+        title = (f"{nm6} in GTA 6: all {len(st['songs'])} songs and the hosts | {NAME}" if st["songs"] else f"{nm6} in GTA 6: every show and host | {NAME}")
+    write(f"stations/{st['slug']}/index.html", head(title, desc, f"/stations/{st['slug']}/", ld) + body + foot())
 
 
 def hub():
@@ -791,6 +795,92 @@ def dataset(name, desc, path, files):
             "distribution": [{"@type": "DataDownload", "encodingFormat": m, "contentUrl": SITE + "/" + f} for f, m in files]}
 
 
+def gta6_pages():
+    """Landing pages for what people (and agents) actually ask about GTA VI's music."""
+    sts = [x for x in BY_GAME["gta6"]]
+    music = [x for x in sts if x["songs"]]
+    songs = [(x, t) for x in music for t in x["songs"]]
+    uniq = len({(t["artist"].lower(), t["title"].lower()) for _, t in songs})
+    nav = ('<p class="sibs">GTA 6 music: <a href="/gta-6/">the full guide</a> · <a href="/gta-6/songs/">every song</a> · <a href="/gta-6/artists/">every artist</a> · '
+           '<a href="/gta-6/hosts/">every host</a> · <a href="/gta-6/secret-playlists/">secret playlists</a> · <a href="/stations/#stations-gta6">stations</a></p>')
+    src = '<p class="lede">Song and host lists follow the credits Rockstar Games published with the game. Independent guide; not affiliated with Rockstar Games.</p>'
+    # songs
+    blocks = []
+    for x in music:
+        rows = "".join(f'<tr><td class="k">{i}</td><td>{E(t["artist"])}</td><td>{E(t["title"])}</td><td>{f"<span class=nt>{E(t[chr(110)+chr(111)+chr(116)+chr(101)])}</span>" if t["note"] else ""}</td></tr>' for i, t in enumerate(x["songs"], 1))
+        blocks.append(f'<h2 id="{x["slug"]}"><a href="/stations/{x["slug"]}/">{E(x["name"])}</a> <span class="sub">{len(x["songs"])} songs</span></h2>'
+                      + (f'<p>{E(x["meta"].get("genre", ""))}. Hosted by {E(host_line(x))}.</p>' if host_line(x) else "")
+                      + f'<div class="tbl"><table class="songs tl-s"><thead><tr><th>#</th><th>Artist</th><th>Song</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>')
+    jump = '<p class="sibs">Jump to: ' + " · ".join(f'<a href="#{x["slug"]}">{E(x["name"])}</a>' for x in music) + "</p>"
+    simple("/gta-6/songs/", f"Every song in GTA 6: all {uniq} on the radio, station by station",
+           f"The full GTA 6 soundtrack list: {uniq} songs across {len(music)} radio stations and playlists in Grand Theft Auto VI, from Rockstar's credits, with the secret playlists included.",
+           nav + f'<p class="lede">Grand Theft Auto VI has {uniq} different licensed songs on its radio, across {len(music) - 1} music stations and one hidden playlist, listed here in full. Tap a station name for its hosts and shows. Take the data: <a href="/gta6-tracks.json">gta6-tracks.json</a> · <a href="/gta6-tracks.csv">gta6-tracks.csv</a>.</p>' + src + jump + "".join(blocks),
+           [dataset("Grand Theft Auto VI radio songs", f"Every song on every GTA VI radio station, {len(songs)} rows.", "/gta-6/songs/", [("gta6-tracks.json", "application/json"), ("gta6-tracks.csv", "text/csv")]),
+            crumbs([(NAME, "/"), ("GTA VI: the music", "/gta-6/"), ("Every song", "/gta-6/songs/")])], "gta-6", True)
+    # artists
+    by = {}
+    for x, t in songs:
+        for a in re.split(r"\s+ft\.?\s+|\s+feat\.?\s+|\s+featuring\s+|\s+w/\s+", t["artist"]):
+            a = a.strip()
+            if a:
+                by.setdefault(a.lower(), [a, []])[1].append((t["title"], x))
+    letters = {}
+    for k in sorted(by, key=lambda z: re.sub(r"^(the|a)\s+", "", z)):
+        nm, lst = by[k]
+        ch = re.sub(r"^(the|a)\s+", "", k)[:1].upper()
+        ch = ch if ch.isalpha() else "#"
+        seen, items = set(), []
+        for title, x in lst:
+            if (title, x["slug"]) in seen:
+                continue
+            seen.add((title, x["slug"]))
+            items.append(f'"{E(title)}" on <a href="/stations/{x["slug"]}/">{E(x["name"])}</a>')
+        letters.setdefault(ch, []).append(f"<li><b>{E(nm)}</b> - {'; '.join(items)}</li>")
+    az = '<p class="sibs">' + " · ".join(f'<a href="#az-{("num" if c == "#" else c)}">{c}</a>' for c in sorted(letters)) + "</p>"
+    simple("/gta-6/artists/", "Is your artist in GTA 6? Every artist on the radio, A to Z",
+           f"Every artist with a song on Grand Theft Auto VI's radio, A to Z: {len(by)} credited acts, each with the song and the station it plays on.",
+           nav + f'<p class="lede">{len(by)} credited acts have a song on the radio in Grand Theft Auto VI. Find a name, get the song and the station. Featured artists are listed under their own names too; for the second name on a shared credit, search the page.</p>' + src + az
+           + "".join(f'<h2 id="az-{("num" if c == "#" else c)}">{c}</h2><ul class="plain">{"".join(v)}</ul>' for c, v in sorted(letters.items())),
+           [crumbs([(NAME, "/"), ("GTA VI: the music", "/gta-6/"), ("Every artist", "/gta-6/artists/")])], "gta-6", True)
+    # hosts
+    hrows = "".join(f'<tr><td><a href="/stations/{x["slug"]}/">{E(x["name"])}</a></td><td>{E(h.get("host_character", ""))}</td><td>{E(h.get("voiced_by", ""))}</td><td>{E(h.get("notes", ""))}</td></tr>' for x in sts for h in x["hosts"])
+    trows = "".join(f'<tr><td>{E(r.get("show", ""))}</td><td>{E(r.get("station", ""))}</td><td>{E(r.get("host", ""))}</td><td>{E(r.get("voiced_by") or "")}</td></tr>' for r in talk if game_key(r.get("game")) == "gta6")
+    n_h = sum(len(x["hosts"]) for x in sts)
+    simple("/gta-6/hosts/", "GTA 6 radio hosts: every DJ, talk host and podcast, and who plays them",
+           f"Who hosts each radio station in Grand Theft Auto VI: {n_h} DJs and talk hosts, from Bad Bunny and Lana Del Rey to Keith Richards and Jeremy Irons, plus every show and podcast cast.",
+           nav + f'<p class="lede">Every radio station in Grand Theft Auto VI has named hosts, most of them musicians playing a DJ character. Here are all {n_h}, then the talk shows, the shows inside stations and the five podcasts.</p>' + src
+           + f'<h2>Station hosts</h2><div class="tbl"><table class="songs"><thead><tr><th>Station</th><th>On air as</th><th>Played by</th><th>Notes</th></tr></thead><tbody>{hrows}</tbody></table></div>'
+           + f'<h2>Shows and podcasts</h2><div class="tbl"><table class="songs"><thead><tr><th>Show</th><th>Where</th><th>Host</th><th>Played by</th></tr></thead><tbody>{trows}</tbody></table></div>'
+           + '<p>Take the data: <a href="/hosts.json">hosts.json</a> · <a href="/talk.json">talk.json</a>.</p>',
+           [crumbs([(NAME, "/"), ("GTA VI: the music", "/gta-6/"), ("Every host", "/gta-6/hosts/")])], "gta-6", True)
+    # secret playlists
+    un = J("frag/gta6-unlock.json", None)
+    if un:
+        parts, steps = [], []
+        for pl in un["playlists"]:
+            st = next((x for x in sts if x["name"] == pl["station"]), None)
+            rows = "".join(f'<tr><td class="k">{i}</td><td><b>{E(q["place"])}</b><br>{E(q["area"])}</td><td>{E(q["where"])}</td><td>{E(q.get("note", ""))}</td></tr>' for i, q in enumerate(pl["posters"], 1))
+            parts.append(f'<h2 id="{re.sub(r'[^a-z0-9]+', '-', pl['station'].lower()).strip('-')}">How to unlock {E(pl["station"])}</h2><p>{E(pl["what"])}</p>'
+                         f'<div class="tbl"><table class="songs"><thead><tr><th>#</th><th>Poster at</th><th>Exactly where</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div><p>{E(pl["after"])}'
+                         + (f' <a href="/stations/{st["slug"]}/">All {len(st["songs"])} songs on {E(pl["station"])}</a>.' if st else "") + "</p>")
+            steps += [{"@type": "HowToStep", "name": f'{pl["station"]}: {q["place"]}', "text": f'{q["area"]}. {q["where"]}. {q.get("note", "")}'.strip()} for q in pl["posters"]]
+        refs = "".join(f'<li><a href="{E(u)}" rel="noopener">{E(t)}</a></li>' for t, u in un["sources"])
+        simple("/gta-6/secret-playlists/", "GTA 6 secret playlists: how to unlock The Vault Radio and Kodak Black's The Sniper of La Perle",
+               "Every poster location for GTA 6's two hidden playlists: The Vault Radio (one poster) and Kodak Black's The Sniper of La Perle (four), where each one is, what gates them and where they play.",
+               nav + f'<p class="lede">{E(un["intro"])}</p>' + "".join(parts) + f'<h2>Good to know</h2><ul class="plain">{"".join(f"<li>{E(x)}</li>" for x in un["notes"])}</ul><h2>Sources</h2><ul class="plain">{refs}</ul>',
+               [{"@context": "https://schema.org", "@type": "HowTo", "name": "How to unlock the secret playlists in GTA 6", "description": un["intro"], "step": steps},
+                faq_ld([{"q": f'How do you unlock {pl["station"]} in GTA 6?', "a": pl["short"]} for pl in un["playlists"]]),
+                crumbs([(NAME, "/"), ("GTA VI: the music", "/gta-6/"), ("Secret playlists", "/gta-6/secret-playlists/")])], "gta-6", True)
+    # GTA VI-only data
+    rows = [{"station": x["name"], "artist": t["artist"], "title": t["title"], "year": t["year"], "note": t["note"], "source": t["source"], "station_url": f"{SITE}/stations/{x['slug']}/"} for x, t in songs]
+    write("gta6-tracks.json", json.dumps({"note": f"Every song on Grand Theft Auto VI's radio, {len(rows)} rows ({uniq} different songs), from Rockstar's published credits. Updated {STAMP.isoformat()}. Independent; not affiliated with Rockstar Games.", "tracks": rows}, ensure_ascii=False))
+    buf = io.StringIO(); w = csv.DictWriter(buf, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
+    write("gta6-tracks.csv", buf.getvalue())
+    write("gta6-stations.json", json.dumps([{"station": x["name"], "format": x["meta"].get("genre", ""), "hosts": [{"on_air_as": h.get("host_character", ""), "played_by": h.get("voiced_by", ""), "notes": h.get("notes", "")} for h in x["hosts"]],
+                                           "shows": [r.get("show", "") for r in x["talk"]], "songs": len(x["songs"]), "notes": x["meta"].get("notes", ""), "url": f"{SITE}/stations/{x['slug']}/"} for x in sts], indent=1, ensure_ascii=False))
+    return uniq, len(by), n_h
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     for i, s in enumerate(sections):
@@ -799,8 +889,9 @@ def main():
         station_page(st)
     hub()
     all_page()
+    g6u, g6a, g6h = gta6_pages()
     simple("/stations/", "Every Grand Theft Auto radio station", f"All {len(SL)} radio stations across every Grand Theft Auto game, 1997 to GTA VI, with genres, hosts and full tracklists.",
-           f'<p class="lede">{len(SL)} stations and {N_SONGS:,} songs, from the first Grand Theft Auto in 1997 to the six stations announced for GTA VI. Tap one for the tracklist and the hosts.</p>' + m_stations(),
+           f'<p class="lede">{len(SL)} stations and {N_SONGS:,} songs, from the first Grand Theft Auto in 1997 to the 23 stations of GTA VI. Tap one for the tracklist and the hosts.</p>' + m_stations(),
            [dataset("Grand Theft Auto radio stations", "Every radio station in every Grand Theft Auto game with genre and host.", "/stations/", [("stations.json", "application/json")]), crumbs([(NAME, "/"), ("Stations", "/stations/")])], "stations", True)
     simple("/songs/", "Every song on GTA radio", f"Search {N_SONGS:,} songs across every Grand Theft Auto radio station, with removed songs marked and dated.",
            m_songs() + '<p>Take it with you: <a href="/tracks.json">tracks.json</a> · <a href="/tracks.csv">tracks.csv</a>.</p>',
@@ -833,12 +924,20 @@ def main():
     write("sources.json", json.dumps([{"n": n, "title": t, "url": u} for n, (k, (t, u)) in sorted(nsrc.items())], indent=1, ensure_ascii=False))
     write("glossary.json", json.dumps(glossary, indent=1, ensure_ascii=False))
     write("timeline.json", json.dumps(timeline, indent=1, ensure_ascii=False))
-    urls = ["/", "/all/", "/stations/", "/songs/", "/removed/", "/glossary/", "/sources/", "/corrections/"] + [f"/{s['slug']}/" for s in sections] + [f"/stations/{s['slug']}/" for s in SL]
+    urls = ["/", "/all/", "/stations/", "/songs/", "/removed/", "/glossary/", "/sources/", "/corrections/", "/gta-6/songs/", "/gta-6/artists/", "/gta-6/hosts/", "/gta-6/secret-playlists/"] + [f"/{s['slug']}/" for s in sections] + [f"/stations/{s['slug']}/" for s in SL]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{STAMP.isoformat()}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
     llms = [f"# {seo.get('title', NAME)}", "", f"> {seo.get('description', '')}", "",
             f"Independent cited guide, {WORDS:,} words, {len(nsrc)} sources, updated {STAMP.isoformat()}. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.",
-            "GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.", "", "## Sections"]
+            "GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.", "",
+            "## GTA VI (GTA 6) quick answers",
+            f"- Released November 19, 2026. 23 radio stations (21 music, 2 talk) plus one hidden playlist; {g6u} different licensed songs on them, per the credits Rockstar published.",
+            f"- Every GTA 6 song, by station: {SITE}/gta-6/songs/ (data: {SITE}/gta6-tracks.json, {SITE}/gta6-tracks.csv)",
+            f"- Is an artist in GTA 6? {g6a} credited acts A to Z with song and station: {SITE}/gta-6/artists/",
+            f"- Who hosts each GTA 6 station ({g6h} hosts) and every show and podcast cast: {SITE}/gta-6/hosts/ (data: {SITE}/gta6-stations.json)",
+            f"- How to unlock The Vault Radio and Kodak Black's The Sniper of La Perle, poster by poster: {SITE}/gta-6/secret-playlists/",
+            f"- Album, score, sales, cameos, leaks checked against the release: {SITE}/gta-6/",
+            "- One page per station at /stations/gta6-<name>/, for example " + SITE + "/stations/gta6-flash-fm/", "", "## Sections"]
     llms += [f"- [{s['title']}]({SITE}/{s['slug']}/): {s['short']}" for s in sections]
     llms += ["", "## Data", f"- Every song: {SITE}/tracks.json and {SITE}/tracks.csv ({N_SONGS} rows: game, station, artist, title, year, added, removed, note, source)",
              f"- Every station: {SITE}/stations.json ({len(SL)} stations, each with a page at {SITE}/stations/<slug>/)",

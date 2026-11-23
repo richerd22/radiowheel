@@ -1,0 +1,75 @@
+{
+ "intro": "Grand Theft Auto VI hides two playlists behind five posters. The game calls them Unique Playlists, and both count toward 100% completion. You scan each poster with Waink It, an app on Jason's or Lucia's phone; the phone pings you when one is close.",
+ "playlists": [
+  {
+   "station": "The Vault Radio",
+   "what": "A 24-song house station hosted by DJ Pretzel. One poster unlocks it, and no guide lists a story requirement.",
+   "short": "Scan the poster on the back wall of the entrance corridor at The Vault nightclub, south of Jack of Hearts toward Downtown Vice City, with the Waink It phone app. The station then appears on the radio wheel.",
+   "posters": [
+    {
+     "place": "The Vault (nightclub)",
+     "area": "South of Jack of Hearts, toward Downtown Vice City. PC Gamer places it in Crosstown, PowerPyx in Downtown.",
+     "where": "Walk into the entrance corridor and look at the back wall",
+     "note": "Described as a pink gas mask poster by one guide and as a red poster by another."
+    }
+   ],
+   "after": "Once scanned, The Vault Radio sits on the radio wheel with the other stations and plays in a car or through headphones."
+  },
+  {
+   "station": "The Sniper of La Perle",
+   "what": "A 22-song playlist hosted by Kodak Black and presented by Michaël Brun, mixing Kodak's tracks with Haitian music. Four posters unlock it: three in La Perle, the Haitian district in the northwest corner of Vice-Dale County between Stockyard and Rockridge, and one in Crosstown.",
+   "short": "Scan four posters with the Waink It phone app: at TWA Ponya Tattoo, Drip Drops and Aunt Zola's Soul Food in La Perle, and in the recording studio on the second floor of Jack of Hearts in Crosstown, which opens in chapter 3. The playlist then appears under On Demand.",
+   "posters": [
+    {
+     "place": "TWA Ponya Tattoo",
+     "area": "La Perle",
+     "where": "Look right as you walk in: on a small table by the door",
+     "note": ""
+    },
+    {
+     "place": "Drip Drops (clothing store)",
+     "area": "La Perle",
+     "where": "On the counter by the cash register, beside the clerk",
+     "note": ""
+    },
+    {
+     "place": "Aunt Zola's Soul Food",
+     "area": "La Perle",
+     "where": "Immediately left of the entrance, on a corkboard in front of the register",
+     "note": ""
+    },
+    {
+     "place": "Jack of Hearts (club and recording studio)",
+     "area": "Crosstown",
+     "where": "Second floor, inside the recording studio",
+     "note": "Not reachable until the story takes you to Jack of Hearts in chapter 3. PC Gamer has the poster on a table beside a fan in the control room; PowerPyx has it on a crate in the eastern recording booth."
+    }
+   ],
+   "after": "With all four scanned, the playlist appears under On Demand, the same menu as the podcasts, and plays in a car or through headphones."
+  }
+ ],
+ "notes": [
+  "Progress is tracked under Progress Menu, Collections, Exploration, Unique Playlists.",
+  "The game does not mark a poster as scanned. The only way to check one is to go back and scan it again.",
+  "Either lead character can scan.",
+  "Guides disagree on small details, noted in the tables. Where they do, both versions are given."
+ ],
+ "sources": [
+  [
+   "PC Gamer (Andrea Shearon), November 21, 2026",
+   "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
+  ],
+  [
+   "PowerPyx: GTA 6 All Unique Playlist Collectible Locations",
+   "https://www.powerpyx.com/gta-6-all-unique-playlist-collectible-locations/"
+  ],
+  [
+   "Everything Edinburgh, November 21, 2026",
+   "https://everythingedinburgh.com/games/news/gta-6-secret-playlists-kodak-black-vault-radio/"
+  ],
+  [
+   "Rockstar Games: Grand Theft Auto VI credits",
+   "https://www.rockstargames.com/VI/credits"
+  ]
+ ]
+}

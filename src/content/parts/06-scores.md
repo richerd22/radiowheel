@@ -1,6 +1,6 @@
 ## The scores: music written for the games
 
-**The short version:** For its first decade, Grand Theft Auto's original music was mostly in-house songs credited to fictional bands, played on the radio rather than under the action. GTA V (2013) brought a full original score, which Rockstar called its first fully collaborative score, built by Tangerine Dream, Woody Jackson, The Alchemist and Oh No as layered stems that react to play.[^scr-rollingstone-2013] Red Dead Redemption, Red Dead Redemption 2, Max Payne 3 and GTA Online all got scores of their own, and Justice is scoring GTA VI.[^scr-stereogum-2026]
+**The short version:** For its first decade, Grand Theft Auto's original music was mostly in-house songs credited to fictional bands, played on the radio rather than under the action. GTA V (2013) brought a full original score, which Rockstar called its first fully collaborative score, built by Tangerine Dream, Woody Jackson, The Alchemist and Oh No as layered stems that react to play.[^scr-rollingstone-2013] Red Dead Redemption, Red Dead Redemption 2, Max Payne 3 and GTA Online all got scores of their own, and Justice scored GTA VI, with Overmono and 17 more acts credited beside them.[^scr-stereogum-2026]
 
 ### Did early GTA have original music?
 

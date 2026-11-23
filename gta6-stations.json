@@ -1,0 +1,502 @@
+[
+ {
+  "station": "AfroBank FM",
+  "format": "African classics, amapiano, 3-step",
+  "hosts": [
+   {
+    "on_air_as": "Burna",
+    "played_by": "Burna Boy",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Palmsy",
+    "played_by": "Jay Donaldson",
+    "notes": "Records as Palms Trax, the name Rockstar announced him under."
+   }
+  ],
+  "shows": [],
+  "songs": 31,
+  "notes": "",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-afrobank-fm/"
+ },
+ {
+  "station": "Back Country Radio",
+  "format": "Renegade country",
+  "hosts": [
+   {
+    "on_air_as": "MW",
+    "played_by": "Morgan Wallen",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Delta Dawne",
+    "played_by": "Lana Del Rey",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Mud Dog Mike",
+    "played_by": "Jeremy Dufrene",
+    "notes": "Swamp meteorologist and roving reporter, on air from an airboat."
+   }
+  ],
+  "shows": [],
+  "songs": 24,
+  "notes": "Mud Dog Mike files weather reports from an airboat in the Grassrivers.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-back-country-radio/"
+ },
+ {
+  "station": "CircoLoco Records Radio",
+  "format": "House and techno",
+  "hosts": [
+   {
+    "on_air_as": "DJ Seth",
+    "played_by": "Seth Troxler",
+    "notes": ""
+   },
+   {
+    "on_air_as": "DJ Antonio",
+    "played_by": "Antonio Carbonaro",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 27,
+  "notes": "Named for the label Rockstar runs with CircoLoco.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-circoloco-records-radio/"
+ },
+ {
+  "station": "Cocoteo FM",
+  "format": "Modern Latin: bachata, merengue, dembow, reggaeton",
+  "hosts": [
+   {
+    "on_air_as": "El Martillo",
+    "played_by": "Bad Bunny",
+    "notes": "Bad Bunny is also credited in the cast as Mitico Mario."
+   },
+   {
+    "on_air_as": "La Gata",
+    "played_by": "RaiNao",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 30,
+  "notes": "",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-cocoteo-fm/"
+ },
+ {
+  "station": "Dirty South Classics",
+  "format": "Southern rap",
+  "hosts": [
+   {
+    "on_air_as": "Trina",
+    "played_by": "Trina",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Trick Daddy",
+    "played_by": "Trick Daddy",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Gucci Mane",
+    "played_by": "Gucci Mane",
+    "notes": "Hosts The Tap In."
+   }
+  ],
+  "shows": [
+   "The Tap In"
+  ],
+  "songs": 39,
+  "notes": "Carries The Tap In, hosted by Gucci Mane.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-dirty-south-classics/"
+ },
+ {
+  "station": "Emotion 98.3",
+  "format": "Soft rock and ballads",
+  "hosts": [
+   {
+    "on_air_as": "Doug Van Dyke",
+    "played_by": "Doug Stanhope",
+    "notes": "Also credited with additional writing."
+   }
+  ],
+  "shows": [],
+  "songs": 35,
+  "notes": "Back from GTA Vice City.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-emotion-98-3/"
+ },
+ {
+  "station": "Flash FM",
+  "format": "Pop and dance",
+  "hosts": [
+   {
+    "on_air_as": "Robyn",
+    "played_by": "Robyn",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Alex Consani",
+    "played_by": "Alex Consani",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 80,
+  "notes": "Back from GTA Vice City.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-flash-fm/"
+ },
+ {
+  "station": "Gloriana Blues Radio",
+  "format": "Gospel blues to Chicago electric blues",
+  "hosts": [
+   {
+    "on_air_as": "DJ Buddy",
+    "played_by": "Buddy Guy",
+    "notes": ""
+   },
+   {
+    "on_air_as": "DJ Keith",
+    "played_by": "Keith Richards",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 23,
+  "notes": "",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-gloriana-blues-radio/"
+ },
+ {
+  "station": "Honey FM",
+  "format": "1990s and 2000s R&B and soul",
+  "hosts": [
+   {
+    "on_air_as": "Chilli",
+    "played_by": "Chilli",
+    "notes": "Of TLC."
+   },
+   {
+    "on_air_as": "T-Boz",
+    "played_by": "T-Boz",
+    "notes": "Of TLC."
+   },
+   {
+    "on_air_as": "Liquid Wilson",
+    "played_by": "Craig Robinson",
+    "notes": "Hosts Liquid City."
+   }
+  ],
+  "shows": [
+   "Liquid City"
+  ],
+  "songs": 52,
+  "notes": "Carries Liquid City, hosted by Liquid Wilson (Craig Robinson), which has eight original songs.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-honey-fm/"
+ },
+ {
+  "station": "Kaleidoscope FM",
+  "format": "International pop",
+  "hosts": [
+   {
+    "on_air_as": "DJ Dicky",
+    "played_by": "Jeremy Irons",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 18,
+  "notes": "A station called Kaleidoscope first aired in GTA London 1969. Much of the playlist is covers of English-language hits in other languages.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-kaleidoscope-fm/"
+ },
+ {
+  "station": "Leonida Jazz Radio",
+  "format": "Jazz fusion",
+  "hosts": [
+   {
+    "on_air_as": "DJ Randy",
+    "played_by": "Randy Brecker",
+    "notes": ""
+   },
+   {
+    "on_air_as": "DJ Stanley",
+    "played_by": "Stanley Clarke",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Yussef Dayes",
+    "played_by": "Yussef Dayes",
+    "notes": "Hosts The Nook."
+   }
+  ],
+  "shows": [
+   "The Nook"
+  ],
+  "songs": 36,
+  "notes": "Carries The Nook, hosted by Yussef Dayes.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-leonida-jazz-radio/"
+ },
+ {
+  "station": "Radio La Ola",
+  "format": "Classic Latin and salsa",
+  "hosts": [
+   {
+    "on_air_as": "Emilio",
+    "played_by": "Emilio Estefan",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Gloria",
+    "played_by": "Gloria Estefan",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 25,
+  "notes": "Also listed as La Ola.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-radio-la-ola/"
+ },
+ {
+  "station": "Radio On-U",
+  "format": "Reggae, dub and lovers rock",
+  "hosts": [
+   {
+    "on_air_as": "Adrian Sherwood",
+    "played_by": "Adrian Sherwood",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 16,
+  "notes": "Named after Adrian Sherwood's On-U Sound label.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-radio-on-u/"
+ },
+ {
+  "station": "Stockyard FM",
+  "format": "Indie dance and electronic",
+  "hosts": [
+   {
+    "on_air_as": "Harrison",
+    "played_by": "The Dare",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Victoria",
+    "played_by": "PinkPantheress",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 37,
+  "notes": "",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-stockyard-fm/"
+ },
+ {
+  "station": "Symphony FM",
+  "format": "Classical",
+  "hosts": [
+   {
+    "on_air_as": "Yuja",
+    "played_by": "Yuja Wang",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 16,
+  "notes": "",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-symphony-fm/"
+ },
+ {
+  "station": "The Chamber 106.6",
+  "format": "Metal from the 1980s on",
+  "hosts": [
+   {
+    "on_air_as": "DJ Kerry",
+    "played_by": "Kerry King",
+    "notes": "Of Slayer."
+   },
+   {
+    "on_air_as": "DJ Tom",
+    "played_by": "Tom Araya",
+    "notes": "Of Slayer."
+   },
+   {
+    "on_air_as": "Big Fan Brian",
+    "played_by": "Brian Posehn",
+    "notes": "Posehn is also credited with additional writing."
+   }
+  ],
+  "shows": [],
+  "songs": 22,
+  "notes": "",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-the-chamber-106-6/"
+ },
+ {
+  "station": "The Sniper of La Perle",
+  "format": "Hidden playlist: Haitian music and Kodak Black",
+  "hosts": [
+   {
+    "on_air_as": "Kodak Black",
+    "played_by": "Kodak Black",
+    "notes": "Presented by Michaël Brun."
+   }
+  ],
+  "shows": [],
+  "songs": 22,
+  "notes": "A 22-song hidden playlist. To unlock it, scan four posters with the Waink It phone app: at TWA Ponya Tattoo, Drip Drops and Aunt Zola's Soul Food in La Perle, and in the recording studio upstairs at Jack of Hearts in Crosstown, which opens in chapter 3. It then plays under On Demand.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-the-sniper-of-la-perle/"
+ },
+ {
+  "station": "The Vault Radio",
+  "format": "House and club remixes",
+  "hosts": [
+   {
+    "on_air_as": "DJ Pretzel",
+    "played_by": "DJ Pretzel",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 24,
+  "notes": "The 23rd station, and a hidden one. To unlock it, scan the poster on the back wall of the entrance corridor at The Vault nightclub, south of Jack of Hearts, with the Waink It phone app. It then sits on the radio wheel.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-the-vault-radio/"
+ },
+ {
+  "station": "The Wipe",
+  "format": "Talk",
+  "hosts": [
+   {
+    "on_air_as": "Dr. Nita",
+    "played_by": "Anitta",
+    "notes": "Hosts Ask Dr. Nita."
+   },
+   {
+    "on_air_as": "Enrique \"El Enigma\" Romero",
+    "played_by": "John Leguizamo",
+    "notes": "Hosts El Otro Lado."
+   },
+   {
+    "on_air_as": "Tish",
+    "played_by": "Janelle James",
+    "notes": "Hosts She Got Assets. James is also credited with additional writing."
+   }
+  ],
+  "shows": [
+   "Ask Dr. Nita",
+   "El Otro Lado",
+   "She Got Assets"
+  ],
+  "songs": 0,
+  "notes": "Podcast-style talk.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-the-wipe/"
+ },
+ {
+  "station": "V-Rock",
+  "format": "Classic and hard rock",
+  "hosts": [
+   {
+    "on_air_as": "The Buck",
+    "played_by": "Lindsey Buckingham",
+    "notes": ""
+   },
+   {
+    "on_air_as": "Skipper McD",
+    "played_by": "Michael McDonald",
+    "notes": "Also sings on Justice's score track \"Starting From Zero.\""
+   }
+  ],
+  "shows": [],
+  "songs": 70,
+  "notes": "Back from GTA Vice City, vulture logo included.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-v-rock/"
+ },
+ {
+  "station": "VCRR",
+  "format": "Modern hip-hop",
+  "hosts": [
+   {
+    "on_air_as": "DJ JT",
+    "played_by": "JT",
+    "notes": ""
+   },
+   {
+    "on_air_as": "DJ Stevie",
+    "played_by": "DJ Stevie J",
+    "notes": "Also has his own 24-song mix."
+   },
+   {
+    "on_air_as": "Charlamagne",
+    "played_by": "Charlamagne tha God",
+    "notes": "Co-hosts Early AF."
+   },
+   {
+    "on_air_as": "Ivy",
+    "played_by": "Ivy Rivera",
+    "notes": "Co-hosts Early AF."
+   }
+  ],
+  "shows": [
+   "Early AF"
+  ],
+  "songs": 93,
+  "notes": "Credited in full as Vice City Rap Radio. Carries Early AF, with Charlamagne tha God and Ivy Rivera, and mixes by Bodega the DJ and DJ Stevie J.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-vcrr/"
+ },
+ {
+  "station": "Vice City FM",
+  "format": "1980s new wave and pop",
+  "hosts": [
+   {
+    "on_air_as": "DJ Al",
+    "played_by": "\"Weird Al\" Yankovic",
+    "notes": "Also credited with additional writing and radio-ad music."
+   },
+   {
+    "on_air_as": "Madame Brigitte",
+    "played_by": "Brigitte Nielsen",
+    "notes": ""
+   }
+  ],
+  "shows": [],
+  "songs": 71,
+  "notes": "Back from GTA IV: The Ballad of Gay Tony.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-vice-city-fm/"
+ },
+ {
+  "station": "WKTT",
+  "format": "Conservative talk",
+  "hosts": [
+   {
+    "on_air_as": "Richard Bastion",
+    "played_by": "Jason Sudeikis",
+    "notes": "Hosts The Richard Bastion Show."
+   },
+   {
+    "on_air_as": "Dominic \"The Brick\" Brizzolato",
+    "played_by": "Stavros Halkias",
+    "notes": "Hosts Hit the Bricks. Halkias is also credited with additional writing."
+   }
+  ],
+  "shows": [
+   "The Richard Bastion Show",
+   "Hit the Bricks"
+  ],
+  "songs": 0,
+  "notes": "Back from GTA IV. The letters stand for We Know The Truth.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-wktt/"
+ },
+ {
+  "station": "Worldwide FM",
+  "format": "Global club, house and jazz",
+  "hosts": [
+   {
+    "on_air_as": "Gilles Peterson",
+    "played_by": "Gilles Peterson",
+    "notes": "Hosted the same station in GTA V."
+   }
+  ],
+  "shows": [],
+  "songs": 40,
+  "notes": "Back from GTA V and GTA Online.",
+  "url": "https://radiowheel.cold.fyi/stations/gta6-worldwide-fm/"
+ }
+]
