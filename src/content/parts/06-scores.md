@@ -68,6 +68,8 @@ Justice. Rockstar named the duo as composers of GTA VI's original score on Octob
 
 The score has its own release track. On October 29, 2026, Justice released "Pusher", a song from the original score, and a 30-track score album is due December 11, 2026.[^scr-gameinformer-2026] Rockstar counts that as 30 main songs plus digital bonus tracks, and "Pusher" features Gesaffelstein - a featured artist, not a credited co-composer.[^gf-b-complex-2026] The game itself came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S.[^six-keengamer-all-2026]
 
+The work took about four years, by the duo's account, and each scene got 20 to 25 minutes of music so the score could keep up with any pace of play.[^six-billboard-cover-2026] Rockstar's brief was to avoid sounding like video game music.[^six-billboard-cover-2026]
+
 Justice did not work alone. The game's credits give the main score to Justice, an additional score to the British duo Overmono, and a supplemental score to 17 acts, among them 100 gecs, A. G. Cook, Bobby Krlic, Idles and Oh No, who co-wrote GTA V's.[^six-credits-2026] Boys Noize, Gesaffelstein, King Gizzard & the Lizard Wizard and Phil Collen are credited as featured on the main score, and Brady Custis holds the title "Music Director & Adaptive Score Composer."[^six-credits-2026]
 
 Rockstar has described its plans as "the next evolution of the pioneering in-game radio stations, dynamic score, and musical touchpoints".[^scr-mbw-2026] It calls the score adaptive, with compositions "dynamically tuned to the different ways players engage with the world."[^six-inven-score-2026] It has not said how long the score runs or who else wrote for it.

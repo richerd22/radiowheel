@@ -101,6 +101,8 @@ That works out to about 5 million between July and September 2026 - subtraction 
 
 GTA VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X|S.[^lic-taketwo-2026][^six-keengamer-all-2026] Beside its radio it has GTA VI: The Album, 34 original tracks made with Atlantic Records and announced September 17, 2026, including Keith Richards' cover of Jimmy Reed's "Bright Lights, Big City."[^lic-mbw-2026][^fc-ucr-2026] Justice composed the original score, and the game shipped with 22 radio stations, six of them with artist hosts named in advance.[^lic-stereogum-2026][^lic-keengamer-2026][^six-keengamer-all-2026] All three are covered in [GTA VI](/gta-6/).
 
+Rockstar's vice president of music, Ivan Pavlovich, told Billboard in November 2026 that the team licenses about three times as many songs as it ends up using, and that one of them, The Cars' "Drive," was a song Rockstar had failed to clear for Vice City in 2002.[^six-billboard-cover-2026] He did not discuss terms.
+
 What changes is the starting point. Licensed radio rents songs that already exist; a commissioned album and score are music made for the game. The open questions matter more: who owns the album's masters, what terms cover the stations' licensed tracks, and whether anything is perpetual. The Heaven 17 account suggests at least some GTA VI approaches were buyouts, and that is one artist's word.[^lic-mixmag-2024] A cover like the Keith Richards track still involves someone else's composition.
 
 ### Is the viral post about GTA song removals accurate?

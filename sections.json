@@ -249,7 +249,7 @@
   "title": "The scores: music written for the games",
   "short": "For its first decade, Grand Theft Auto's original music was mostly in-house songs credited to fictional bands, played on the radio rather than under the action. GTA V (2013) brought a full original score, which Rockstar called its first fully collaborative score, built by Tangerine Dream, Woody Jackson, The Alchemist and Oh No as layered stems that react to play. Red Dead Redemption, Red Dead Redemption 2, Max Payne 3 and GTA Online all got scores of their own, and Justice scored GTA VI, with Overmono and 17 more acts credited beside them.",
   "url": "https://radiowheel.cold.fyi/scores/",
-  "words": 1823,
+  "words": 1866,
   "sources": [
    3,
    5,
@@ -283,7 +283,8 @@
    166,
    167,
    168,
-   169
+   169,
+   170
   ]
  },
  {
@@ -302,7 +303,6 @@
    89,
    162,
    164,
-   170,
    171,
    172,
    173,
@@ -325,7 +325,8 @@
    190,
    191,
    192,
-   193
+   193,
+   194
   ]
  },
  {
@@ -339,12 +340,11 @@
    88,
    137,
    139,
-   172,
-   178,
-   181,
-   183,
+   173,
+   179,
+   182,
    184,
-   194,
+   185,
    195,
    196,
    197,
@@ -394,7 +394,8 @@
    241,
    242,
    243,
-   244
+   244,
+   245
   ]
  },
  {
@@ -403,7 +404,7 @@
   "title": "Why songs disappear: licenses, expiry and removals",
   "short": "A song on a GTA radio station is rented, not owned. Each licensed track needs permission for both the composition and the recording, usually for a fixed term, and when those permissions run out Rockstar patches the song out of the versions it still sells. That has happened to Vice City, San Andreas, GTA IV and, in September 2026, GTA V - a game Take-Two says has sold nearly 235 million units (official, November 2026). GTA VI arrived on November 19, 2026, with a commissioned 34-track album beside 829 licensed songs, and nobody has said how its music deals are built.",
   "url": "https://radiowheel.cold.fyi/licensing/",
-  "words": 4026,
+  "words": 4080,
   "sources": [
    1,
    2,
@@ -416,7 +417,7 @@
    153,
    154,
    165,
-   245,
+   167,
    246,
    247,
    248,
@@ -438,7 +439,8 @@
    264,
    265,
    266,
-   267
+   267,
+   268
   ]
  },
  {
@@ -447,7 +449,7 @@
   "title": "GTA VI: the music",
   "short": "Grand Theft Auto VI came out on November 19, 2026, on PlayStation 5 and Xbox Series X|S, after two delays. It has 23 radio stations - 21 music, two talk - and Rockstar's credits list 741 songs on them, plus three DJ mixes and five on-demand podcast series, a series first. The hosts run from Bad Bunny, Lana Del Rey and Robyn to Keith Richards, \"Weird Al\" Yankovic and Jeremy Irons. Rockstar and Atlantic's 34-track original album arrived the same day, and Justice's score follows as its own album on December 11. The station pages here follow the credits.",
   "url": "https://radiowheel.cold.fyi/gta-6/",
-  "words": 6652,
+  "words": 7420,
   "sources": [
    2,
    3,
@@ -458,7 +460,7 @@
    154,
    165,
    167,
-   267,
+   168,
    268,
    269,
    270,
@@ -498,7 +500,9 @@
    304,
    305,
    306,
-   307
+   307,
+   308,
+   309
   ]
  },
  {
@@ -507,7 +511,7 @@
   "title": "Test yourself, and where to dig next",
   "short": "Quiz yourself on everything above, learn the trade's vocabulary, run the timeline from 1997 to now, then dig into the best outside sources and the questions nobody has answered yet.",
   "url": "https://radiowheel.cold.fyi/next/",
-  "words": 7743,
+  "words": 7822,
   "sources": []
  }
 ]

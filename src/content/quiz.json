@@ -274,5 +274,17 @@
   "answer": 1,
   "why": "The credits give the main score to Justice, additional score to Overmono and a supplemental score to 17 more acts.",
   "section": "gta-6"
+ },
+ {
+  "q": "Which song did Rockstar fail to license for Vice City in 2002 and finally get for GTA VI?",
+  "options": [
+   "The Cars, \"Drive\"",
+   "Heaven 17, \"Temptation\"",
+   "Phil Collins, \"In the Air Tonight\"",
+   "Toto, \"Africa\""
+  ],
+  "answer": 0,
+  "why": "Billboard reports it is the first song a player hears on GTA VI's radio. The credits list it on Emotion 98.3.",
+  "section": "gta-6"
  }
 ]

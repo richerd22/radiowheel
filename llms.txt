@@ -2,7 +2,7 @@
 
 > An independent, cited guide to Rockstar Games' music: every Grand Theft Auto radio station and song, the hosts and talk radio, the scores, GTA Online's club era, CircoLoco Records, why songs disappear, and GTA VI's 23 stations, album and score.
 
-Independent cited guide, 44,735 words, 327 sources, updated 2026-11-23. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
+Independent cited guide, 45,679 words, 329 sources, updated 2026-11-23. Not affiliated with Rockstar Games, Take-Two, CircoLoco or any artist or label.
 GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only 'official' items are confirmed.
 
 ## GTA VI (GTA 6) quick answers
@@ -204,6 +204,7 @@ GTA VI facts are marked official, reported, leak or rumour in /gta6.json; only '
 - GTA VI: [Worldwide FM](https://radiowheel.cold.fyi/stations/gta6-worldwide-fm/) - 40 songs
 
 ## Sister guides
+- https://beam.cold.fyi/ - The Beam: how laser shows work
 - https://flip.cold.fyi/ - The Flip: how sampling works
 - https://groove.cold.fyi/ - The Groove: how a vinyl record is made
 - https://polo.cold.fyi/ - Polo: how Coachella works
