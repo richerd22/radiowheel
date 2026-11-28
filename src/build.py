@@ -617,7 +617,7 @@ def head(title, desc, path, ld=None, robots="index, follow, max-image-preview:la
 """
 
 
-SISTERS = [("beam", "The Beam", "how laser shows work"), ("flip", "The Flip", "how sampling works"), ("groove", "The Groove", "how a vinyl record is made"), ("polo", "Polo", "how Coachella works"), ("wristband", "The Wristband", "how music festivals work"),
+SISTERS = [("finale", "The Finale", "how fireworks work"), ("beam", "The Beam", "how laser shows work"), ("flip", "The Flip", "how sampling works"), ("groove", "The Groove", "how a vinyl record is made"), ("polo", "Polo", "how Coachella works"), ("wristband", "The Wristband", "how music festivals work"),
            ("lastcall", "Last Call", "how nightlife works"), ("showfile", "The Show File", "how a dance music show is made"),
            ("tickets", "The Ticket", "how a concert ticket gets from artist to fan"), ("airwaves", "The Airwaves", "every radio signal over a city"),
            ("noise", "The Noise", "every sound in a city"), ("streetcode", "Street Code", "every mark on the street"),
@@ -696,6 +696,13 @@ def section_page(i, s):
     write(f"{s['slug']}/index.html", head(f"{s['title']} | {NAME}", desc, f"/{s['slug']}/", ld) + body + foot())
 
 
+def photos_html(pl):
+    if not pl or not pl.get("photos"):
+        return ""
+    figs = "".join(f'<figure class="shot"><a href="/img/gta6/{x["file"]}-1600.jpg"><img src="/img/gta6/{x["file"]}-800.jpg" srcset="/img/gta6/{x["file"]}-800.jpg 800w, /img/gta6/{x["file"]}-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 700px" width="1600" height="900" loading="lazy" alt="{E(x["alt"])}"></a><figcaption>{E(x["caption"])}</figcaption></figure>' for x in pl["photos"])
+    return f'<div class="shots">{figs}</div><p class="credit">{E(pl.get("photo_credit", ""))}</p>'
+
+
 def station_page(st):
     g = GK[st["game"]]
     meta = st["meta"]
@@ -737,6 +744,7 @@ def station_page(st):
             + (f'<p class="lede">{E(meta["notes"])}</p>' if meta.get("notes") else "")
             + (f'<h2>Hosts</h2>{hosts_html}' if hosts_html else "") + talk_html
             + ('<p class="lede">The playlist as the Rockstar credits list it. More in <a href="/gta-6/">GTA VI: the music</a>, or see <a href="/gta-6/songs/">every GTA 6 song</a>, <a href="/gta-6/artists/">every artist</a> and <a href="/gta-6/hosts/">every host</a>.</p>' if st["game"] == "gta6" and st["songs"] else "")
+            + ((lambda pl: (f'<h2>How to unlock it</h2><p>{E(pl["short"])} <a href="/gta-6/secret-playlists/">Every poster location</a>.</p>' + photos_html(pl)) if pl else "")(next((p for p in (J("frag/gta6-unlock.json", {}) or {}).get("playlists", []) if p["station"] == st["name"]), None)) if st["game"] == "gta6" else "")
             + (f'<h2>Tracklist</h2><div class="tbl"><table class="songs tl-s"><thead><tr><th>#</th><th>Artist</th><th>Song</th><th>Year</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>' if rows else "")
             + sib_html + oth_html
             + f'<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=radiowheel.cold.fyi%20-%20{E(st["slug"])}">Wrong or missing song? Tell us.</a></p>'
@@ -861,7 +869,7 @@ def gta6_pages():
             st = next((x for x in sts if x["name"] == pl["station"]), None)
             rows = "".join(f'<tr><td class="k">{i}</td><td><b>{E(q["place"])}</b><br>{E(q["area"])}</td><td>{E(q["where"])}</td><td>{E(q.get("note", ""))}</td></tr>' for i, q in enumerate(pl["posters"], 1))
             parts.append(f'<h2 id="{re.sub(r'[^a-z0-9]+', '-', pl['station'].lower()).strip('-')}">How to unlock {E(pl["station"])}</h2><p>{E(pl["what"])}</p>'
-                         f'<div class="tbl"><table class="songs"><thead><tr><th>#</th><th>Poster at</th><th>Exactly where</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div><p>{E(pl["after"])}'
+                         f'<div class="tbl"><table class="songs"><thead><tr><th>#</th><th>Poster at</th><th>Exactly where</th><th>Notes</th></tr></thead><tbody>{rows}</tbody></table></div>' + photos_html(pl) + f'<p>{E(pl["after"])}'
                          + (f' <a href="/stations/{st["slug"]}/">All {len(st["songs"])} songs on {E(pl["station"])}</a>.' if st else "") + "</p>")
             steps += [{"@type": "HowToStep", "name": f'{pl["station"]}: {q["place"]}', "text": f'{q["area"]}. {q["where"]}. {q.get("note", "")}'.strip()} for q in pl["posters"]]
         refs = "".join(f'<li><a href="{E(u)}" rel="noopener">{E(t)}</a></li>' for t, u in un["sources"])
@@ -952,6 +960,10 @@ def main():
     write("favicon.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="31" fill="#0b0c10"/>' + "".join(
         f'<path d="M{32 + 29 * math.cos(math.radians(a)):.1f},{32 + 29 * math.sin(math.radians(a)):.1f} A29,29 0 0 1 {32 + 29 * math.cos(math.radians(a + 40)):.1f},{32 + 29 * math.sin(math.radians(a + 40)):.1f} L{32 + 15 * math.cos(math.radians(a + 40)):.1f},{32 + 15 * math.sin(math.radians(a + 40)):.1f} A15,15 0 0 0 {32 + 15 * math.cos(math.radians(a)):.1f},{32 + 15 * math.sin(math.radians(a)):.1f}Z" fill="{"#ff6b35" if i == 0 else "#2a2e38"}"/>'
         for i, a in enumerate(range(-88, 272, 45))) + '<circle cx="32" cy="32" r="11" fill="#ffb43a"/></svg>')
+    for f in glob.glob(f"{R}/img/**/*.jpg", recursive=True):
+        dst = f"{OUT}/img/" + os.path.relpath(f, f"{R}/img")
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        open(dst, "wb").write(open(f, "rb").read())
     os.makedirs(f"{OUT}/fonts", exist_ok=True)
     for f in glob.glob(f"{HERE}/fonts/*.woff2"):
         open(f"{OUT}/fonts/{os.path.basename(f)}", "wb").write(open(f, "rb").read())

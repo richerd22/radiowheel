@@ -205,3 +205,9 @@ ul.plain{padding-left:1.1rem}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 .layout>.col{width:100%}article table,.tbl{max-width:100%}
 .allsec table{width:100%;border-collapse:collapse;display:block;overflow-x:auto;font-size:.98rem}.allsec th,.allsec td{text-align:left;padding:.5rem .6rem;border-bottom:1px solid var(--line);vertical-align:top}
+.shots{display:grid;gap:.8rem;margin:1.2rem 0 .3rem}
+.shot{margin:0;background:var(--dash);border:1px solid var(--dash-line);border-radius:6px;overflow:hidden}
+.shot img{display:block;width:100%;height:auto;max-width:100%}
+.shot figcaption{font:400 .78rem/1.4 var(--f-mono);color:var(--dash-ink);padding:.55rem .75rem;border-top:1px solid var(--dash-line)}
+.credit{font:400 .72rem/1.4 var(--f-mono);color:var(--muted);margin:.2rem 0 1rem}
+main img{max-width:100%;height:auto;border-radius:6px}

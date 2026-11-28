@@ -4,16 +4,34 @@
   {
    "station": "The Vault Radio",
    "what": "A 24-song house station hosted by DJ Pretzel. One poster unlocks it, and no guide lists a story requirement.",
-   "short": "Scan the poster on the back wall of the entrance corridor at The Vault nightclub, south of Jack of Hearts toward Downtown Vice City, with the Waink It phone app. The station then appears on the radio wheel.",
+   "short": "Go to The Vault nightclub, south of Jack of Hearts toward Downtown Vice City, and scan the red \"The Vault\" poster (a gas mask wrapped in flowers) on the back wall of the entrance corridor with the Waink It phone app. The game shows \"The Vault Radio - Complete\" and the station appears on the radio wheel.",
    "posters": [
     {
      "place": "The Vault (nightclub)",
      "area": "South of Jack of Hearts, toward Downtown Vice City. PC Gamer places it in Crosstown, PowerPyx in Downtown.",
-     "where": "Walk into the entrance corridor and look at the back wall",
-     "note": "Described as a pink gas mask poster by one guide and as a red poster by another."
+     "where": "Walk into the entrance corridor and look at the back wall, between the ticket window and the door marked \"This is not a drill\"",
+     "note": "Scan the red poster: \"The Vault\" in black over a gas mask wrapped in flowers, with \"Our secret is safe\" on top and \"Get locked in\" at the bottom. The teal \"Reborn\" poster beside it is not the one."
     }
    ],
-   "after": "Once scanned, The Vault Radio sits on the radio wheel with the other stations and plays in a car or through headphones."
+   "after": "Scan it and the game shows \"The Vault Radio - Complete\". The station, which the game bills as \"Vice City's most exclusive DJ mixes,\" then sits on the radio wheel with the other stations.",
+   "photos": [
+    {
+     "file": "vault-radio-poster-corridor",
+     "alt": "The entrance corridor of The Vault nightclub in GTA 6: a teal Reborn poster and a red The Vault poster on a brick wall, a ticket window on the right.",
+     "caption": "The corridor. The red poster on the right is the one."
+    },
+    {
+     "file": "vault-radio-poster-scan",
+     "alt": "Close view of the red The Vault poster with the Waink It scan reticle on it and the Waink It R1 prompt.",
+     "caption": "Aim Waink It at the red poster."
+    },
+    {
+     "file": "vault-radio-unlocked",
+     "alt": "GTA 6 notification reading The Vault Radio, Complete, with the description Vice City's most exclusive DJ mixes.",
+     "caption": "Unlocked."
+    }
+   ],
+   "photo_credit": "Screenshots: Richard Lathrop, PS5, November 2026."
   },
   {
    "station": "The Sniper of La Perle",
